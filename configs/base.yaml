@@ -1,0 +1,122 @@
+# Base configuration file merging dataset and model definitions
+
+# Dataset configuration
+#
+# IMPORTANT — per-variant dataset routing:
+#   The default block below is used for step1-syn (mic7ch/manchu-2025-0033 train/validation).
+#   step1-real and *-final variants train on HenryKingCN/scidb_manchu_v2 train/test.
+#   *-mix variants concatenate both datasets at the train split level.
+#   Note that scidb_manchu_v2 has only train (20,306) / test (3,359) — no validation.
+#   Its `test` split is used as a *training-time validation signal* for step1-real and *-final;
+#   it is NOT the paper's reported test set, which lives in mic7ch/manchu-2025-0033 test (753).
+#   See README and the launch helpers in scripts/launch_*_*.sh for the canonical CLI flags.
+data:
+  dataset_name: mic7ch/manchu-2025-0033
+  train_split: train
+  val_split: validation
+  test_split: test
+  image_key: im
+  cache: true
+  text_key:
+    - manchu
+    - roman
+
+  instruction: |
+    You are an expert OCR system for Manchu script. Extract the text from the provided image with perfect accuracy. Format your answer exactly as follows: first line with 'Manchu:' followed by the Manchu script, then a new line with 'Roman:' followed by the romanized transliteration.
+
+# Per-variant dataset overrides (consumed by launch helpers / train.py CLI flags)
+data_routing:
+  # step1-syn: mic7ch synthetic — default block above is correct
+  llama-step1-syn:    {dataset_name: "mic7ch/manchu-2025-0033", train_split: train, val_split: validation}
+  pixtral-step1-syn:  {dataset_name: "mic7ch/manchu-2025-0033", train_split: train, val_split: validation}
+  qwen-step1-syn:     {dataset_name: "mic7ch/manchu-2025-0033", train_split: train, val_split: validation}
+  crnn-step1-syn:     {dataset_name: "mic7ch/manchu-2025-0033", train_split: train, val_split: validation}
+
+  # step1-real: SCIDB real only (uses scidb's `test` split as training-time val)
+  llama-step1-real:   {dataset_name: "HenryKingCN/scidb_manchu_v2", train_split: train, val_split: test}
+  pixtral-step1-real: {dataset_name: "HenryKingCN/scidb_manchu_v2", train_split: train, val_split: test}
+  qwen-step1-real:    {dataset_name: "HenryKingCN/scidb_manchu_v2", train_split: train, val_split: test}
+  crnn-step1-real:    {dataset_name: "HenryKingCN/scidb_manchu_v2", train_split: train, val_split: test}
+
+  # mix: 60k mic7ch synthetic + 20k scidb real → 80,306 train examples; mic7ch validation for val
+  llama-mix:    {dataset_name: "mic7ch/manchu-2025-0033,HenryKingCN/scidb_manchu_v2", train_split: train, val_split: validation}
+  pixtral-mix:  {dataset_name: "mic7ch/manchu-2025-0033,HenryKingCN/scidb_manchu_v2", train_split: train, val_split: validation}
+  qwen-mix:     {dataset_name: "mic7ch/manchu-2025-0033,HenryKingCN/scidb_manchu_v2", train_split: train, val_split: validation}
+  crnn-mix:     {dataset_name: "mic7ch/manchu-2025-0033,HenryKingCN/scidb_manchu_v2", train_split: train, val_split: validation}
+
+  # final: stage-2 fine-tune of step1-syn checkpoint on SCIDB real (scidb's test as val signal)
+  llama-final:   {dataset_name: "HenryKingCN/scidb_manchu_v2", train_split: train, val_split: test}
+  pixtral-final: {dataset_name: "HenryKingCN/scidb_manchu_v2", train_split: train, val_split: test}
+  qwen-final:    {dataset_name: "HenryKingCN/scidb_manchu_v2", train_split: train, val_split: test}
+  crnn-final:    {dataset_name: "HenryKingCN/scidb_manchu_v2", train_split: train, val_split: test}
+
+# Models configuration
+models:
+  # LLaMA family
+  # llama-final is trained FROM our locally-produced step1-syn output.
+  # Run `train.py --target_model llama-step1-syn` first.
+  - name: llama-final
+    base_model: local:models/VLM/llama-step1-syn-v2/checkpoints/checkpoint-17000
+    model_class: VLM
+  # Wave-1 LLaMA models train from the raw Unsloth VLM (for replicability).
+  - name: llama-step1-syn
+    base_model: unsloth/Llama-3.2-11B-Vision-Instruct
+    model_class: VLM
+  - name: llama-step1-real
+    base_model: unsloth/Llama-3.2-11B-Vision-Instruct
+    model_class: VLM
+  - name: llama-mix
+    base_model: unsloth/Llama-3.2-11B-Vision-Instruct
+    model_class: VLM
+
+  # Pixtral family
+  # pixtral-final is trained FROM our locally-produced step1-syn output.
+  - name: pixtral-final
+    base_model: local:models/VLM/pixtral-step1-syn/best_model
+    model_class: VLM
+  # Wave-1 Pixtral models train from the raw Unsloth VLM (for replicability).
+  - name: pixtral-step1-syn
+    base_model: unsloth/Pixtral-12B-2409
+    model_class: VLM
+  - name: pixtral-step1-real
+    base_model: unsloth/Pixtral-12B-2409
+    model_class: VLM
+  - name: pixtral-mix
+    base_model: unsloth/Pixtral-12B-2409
+    model_class: VLM
+
+  # Qwen family
+  # qwen-final is trained FROM our locally-produced step1-syn output.
+  # Note: the training campaign produced a -v2 retrain of qwen-step1-syn that
+  # superseded the v1 attempt; the local dir name reflects that. The variant is
+  # still referred to as `qwen-step1-syn` everywhere else (configs, evals, paper).
+  - name: qwen-final
+    base_model: local:models/VLM/qwen-step1-syn-v2/best_model
+    model_class: VLM
+  # Wave-1 Qwen models train from the raw Unsloth VLM (for replicability).
+  - name: qwen-step1-syn
+    base_model: unsloth/Qwen3-VL-8B-Instruct
+    model_class: VLM
+  - name: qwen-step1-real
+    base_model: unsloth/Qwen3-VL-8B-Instruct
+    model_class: VLM
+  - name: qwen-mix
+    base_model: unsloth/Qwen3-VL-8B-Instruct
+    model_class: VLM
+
+  # CRNN family (baseline cross-architecture comparison; same data
+  # variants as VLM family for parallel structure)
+  # crnn-final continues from our locally-produced step1-syn output.
+  - name: crnn-final
+    base_model: local:models/CRNN/crnn-step1-syn/checkpoints/checkpoint-251250.pth
+    model_class: CRNN
+  # Wave-1 CRNN models train from scratch (base_model unused by trainer).
+  - name: crnn-step1-syn
+    base_model: crnn
+    model_class: CRNN
+  - name: crnn-step1-real
+    base_model: crnn
+    model_class: CRNN
+  - name: crnn-mix
+    base_model: crnn
+    model_class: CRNN

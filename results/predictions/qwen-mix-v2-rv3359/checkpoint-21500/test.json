@@ -1,0 +1,6026 @@
+[
+  {
+    "manchu_gt": "ᠯᡳᠩ",
+    "roman_gt": "LING",
+    "manchu_pred": "ᠯᡳᠩ",
+    "roman_pred": "LING",
+    "image_path": "test_00030.png",
+    "inference_time": 12112.380027770996
+  },
+  {
+    "manchu_gt": "ᠮᡠᡩᠠᠨ",
+    "roman_gt": "MUDAN",
+    "manchu_pred": "ᠮᡠᡩᠠᠨ",
+    "roman_pred": "MUDAN",
+    "image_path": "test_00406.png",
+    "inference_time": 1572.1497535705566
+  },
+  {
+    "manchu_gt": "ᠮᠠᠩᡤᠠ",
+    "roman_gt": "MANGGA",
+    "manchu_pred": "ᠮᡝᠩᠰᡝ",
+    "roman_pred": "MENGSE",
+    "image_path": "test_00096.png",
+    "inference_time": 1488.253116607666
+  },
+  {
+    "manchu_gt": "ᠪᡳᡨᡥᡝ",
+    "roman_gt": "BITHE",
+    "manchu_pred": "ᠪᡳᡨᡥᡝ",
+    "roman_pred": "BITHE",
+    "image_path": "test_00321.png",
+    "inference_time": 1593.573808670044
+  },
+  {
+    "manchu_gt": "ᡥᡝᠰᠠ",
+    "roman_gt": "HESA",
+    "manchu_pred": "ᡥᡝᠰᠠ",
+    "roman_pred": "HESA",
+    "image_path": "test_00422.png",
+    "inference_time": 1327.216625213623
+  },
+  {
+    "manchu_gt": "ᡤᡝᠯᡳ",
+    "roman_gt": "GELI",
+    "manchu_pred": "ᡤᡝᠯᡳ",
+    "roman_pred": "GELI",
+    "image_path": "test_00656.png",
+    "inference_time": 1481.5022945404053
+  },
+  {
+    "manchu_gt": "ᡥᡳᠶᠠᠨ",
+    "roman_gt": "HIYAN",
+    "manchu_pred": "ᡥᡳᠶᠠᠨ",
+    "roman_pred": "HIYAN",
+    "image_path": "test_00029.png",
+    "inference_time": 1654.080867767334
+  },
+  {
+    "manchu_gt": "ᡨᠠᠩ",
+    "roman_gt": "TANG",
+    "manchu_pred": "ᡨᠠᠩ",
+    "roman_pred": "TANG",
+    "image_path": "test_00751.png",
+    "inference_time": 1246.352195739746
+  },
+  {
+    "manchu_gt": " ᡳᠴᡝ",
+    "roman_gt": "ICE",
+    "manchu_pred": "ᡝᡵᠴᡝ",
+    "roman_pred": "ERCE",
+    "image_path": "test_00151.png",
+    "inference_time": 1320.3060626983643
+  },
+  {
+    "manchu_gt": "ᠮᠠᠨᠵᡠᡵᠠᡵᠠᠩᡤᡝ",
+    "roman_gt": "MANJURARANGGE",
+    "manchu_pred": "ᠮᠠᠵᡠᡵᠠᡵᠠᠩᡤᡝ",
+    "roman_pred": "MAJURARANGGE",
+    "image_path": "test_00434.png",
+    "inference_time": 2239.1817569732666
+  },
+  {
+    "manchu_gt": "ᡤᡠᡵᡠᠨ",
+    "roman_gt": "GURUN",
+    "manchu_pred": "ᡤᡠᡵᡠᠨ",
+    "roman_pred": "GURUN",
+    "image_path": "test_00071.png",
+    "inference_time": 1495.931625366211
+  },
+  {
+    "manchu_gt": "ᡥᠣᡵᡳᠸᡳ",
+    "roman_gt": "HORIFI",
+    "manchu_pred": "ᡥᠣᡵᡳᠸᡳ",
+    "roman_pred": "HORIFI",
+    "image_path": "test_00202.png",
+    "inference_time": 1654.463768005371
+  },
+  {
+    "manchu_gt": "ᠮᡠᡴᡩᡝᠨ",
+    "roman_gt": "MUKDEN",
+    "manchu_pred": "ᠮᡠᡴᡩᡝ",
+    "roman_pred": "MUKDE",
+    "image_path": "test_00638.png",
+    "inference_time": 1570.3964233398438
+  },
+  {
+    "manchu_gt": "ᠰᡳᠨᡩᠠᡥᠠ",
+    "roman_gt": "SINDAHA",
+    "manchu_pred": "ᠰᡳᠨᡩᠠᡥᠠ",
+    "roman_pred": "SINDAHA",
+    "image_path": "test_00305.png",
+    "inference_time": 1899.5208740234375
+  },
+  {
+    "manchu_gt": "ᠰᠠᡵᡳᠯᠠᠮᠪᡳᡥᡝ",
+    "roman_gt": "SARILAMBIHE",
+    "manchu_pred": "ᠰᠠᡵᡳᠯᠠᠮᠪᡳᡥᡝ",
+    "roman_pred": "SARILAMBIHE",
+    "image_path": "test_00399.png",
+    "inference_time": 2302.0617961883545
+  },
+  {
+    "manchu_gt": "ᡥᡝᠩᡴᡳᠯᡝᡥᡝ",
+    "roman_gt": "HENGKILEHE",
+    "manchu_pred": "ᡥᡝᠩᡴᡳᠯᡝᡥᡝ",
+    "roman_pred": "HENGKILEHE",
+    "image_path": "test_00344.png",
+    "inference_time": 2057.5058460235596
+  },
+  {
+    "manchu_gt": "ᡨᡝᡵᡝᠴᡳ",
+    "roman_gt": "TERECI",
+    "manchu_pred": "ᡨᡝᡵᡝᠴᡳ",
+    "roman_pred": "TERECI",
+    "image_path": "test_00345.png",
+    "inference_time": 1650.209665298462
+  },
+  {
+    "manchu_gt": "ᡩᠠᠴᡳ",
+    "roman_gt": "DACI",
+    "manchu_pred": "ᡩᠠᠴᡳ",
+    "roman_pred": "DACI",
+    "image_path": "test_00061.png",
+    "inference_time": 1400.4342555999756
+  },
+  {
+    "manchu_gt": "ᡯᡠᠩ",
+    "roman_gt": "DZUNG",
+    "manchu_pred": "ᡯᡠᠩ",
+    "roman_pred": "DZUNG",
+    "image_path": "test_00091.png",
+    "inference_time": 1318.429946899414
+  },
+  {
+    "manchu_gt": "ᠪᠣᡳᡤᠣᠨ",
+    "roman_gt": "BOIGON",
+    "manchu_pred": "ᠪᠣᡳᡤᠣᠨ",
+    "roman_pred": "BOIGON",
+    "image_path": "test_00244.png",
+    "inference_time": 1640.5372619628906
+  },
+  {
+    "manchu_gt": "ᠠᡴᡡ",
+    "roman_gt": "AKŪ",
+    "manchu_pred": "ᠠᡴᡡ",
+    "roman_pred": "AKŪ",
+    "image_path": "test_00438.png",
+    "inference_time": 1235.4152202606201
+  },
+  {
+    "manchu_gt": "ᠰᡝᠯᡤᡳᠶᡝᠸᡳ",
+    "roman_gt": "SELGIYEFI",
+    "manchu_pred": "ᠰᡝᠯᡤᡳᠶᡝᠸᡳ",
+    "roman_pred": "SELGIYEFI",
+    "image_path": "test_00131.png",
+    "inference_time": 2136.681318283081
+  },
+  {
+    "manchu_gt": "ᠮᠠᠣ",
+    "roman_gt": "MAO",
+    "manchu_pred": "ᠮᠠᠣ",
+    "roman_pred": "MAO",
+    "image_path": "test_00739.png",
+    "inference_time": 1230.9927940368652
+  },
+  {
+    "manchu_gt": "ᠶᠠᠮᡠᠨ",
+    "roman_gt": "YAMUN",
+    "manchu_pred": "ᠶᠠᠮᡠᠨ",
+    "roman_pred": "YAMUN",
+    "image_path": "test_00462.png",
+    "inference_time": 1465.487003326416
+  },
+  {
+    "manchu_gt": "ᡨᡝᡳᠰᡠ",
+    "roman_gt": "TEISU",
+    "manchu_pred": "ᡨᡝᡳᠰᡠ",
+    "roman_pred": "TEISU",
+    "image_path": "test_00098.png",
+    "inference_time": 1545.5503463745117
+  },
+  {
+    "manchu_gt": "ᡩᡝ",
+    "roman_gt": "DE",
+    "manchu_pred": "ᡩᡝ",
+    "roman_pred": "DE",
+    "image_path": "test_00152.png",
+    "inference_time": 1062.5483989715576
+  },
+  {
+    "manchu_gt": "ᡤᠠᡳᠮᠪᡳ",
+    "roman_gt": "GAIMBI",
+    "manchu_pred": "ᡤᠠᡳᠮᠪᡳ",
+    "roman_pred": "GAIMBI",
+    "image_path": "test_00115.png",
+    "inference_time": 1726.2978553771973
+  },
+  {
+    "manchu_gt": "ᠠᠴᠠᠪᡠᡵᡝ",
+    "roman_gt": "ACABURE",
+    "manchu_pred": "ᠠᠴᠠᠪᡠᡵᡝ",
+    "roman_pred": "ACABURE",
+    "image_path": "test_00055.png",
+    "inference_time": 1648.96821975708
+  },
+  {
+    "manchu_gt": "ᡥᡝᠴᡝᠨ",
+    "roman_gt": "HECEN",
+    "manchu_pred": "ᡥᡝᠴᡝᠨ",
+    "roman_pred": "HECEN",
+    "image_path": "test_00633.png",
+    "inference_time": 1480.0288677215576
+  },
+  {
+    "manchu_gt": "ᡴᠣᠮᠰᠣ",
+    "roman_gt": "KOMSO",
+    "manchu_pred": "ᡴᠣᠮᠰᠣ",
+    "roman_pred": "KOMSO",
+    "image_path": "test_00605.png",
+    "inference_time": 1391.2832736968994
+  },
+  {
+    "manchu_gt": "ᡨᡠᡤᡳ",
+    "roman_gt": "TUGI",
+    "manchu_pred": "ᡨᡠᠩᡤᡳ",
+    "roman_pred": "TUNGGI",
+    "image_path": "test_00579.png",
+    "inference_time": 1643.296718597412
+  },
+  {
+    "manchu_gt": "ᡩᡠᠩ",
+    "roman_gt": "DUNG",
+    "manchu_pred": "ᡩᡠᠩ",
+    "roman_pred": "DUNG",
+    "image_path": "test_00051.png",
+    "inference_time": 1238.6796474456787
+  },
+  {
+    "manchu_gt": "ᡝᠯᡝ",
+    "roman_gt": "ELE",
+    "manchu_pred": "ᡝᠯᡝ",
+    "roman_pred": "ELE",
+    "image_path": "test_00464.png",
+    "inference_time": 1231.086254119873
+  },
+  {
+    "manchu_gt": "ᠨᡝᠨᡩᡝᠮᡝ",
+    "roman_gt": "NENDEME",
+    "manchu_pred": "ᠨᡝᠨᡩᡝᠮᡝ",
+    "roman_pred": "NENDEME",
+    "image_path": "test_00478.png",
+    "inference_time": 1806.3089847564697
+  },
+  {
+    "manchu_gt": "ᡩᡠ",
+    "roman_gt": "DU",
+    "manchu_pred": "ᡩᡠ",
+    "roman_pred": "DU",
+    "image_path": "test_00750.png",
+    "inference_time": 1067.8346157073975
+  },
+  {
+    "manchu_gt": "ᠰᡝᠮᡝ",
+    "roman_gt": "SEME",
+    "manchu_pred": "ᠰᡝᠮᡝ",
+    "roman_pred": "SEME",
+    "image_path": "test_00222.png",
+    "inference_time": 1316.6120052337646
+  },
+  {
+    "manchu_gt": "ᠠᠮᠪᡠᠯᠠ",
+    "roman_gt": "AMBULA",
+    "manchu_pred": "ᠠᠮᠪᡠᠯᠠ",
+    "roman_pred": "AMBULA",
+    "image_path": "test_00038.png",
+    "inference_time": 1561.889410018921
+  },
+  {
+    "manchu_gt": "ᡥᡠᡴᡧᡝᡵᡝ",
+    "roman_gt": "HUKŠERE",
+    "manchu_pred": "ᡥᡠᡴᡧᡝᡵᡝ",
+    "roman_pred": "HUKŠERE",
+    "image_path": "test_00694.png",
+    "inference_time": 1810.1634979248047
+  },
+  {
+    "manchu_gt": "ᠮᠠᠨᠵᡠ",
+    "roman_gt": "MANJU",
+    "manchu_pred": "ᠮᠠᠨᠵᡠ",
+    "roman_pred": "MANJU",
+    "image_path": "test_00445.png",
+    "inference_time": 1474.4305610656738
+  },
+  {
+    "manchu_gt": "ᡥᡝᠩᡴᡳᠯᡝᡵᡝ",
+    "roman_gt": "HENGKILERE",
+    "manchu_pred": "ᡥᡝᠩᡴᡳᠯᡝᡵᡝ",
+    "roman_pred": "HENGKILERE",
+    "image_path": "test_00353.png",
+    "inference_time": 2059.692621231079
+  },
+  {
+    "manchu_gt": "ᠶᠠᠰᡠᠨ",
+    "roman_gt": "YASUN",
+    "manchu_pred": "ᠶᠠᠰᡠᠨ",
+    "roman_pred": "YASUN",
+    "image_path": "test_00253.png",
+    "inference_time": 1478.6534309387207
+  },
+  {
+    "manchu_gt": "ᡴᠠᡩᠠᠯᠠᡵᠠ",
+    "roman_gt": "KADALARA",
+    "manchu_pred": "ᡴᠠᡩᠠᠯᠠᡵᠠ",
+    "roman_pred": "KADALARA",
+    "image_path": "test_00509.png",
+    "inference_time": 1805.9611320495605
+  },
+  {
+    "manchu_gt": "ᡩᠣᠰᡳᠮᡝ",
+    "roman_gt": "DOSIME",
+    "manchu_pred": "ᡩᠣᠰᡳᠮᡝ",
+    "roman_pred": "DOSIME",
+    "image_path": "test_00236.png",
+    "inference_time": 1563.002109527588
+  },
+  {
+    "manchu_gt": "ᡩᠠᡥᠠᠮᡝ",
+    "roman_gt": "DAHAME",
+    "manchu_pred": "ᡩᠠᡥᠠᠮᡝ",
+    "roman_pred": "DAHAME",
+    "image_path": "test_00289.png",
+    "inference_time": 1558.0077171325684
+  },
+  {
+    "manchu_gt": "ᡤᡡᠨᡳᠴᡳ",
+    "roman_gt": "GŪNICI",
+    "manchu_pred": "ᡤᡡᠨᡳᠴᡳ",
+    "roman_pred": "GŪNICI",
+    "image_path": "test_00649.png",
+    "inference_time": 1811.8376731872559
+  },
+  {
+    "manchu_gt": "ᠨᡳᠩ",
+    "roman_gt": "NING",
+    "manchu_pred": "ᠨᡳᠩ",
+    "roman_pred": "NING",
+    "image_path": "test_00748.png",
+    "inference_time": 1307.8017234802246
+  },
+  {
+    "manchu_gt": "ᡝᡵᡤᡝᠨ",
+    "roman_gt": "ERGEN",
+    "manchu_pred": "ᡝᡵᡤᡝᠨ",
+    "roman_pred": "ERGEN",
+    "image_path": "test_00708.png",
+    "inference_time": 1392.0619487762451
+  },
+  {
+    "manchu_gt": "ᠪᡳᠩ",
+    "roman_gt": "BING",
+    "manchu_pred": "ᠪᡳᠩ",
+    "roman_pred": "BING",
+    "image_path": "test_00092.png",
+    "inference_time": 1312.513828277588
+  },
+  {
+    "manchu_gt": "ᠴᠣᠣᡥᠠ",
+    "roman_gt": "COOHA",
+    "manchu_pred": "ᠴᠣᠣᡥᠠ",
+    "roman_pred": "COOHA",
+    "image_path": "test_00271.png",
+    "inference_time": 1481.109857559204
+  },
+  {
+    "manchu_gt": "ᠸᡠᡥᠠᠯᡳ",
+    "roman_gt": "FUHALI",
+    "manchu_pred": "ᠸᡠᡥᠠᠯᡳ",
+    "roman_pred": "FUHALI",
+    "image_path": "test_00439.png",
+    "inference_time": 1640.2950286865234
+  },
+  {
+    "manchu_gt": "ᡤᠠᠮᠠᠮᡝ",
+    "roman_gt": "GAMAME",
+    "manchu_pred": "ᡤᠠᠮᠠᠮᡝ",
+    "roman_pred": "GAMAME",
+    "image_path": "test_00185.png",
+    "inference_time": 1476.736307144165
+  },
+  {
+    "manchu_gt": "ᡶᠠᠴᡠᡥᡡᠨ",
+    "roman_gt": "FACUHŪN",
+    "manchu_pred": "ᡶᠠᠴᡠᡥᡡᠨ",
+    "roman_pred": "FACUHŪN",
+    "image_path": "test_00000.png",
+    "inference_time": 1811.5174770355225
+  },
+  {
+    "manchu_gt": "ᠮᠣᡵᡳᠨ",
+    "roman_gt": "MORIN",
+    "manchu_pred": "ᠮᠣᡵᡳᠨ",
+    "roman_pred": "MORIN",
+    "image_path": "test_00713.png",
+    "inference_time": 1478.0492782592773
+  },
+  {
+    "manchu_gt": " ᡳᡥᠠᠨ",
+    "roman_gt": "IHAN",
+    "manchu_pred": "ᡳᡥᠠᡳ",
+    "roman_pred": "IHAI",
+    "image_path": "test_00154.png",
+    "inference_time": 1559.2103004455566
+  },
+  {
+    "manchu_gt": "ᡩᠣᡵᠣ",
+    "roman_gt": "DORO",
+    "manchu_pred": "ᡩᠣᡵᠣ",
+    "roman_pred": "DORO",
+    "image_path": "test_00471.png",
+    "inference_time": 1386.0607147216797
+  },
+  {
+    "manchu_gt": "ᡝᡳ",
+    "roman_gt": "EI",
+    "manchu_pred": "ᡝᡳ",
+    "roman_pred": "EI",
+    "image_path": "test_00028.png",
+    "inference_time": 1139.5645141601562
+  },
+  {
+    "manchu_gt": "ᠪᡳᠶᠠ",
+    "roman_gt": "BIYA",
+    "manchu_pred": "ᠪᡳᠶᠠ",
+    "roman_pred": "BIYA",
+    "image_path": "test_00589.png",
+    "inference_time": 1466.90034866333
+  },
+  {
+    "manchu_gt": "ᠵᡠᠸᡝ",
+    "roman_gt": "JUWE",
+    "manchu_pred": "ᠵᡠᠸᡝ",
+    "roman_pred": "JUWE",
+    "image_path": "test_00682.png",
+    "inference_time": 1383.7969303131104
+  },
+  {
+    "manchu_gt": "ᠮᠣᠣ",
+    "roman_gt": "MOO",
+    "manchu_pred": "ᠮᠣᠣ",
+    "roman_pred": "MOO",
+    "image_path": "test_00083.png",
+    "inference_time": 1231.8391799926758
+  },
+  {
+    "manchu_gt": "ᠯᠠᠪᡩᡠ",
+    "roman_gt": "LABDU",
+    "manchu_pred": "ᠯᡳᠪᡩᡠ",
+    "roman_pred": "LIBDU",
+    "image_path": "test_00465.png",
+    "inference_time": 1553.9920330047607
+  },
+  {
+    "manchu_gt": "ᠣᠴᡳ",
+    "roman_gt": "OCI",
+    "manchu_pred": "ᠣᠴᡳ",
+    "roman_pred": "OCI",
+    "image_path": "test_00455.png",
+    "inference_time": 1223.618984222412
+  },
+  {
+    "manchu_gt": "ᠮᡠᡨᡝᡵᠠᡴᡡᠩᡤᡝ",
+    "roman_gt": "MUTERAKŪNGGE",
+    "manchu_pred": "ᠮᡠᡨᡝᡵᠠᡴᡡᠩᡤᡝ",
+    "roman_pred": "MUTERAKŪNGGE",
+    "image_path": "test_00441.png",
+    "inference_time": 2297.912836074829
+  },
+  {
+    "manchu_gt": " ᡳᠨᡠ",
+    "roman_gt": "INU",
+    "manchu_pred": "ᡳᠨᡠ",
+    "roman_pred": "INU",
+    "image_path": "test_00248.png",
+    "inference_time": 1396.6364860534668
+  },
+  {
+    "manchu_gt": "ᡩᡠᠯᡝᡴᡝ",
+    "roman_gt": "DULEKE",
+    "manchu_pred": "ᡩᡠᠯᡝᠩᡤᡝ",
+    "roman_pred": "DULENGGE",
+    "image_path": "test_00594.png",
+    "inference_time": 1712.031364440918
+  },
+  {
+    "manchu_gt": "ᠰᠠᡳᠨ",
+    "roman_gt": "SAIN",
+    "manchu_pred": "ᠰᠠᡳᠨ",
+    "roman_pred": "SAIN",
+    "image_path": "test_00511.png",
+    "inference_time": 1373.0292320251465
+  },
+  {
+    "manchu_gt": "ᡤᡝᠯᡥᡠᠨ",
+    "roman_gt": "GELHUN",
+    "manchu_pred": "ᡤᡝᠯᡥᡠᠨ",
+    "roman_pred": "GELHUN",
+    "image_path": "test_00679.png",
+    "inference_time": 1625.0905990600586
+  },
+  {
+    "manchu_gt": "ᠰᡝᡥᡝ",
+    "roman_gt": "SEHE",
+    "manchu_pred": "ᠰᡝᡥᡝ",
+    "roman_pred": "SEHE",
+    "image_path": "test_00116.png",
+    "inference_time": 1298.933982849121
+  },
+  {
+    "manchu_gt": "ᡤᡳᡩᠠᠮᡝ",
+    "roman_gt": "GIDAME",
+    "manchu_pred": "ᡤᡳᡩᠠᠮᡝ",
+    "roman_pred": "GIDAME",
+    "image_path": "test_00136.png",
+    "inference_time": 1709.6014022827148
+  },
+  {
+    "manchu_gt": "ᡤᡳᠩᡤᡠᠯᡝᠮᡝ",
+    "roman_gt": "GINGGULEME",
+    "manchu_pred": "ᡤᡳᠩᡤᡠᠯᡝᠮᡝ",
+    "roman_pred": "GINGGULEME",
+    "image_path": "test_00640.png",
+    "inference_time": 2036.9045734405518
+  },
+  {
+    "manchu_gt": "ᡤᡡᠨᡳᠸᡳ",
+    "roman_gt": "GŪNIFI",
+    "manchu_pred": "ᡤᡡᠨᡳᠸᡳ",
+    "roman_pred": "GŪNIFI",
+    "image_path": "test_00241.png",
+    "inference_time": 1796.604871749878
+  },
+  {
+    "manchu_gt": "ᡩᠣᡵᠣᡳ",
+    "roman_gt": "DOROI",
+    "manchu_pred": "ᡩᠣᡵᠣᡳ",
+    "roman_pred": "DOROI",
+    "image_path": "test_00164.png",
+    "inference_time": 1546.3435649871826
+  },
+  {
+    "manchu_gt": "ᠠᡳᡴᠠ",
+    "roman_gt": "AIKA",
+    "manchu_pred": "ᠠᡳᡴᠠ",
+    "roman_pred": "AIKA",
+    "image_path": "test_00544.png",
+    "inference_time": 1387.6590728759766
+  },
+  {
+    "manchu_gt": "ᡠᡨᡨᡠ",
+    "roman_gt": "UTTU",
+    "manchu_pred": "ᡠᡨᡨᡠ",
+    "roman_pred": "UTTU",
+    "image_path": "test_00724.png",
+    "inference_time": 1560.2402687072754
+  },
+  {
+    "manchu_gt": " ᡳᠰᡳᠨᠠᠸᡳ",
+    "roman_gt": "ISINAFI",
+    "manchu_pred": "ᡳᠰᡳᠨᠠᠸᡳ",
+    "roman_pred": "ISINAFI",
+    "image_path": "test_00218.png",
+    "inference_time": 2060.336112976074
+  },
+  {
+    "manchu_gt": "ᠣᠸᡳ",
+    "roman_gt": "OFI",
+    "manchu_pred": "ᠣᠸᡳ",
+    "roman_pred": "OFI",
+    "image_path": "test_00260.png",
+    "inference_time": 1311.7566108703613
+  },
+  {
+    "manchu_gt": "ᡤᡝᠰᡝ",
+    "roman_gt": "GESE",
+    "manchu_pred": "ᡧᡝᠰᡝ",
+    "roman_pred": "ŠESE",
+    "image_path": "test_00582.png",
+    "inference_time": 1478.8997173309326
+  },
+  {
+    "manchu_gt": "ᠠᠰᠠᠨ",
+    "roman_gt": "ASAN",
+    "manchu_pred": "ᠠᠰᠠ",
+    "roman_pred": "ASA",
+    "image_path": "test_00176.png",
+    "inference_time": 1145.456075668335
+  },
+  {
+    "manchu_gt": "ᠨᡳᠶᠠᠯᠮᠠ",
+    "roman_gt": "NIYALMA",
+    "manchu_pred": "ᠨᡳᠶᠠᠯᠮᠠ",
+    "roman_pred": "NIYALMA",
+    "image_path": "test_00356.png",
+    "inference_time": 1885.8418464660645
+  },
+  {
+    "manchu_gt": " ᡳ",
+    "roman_gt": "I",
+    "manchu_pred": "ᡳ",
+    "roman_pred": "I",
+    "image_path": "test_00307.png",
+    "inference_time": 1141.0918235778809
+  },
+  {
+    "manchu_gt": "ᠮᠠᠩᡤᡡᠯᡨᠠᡳ",
+    "roman_gt": "MANGGŪLTAI",
+    "manchu_pred": "ᠮᠠᠩᡤᡡᠯᠠᡨᠠᡳ",
+    "roman_pred": "MANGGŪLATAI",
+    "image_path": "test_00377.png",
+    "inference_time": 2377.125024795532
+  },
+  {
+    "manchu_gt": "ᡠᠪᠠᡧᠠᠸᡳ",
+    "roman_gt": "UBAŠAFI",
+    "manchu_pred": "ᡠᠪᠠᡧᠠᠸᡳ",
+    "roman_pred": "UBAŠAFI",
+    "image_path": "test_00025.png",
+    "inference_time": 1971.423864364624
+  },
+  {
+    "manchu_gt": " ᡳ",
+    "roman_gt": "I",
+    "manchu_pred": "ᡳ",
+    "roman_pred": "I",
+    "image_path": "test_00562.png",
+    "inference_time": 1142.301321029663
+  },
+  {
+    "manchu_gt": "ᡨᡠᡵᡤᡠᠨᡩᡝ",
+    "roman_gt": "TURGUNDE",
+    "manchu_pred": "ᡨᡠᡵᡤᡠᠨᡩᡝ",
+    "roman_pred": "TURGUNDE",
+    "image_path": "test_00101.png",
+    "inference_time": 1968.2025909423828
+  },
+  {
+    "manchu_gt": "ᠨᡝᠨᡝᠮᡝ",
+    "roman_gt": "NENEME",
+    "manchu_pred": "ᠨᡝᠨᡝᠮᡝ",
+    "roman_pred": "NENEME",
+    "image_path": "test_00496.png",
+    "inference_time": 1645.0161933898926
+  },
+  {
+    "manchu_gt": "ᠪᡠᡥᡝᡴᡡ",
+    "roman_gt": "BUHEKŪ",
+    "manchu_pred": "ᠪᡠᡥᡝᡴᡡ",
+    "roman_pred": "BUHEKŪ",
+    "image_path": "test_00673.png",
+    "inference_time": 1636.7576122283936
+  },
+  {
+    "manchu_gt": "ᠪᡳᠸᡳ",
+    "roman_gt": "BIFI",
+    "manchu_pred": "ᠪᡳᠸᡳ",
+    "roman_pred": "BIFI",
+    "image_path": "test_00678.png",
+    "inference_time": 1475.208044052124
+  },
+  {
+    "manchu_gt": "ᠪᡳᠶᠠᡳ",
+    "roman_gt": "BIYAI",
+    "manchu_pred": "ᠪᡳᠶᠠᡳ",
+    "roman_pred": "BIYAI",
+    "image_path": "test_00624.png",
+    "inference_time": 1729.950189590454
+  },
+  {
+    "manchu_gt": "ᠮᠣᡵᡳᠨ",
+    "roman_gt": "MORIN",
+    "manchu_pred": "ᠮᠣᡵᡳᠨ",
+    "roman_pred": "MORIN",
+    "image_path": "test_00302.png",
+    "inference_time": 1474.700927734375
+  },
+  {
+    "manchu_gt": "ᠨᡳᠩᡤᡠᠨ",
+    "roman_gt": "NINGGUN",
+    "manchu_pred": "ᠨᡳᠩᡤᡠᠨ",
+    "roman_pred": "NINGGUN",
+    "image_path": "test_00569.png",
+    "inference_time": 1721.2038040161133
+  },
+  {
+    "manchu_gt": "ᡧᠠᠩᠨᠠᠸᡳ",
+    "roman_gt": "ŠANGNAFI",
+    "manchu_pred": "ᡧᠠᠩᠨᠠᠸᡳ",
+    "roman_pred": "ŠANGNAFI",
+    "image_path": "test_00171.png",
+    "inference_time": 1884.4866752624512
+  },
+  {
+    "manchu_gt": "ᡩᠠᠮᡠ",
+    "roman_gt": "DAMU",
+    "manchu_pred": "ᡩᠠᠮᡠ",
+    "roman_pred": "DAMU",
+    "image_path": "test_00409.png",
+    "inference_time": 1306.612253189087
+  },
+  {
+    "manchu_gt": "ᡠᠰᡳᡥᠠ",
+    "roman_gt": "USIHA",
+    "manchu_pred": "ᡠᠰᡳᡥᠠ",
+    "roman_pred": "USIHA",
+    "image_path": "test_00591.png",
+    "inference_time": 1556.6539764404297
+  },
+  {
+    "manchu_gt": "ᠸᡠᡵᡩᠠᠨ",
+    "roman_gt": "FURDAN",
+    "manchu_pred": "ᠸᡠᡵᠠᡩᠠᠨ",
+    "roman_pred": "FURADAN",
+    "image_path": "test_00658.png",
+    "inference_time": 1808.9473247528076
+  },
+  {
+    "manchu_gt": "ᡨᠠᡴᠠᠪᡠᠮᡝ",
+    "roman_gt": "TAKABUME",
+    "manchu_pred": "ᡨᠠᡴᠠᠪᡠᠮᡝ",
+    "roman_pred": "TAKABUME",
+    "image_path": "test_00425.png",
+    "inference_time": 1804.8741817474365
+  },
+  {
+    "manchu_gt": "ᡨᠠᡵᡤᠠᠪᡠᠮᡝ",
+    "roman_gt": "TARGABUME",
+    "manchu_pred": "ᡩᠠᡵᡤᠠᠪᡠᠮᡝ",
+    "roman_pred": "DARGABUME",
+    "image_path": "test_00516.png",
+    "inference_time": 1886.2659931182861
+  },
+  {
+    "manchu_gt": "ᡩᡝ",
+    "roman_gt": "DE",
+    "manchu_pred": "ᡩᡝ",
+    "roman_pred": "DE",
+    "image_path": "test_00570.png",
+    "inference_time": 1060.929536819458
+  },
+  {
+    "manchu_gt": "ᡨᡠᡴᡳᠶᡝᠸᡳ",
+    "roman_gt": "TUKIYEFI",
+    "manchu_pred": "ᡨᡠᡴᡳᠶᡝᠸᡳ",
+    "roman_pred": "TUKIYEFI",
+    "image_path": "test_00278.png",
+    "inference_time": 2135.1609230041504
+  },
+  {
+    "manchu_gt": "ᠮᠣᡵᡳᠨ",
+    "roman_gt": "MORIN",
+    "manchu_pred": "ᠮᠣᡵᡳᠯᠠ",
+    "roman_pred": "MORILA",
+    "image_path": "test_00036.png",
+    "inference_time": 1557.4376583099365
+  },
+  {
+    "manchu_gt": "ᠠᡤᠠ",
+    "roman_gt": "AGA",
+    "manchu_pred": "ᠠᡤᠠ",
+    "roman_pred": "AGA",
+    "image_path": "test_00584.png",
+    "inference_time": 1226.8927097320557
+  },
+  {
+    "manchu_gt": "ᡴᡝᠰᡳ",
+    "roman_gt": "KESI",
+    "manchu_pred": "ᡨᠠᠰᡳ",
+    "roman_pred": "TASI",
+    "image_path": "test_00616.png",
+    "inference_time": 1391.577959060669
+  },
+  {
+    "manchu_gt": "ᡥᡝᠩᡴᡳᠯᡝᠮᡝ",
+    "roman_gt": "HENGKILEME",
+    "manchu_pred": "ᡥᡝᠩᡴᡳᠯᡝᠮᡝ",
+    "roman_pred": "HENGKILEME",
+    "image_path": "test_00147.png",
+    "inference_time": 2060.18328666687
+  },
+  {
+    "manchu_gt": "ᡨᡠᠸᠠᠮᡝ",
+    "roman_gt": "TUWAME",
+    "manchu_pred": "ᡨᡠᠸᠠᠮᡝ",
+    "roman_pred": "TUWAME",
+    "image_path": "test_00459.png",
+    "inference_time": 1556.994915008545
+  },
+  {
+    "manchu_gt": "ᡤᠠᡵᠠᡳ",
+    "roman_gt": "GARAI",
+    "manchu_pred": "ᡤᠠᡵᡳ",
+    "roman_pred": "GARI",
+    "image_path": "test_00179.png",
+    "inference_time": 1393.2468891143799
+  },
+  {
+    "manchu_gt": "ᠸᡝᡳᡥᡠᡴᡝᠨ",
+    "roman_gt": "WEIHUKEN",
+    "manchu_pred": "ᠸᡝᡳᡥᡠᡴᡝᠨ",
+    "roman_pred": "WEIHUKEN",
+    "image_path": "test_00297.png",
+    "inference_time": 1884.822130203247
+  },
+  {
+    "manchu_gt": " ᡳᠰᡳᠪᡠᠮᡝ",
+    "roman_gt": "ISIBUME",
+    "manchu_pred": "ᡳᠰᡳᠪᡠᠮᡝ",
+    "roman_pred": "ISIBUME",
+    "image_path": "test_00514.png",
+    "inference_time": 1892.7066326141357
+  },
+  {
+    "manchu_gt": "ᠸᡝᠰᡳᡥᡠᠨ",
+    "roman_gt": "WESIHUN",
+    "manchu_pred": "ᠸᡝᠰᡳᡥᡠᠨ",
+    "roman_pred": "WESIHUN",
+    "image_path": "test_00664.png",
+    "inference_time": 1809.8499774932861
+  },
+  {
+    "manchu_gt": "ᠵᡝᠨᡩᡝᡵᠠᡴᡡ",
+    "roman_gt": "JENDERAKŪ",
+    "manchu_pred": "ᠵᡝᠨᡩᡝᡵᠠᡴᡡ",
+    "roman_pred": "JENDERAKŪ",
+    "image_path": "test_00066.png",
+    "inference_time": 1976.6428470611572
+  },
+  {
+    "manchu_gt": "ᠣᡵᡳᠨ",
+    "roman_gt": "ORIN",
+    "manchu_pred": "ᠣᡵᡳᠨ",
+    "roman_pred": "ORIN",
+    "image_path": "test_00643.png",
+    "inference_time": 1395.7674503326416
+  },
+  {
+    "manchu_gt": "ᠸᠣᡵᡤᠣᠨ",
+    "roman_gt": "FORGON",
+    "manchu_pred": "ᠸᠣᡵᡤᠣᠨ",
+    "roman_pred": "FORGON",
+    "image_path": "test_00665.png",
+    "inference_time": 1557.2540760040283
+  },
+  {
+    "manchu_gt": "ᡮᠠᠨᠵᡳᠶᠠᠩ",
+    "roman_gt": "TSANJIYANG",
+    "manchu_pred": "ᡯᠠᠨᠵᡳᡵᠠᠩᡤᡝ",
+    "roman_pred": "DZANJIRANGGE",
+    "image_path": "test_00077.png",
+    "inference_time": 2303.438663482666
+  },
+  {
+    "manchu_gt": " ᡳᠯᠠᡨᠠ",
+    "roman_gt": "ILATA",
+    "manchu_pred": "ᡳᠯᠠᡨᠠ",
+    "roman_pred": "ILATA",
+    "image_path": "test_00351.png",
+    "inference_time": 1638.3144855499268
+  },
+  {
+    "manchu_gt": "ᡨᡠᠸᠠᠮᡝ",
+    "roman_gt": "TUWAME",
+    "manchu_pred": "ᡨᡠᠸᠠᠮᡝ",
+    "roman_pred": "TUWAME",
+    "image_path": "test_00371.png",
+    "inference_time": 1563.2257461547852
+  },
+  {
+    "manchu_gt": "ᠨᠠᡩᠠᠨ",
+    "roman_gt": "NADAN",
+    "manchu_pred": "ᠨᠠᠨᡩᠠᠨ",
+    "roman_pred": "NANDAN",
+    "image_path": "test_00587.png",
+    "inference_time": 1563.784122467041
+  },
+  {
+    "manchu_gt": "ᡩᡝᡵᡤᡳᡩᡝᡵᡳ",
+    "roman_gt": "DERGIDERI",
+    "manchu_pred": "ᡩᡝᡵᡤᡳᡩᡝᡵᡳ",
+    "roman_pred": "DERGIDERI",
+    "image_path": "test_00593.png",
+    "inference_time": 2136.4378929138184
+  },
+  {
+    "manchu_gt": "ᠣᠪᡠᠴᡳ",
+    "roman_gt": "OBUCI",
+    "manchu_pred": "ᠣᠪᡠᠴᡳ",
+    "roman_pred": "OBUCI",
+    "image_path": "test_00522.png",
+    "inference_time": 1560.1489543914795
+  },
+  {
+    "manchu_gt": "ᡥᠣᡵᠣᠨ",
+    "roman_gt": "HORON",
+    "manchu_pred": "ᡥᠣᡵᠣᠨ",
+    "roman_pred": "HORON",
+    "image_path": "test_00100.png",
+    "inference_time": 1391.6139602661133
+  },
+  {
+    "manchu_gt": "ᠸᠣᠨᠵᡳᡵᡝ",
+    "roman_gt": "FONJIRE",
+    "manchu_pred": "ᠸᠣᠨᠵᡳᡵᡝ",
+    "roman_pred": "FONJIRE",
+    "image_path": "test_00558.png",
+    "inference_time": 1804.1834831237793
+  },
+  {
+    "manchu_gt": "ᡤᠣᠯᠣ",
+    "roman_gt": "GOLO",
+    "manchu_pred": "ᡤᠣᠯᠣ",
+    "roman_pred": "GOLO",
+    "image_path": "test_00427.png",
+    "inference_time": 1309.326171875
+  },
+  {
+    "manchu_gt": "ᡝᡵᡝ",
+    "roman_gt": "ERE",
+    "manchu_pred": "ᡝᡵᡝ",
+    "roman_pred": "ERE",
+    "image_path": "test_00581.png",
+    "inference_time": 1228.0595302581787
+  },
+  {
+    "manchu_gt": "ᡤᡠᠴᡠ",
+    "roman_gt": "GUCU",
+    "manchu_pred": "ᡤᡠᠴᡠ",
+    "roman_pred": "GUCU",
+    "image_path": "test_00232.png",
+    "inference_time": 1393.1212425231934
+  },
+  {
+    "manchu_gt": "ᠵᡠᠩ",
+    "roman_gt": "JUNG",
+    "manchu_pred": "ᠵᡠᠩ",
+    "roman_pred": "JUNG",
+    "image_path": "test_00048.png",
+    "inference_time": 1237.3032569885254
+  },
+  {
+    "manchu_gt": "ᠠᠯᡤᡳᡴᠠ",
+    "roman_gt": "ALGIKA",
+    "manchu_pred": "ᠠᠯᡤᡳᡴᠠ",
+    "roman_pred": "ALGIKA",
+    "image_path": "test_00142.png",
+    "inference_time": 1643.3823108673096
+  },
+  {
+    "manchu_gt": "ᡧᠣᡨᠣ",
+    "roman_gt": "ŠOTO",
+    "manchu_pred": "ᡧᠣᡨᠣ",
+    "roman_pred": "ŠOTO",
+    "image_path": "test_00734.png",
+    "inference_time": 1474.595546722412
+  },
+  {
+    "manchu_gt": "ᡶᡝ",
+    "roman_gt": "FE",
+    "manchu_pred": "ᡶᡝ",
+    "roman_pred": "FE",
+    "image_path": "test_00250.png",
+    "inference_time": 1065.1183128356934
+  },
+  {
+    "manchu_gt": "ᠠᠵᡳᡤᡝ",
+    "roman_gt": "AJIGE",
+    "manchu_pred": "ᠠᡵᡤᡝ",
+    "roman_pred": "ARGE",
+    "image_path": "test_00731.png",
+    "inference_time": 1310.5063438415527
+  },
+  {
+    "manchu_gt": "ᠰᡝᡵᡝᡩᡝ",
+    "roman_gt": "SEREDE",
+    "manchu_pred": "ᠰᡝᡵᡝᡩᡝ",
+    "roman_pred": "SEREDE",
+    "image_path": "test_00107.png",
+    "inference_time": 1641.455888748169
+  },
+  {
+    "manchu_gt": "ᠨᡳ",
+    "roman_gt": "NI",
+    "manchu_pred": "ᠨᡳᡴᡝ",
+    "roman_pred": "NIKE",
+    "image_path": "test_00014.png",
+    "inference_time": 1397.5379467010498
+  },
+  {
+    "manchu_gt": "ᠸᠠᠸᡳ",
+    "roman_gt": "WAFI",
+    "manchu_pred": "ᠸᠠᠸᡳ",
+    "roman_pred": "WAFI",
+    "image_path": "test_00086.png",
+    "inference_time": 1475.3460884094238
+  },
+  {
+    "manchu_gt": "ᠴᡝᠨ",
+    "roman_gt": "CEN",
+    "manchu_pred": "ᠴᡝᠨ",
+    "roman_pred": "CEN",
+    "image_path": "test_00006.png",
+    "inference_time": 1229.3598651885986
+  },
+  {
+    "manchu_gt": "ᡤᡝᠯᡝᠮᡝ",
+    "roman_gt": "GELEME",
+    "manchu_pred": "ᡤᡝᠯᡝᠮᡝ",
+    "roman_pred": "GELEME",
+    "image_path": "test_00691.png",
+    "inference_time": 1559.3438148498535
+  },
+  {
+    "manchu_gt": "ᡤᡡᠰᠠᡳ",
+    "roman_gt": "GŪSAI",
+    "manchu_pred": "ᡤᠣᡳᠰᡳ",
+    "roman_pred": "GOISI",
+    "image_path": "test_00468.png",
+    "inference_time": 1646.4226245880127
+  },
+  {
+    "manchu_gt": "ᠰᡝ",
+    "roman_gt": "SE",
+    "manchu_pred": "ᠰᡝ",
+    "roman_pred": "SE",
+    "image_path": "test_00204.png",
+    "inference_time": 1063.3282661437988
+  },
+  {
+    "manchu_gt": "ᠸᠠᠯᡳᠶᠠᡵᠠ",
+    "roman_gt": "WALIYARA",
+    "manchu_pred": "ᠸᡳᠯᡳᠶᠠᡵᠠ",
+    "roman_pred": "FILIYARA",
+    "image_path": "test_00520.png",
+    "inference_time": 2055.3317070007324
+  },
+  {
+    "manchu_gt": "ᡝᠰᡝ",
+    "roman_gt": "ESE",
+    "manchu_pred": "ᡝᠰᡝ",
+    "roman_pred": "ESE",
+    "image_path": "test_00444.png",
+    "inference_time": 1230.607271194458
+  },
+  {
+    "manchu_gt": "ᡤᡝᠯᡳ",
+    "roman_gt": "GELI",
+    "manchu_pred": "ᡤᡝᠯᡳ",
+    "roman_pred": "GELI",
+    "image_path": "test_00448.png",
+    "inference_time": 1477.8854846954346
+  },
+  {
+    "manchu_gt": "ᠵᡠᡵᡤᠠᠨ",
+    "roman_gt": "JURGAN",
+    "manchu_pred": "ᠵᡠᡵᡤᠠᠨ",
+    "roman_pred": "JURGAN",
+    "image_path": "test_00430.png",
+    "inference_time": 1558.5877895355225
+  },
+  {
+    "manchu_gt": "ᠶᡠᠸᠠᠨᡧᡠᠸᠠᡳ",
+    "roman_gt": "YUWANŠUWAI",
+    "manchu_pred": "ᠵᡠᠸᠠᠨᡧᡠᠸᡳ",
+    "roman_pred": "JUWANŠUFI",
+    "image_path": "test_00120.png",
+    "inference_time": 2299.410581588745
+  },
+  {
+    "manchu_gt": "ᡥᡝᠩᡴᡳᠯᡝᠮᠪᡳ",
+    "roman_gt": "HENGKILEMBI",
+    "manchu_pred": "ᡥᡝᠩᡴᡳᠯᡝᠮᠪᡳ",
+    "roman_pred": "HENGKILEMBI",
+    "image_path": "test_00365.png",
+    "inference_time": 2296.7190742492676
+  },
+  {
+    "manchu_gt": "ᠶᠠᠰᠠ",
+    "roman_gt": "YASA",
+    "manchu_pred": "ᠶᠠᠰᠠ",
+    "roman_pred": "YASA",
+    "image_path": "test_00683.png",
+    "inference_time": 1308.547019958496
+  },
+  {
+    "manchu_gt": "ᠰᡝᠮᡝ",
+    "roman_gt": "SEME",
+    "manchu_pred": "ᠰᡝᠮᡝ",
+    "roman_pred": "SEME",
+    "image_path": "test_00603.png",
+    "inference_time": 1312.347650527954
+  },
+  {
+    "manchu_gt": "ᠨᡳᠩᡤᡠᠨ",
+    "roman_gt": "NINGGUN",
+    "manchu_pred": "ᠨᡳᠩᡤᡠᠨ",
+    "roman_pred": "NINGGUN",
+    "image_path": "test_00128.png",
+    "inference_time": 1726.7067432403564
+  },
+  {
+    "manchu_gt": "ᡤᡝᡵᡝᠨ",
+    "roman_gt": "GEREN",
+    "manchu_pred": "ᡤᡝᡵᡝᠨ",
+    "roman_pred": "GEREN",
+    "image_path": "test_00193.png",
+    "inference_time": 1392.3814296722412
+  },
+  {
+    "manchu_gt": "ᡶᡝᡥᡳ",
+    "roman_gt": "FEHI",
+    "manchu_pred": "ᡶᡝᡥᡳ",
+    "roman_pred": "FEHI",
+    "image_path": "test_00716.png",
+    "inference_time": 1396.3418006896973
+  },
+  {
+    "manchu_gt": "ᠰᡳᠶᡡᠨ",
+    "roman_gt": "SIYŪN",
+    "manchu_pred": "ᠰᡳᠶᡡᠨ",
+    "roman_pred": "SIYŪN",
+    "image_path": "test_00060.png",
+    "inference_time": 1725.5969047546387
+  },
+  {
+    "manchu_gt": "ᠪᡠᠶᠠ",
+    "roman_gt": "BUYA",
+    "manchu_pred": "ᠪᡠᠶᠠ",
+    "roman_pred": "BUYA",
+    "image_path": "test_00199.png",
+    "inference_time": 1396.9058990478516
+  },
+  {
+    "manchu_gt": "ᠠᠮᠪᠠᠨ",
+    "roman_gt": "AMBAN",
+    "manchu_pred": "ᠠᠮᠪᠠᠨ",
+    "roman_pred": "AMBAN",
+    "image_path": "test_00647.png",
+    "inference_time": 1477.0753383636475
+  },
+  {
+    "manchu_gt": "ᠪᡳᠶᠠᡩᡝ",
+    "roman_gt": "BIYADE",
+    "manchu_pred": "ᠪᡳᠶᠠᡩᡝ",
+    "roman_pred": "BIYADE",
+    "image_path": "test_00420.png",
+    "inference_time": 1816.4446353912354
+  },
+  {
+    "manchu_gt": "ᡩᡝᡵᡤᡳ",
+    "roman_gt": "DERGI",
+    "manchu_pred": "ᡩᡝᡵᡤᡳ",
+    "roman_pred": "DERGI",
+    "image_path": "test_00592.png",
+    "inference_time": 1479.597806930542
+  },
+  {
+    "manchu_gt": "ᠰᡠᠸᠠᠶᠠᠨ",
+    "roman_gt": "SUWAYAN",
+    "manchu_pred": "ᠰᡠᠸᠠᠶᠠᠨ",
+    "roman_pred": "SUWAYAN",
+    "image_path": "test_00173.png",
+    "inference_time": 1723.5565185546875
+  },
+  {
+    "manchu_gt": "ᡥᠠᡩᠠᠮᠪᡳᠨᡳ",
+    "roman_gt": "HADAMBINI",
+    "manchu_pred": "ᡥᠠᡩᠠᠮᠪᡳᠨᡳ",
+    "roman_pred": "HADAMBINI",
+    "image_path": "test_00688.png",
+    "inference_time": 2138.009548187256
+  },
+  {
+    "manchu_gt": "ᠮᡝᠨᡳ",
+    "roman_gt": "MENI",
+    "manchu_pred": "ᠮᡝᠨᡳ",
+    "roman_pred": "MENI",
+    "image_path": "test_00331.png",
+    "inference_time": 1393.4497833251953
+  },
+  {
+    "manchu_gt": "ᡥᠠᠨ",
+    "roman_gt": "HAN",
+    "manchu_pred": "ᡥᠠᠨ",
+    "roman_pred": "HAN",
+    "image_path": "test_00310.png",
+    "inference_time": 1234.2567443847656
+  },
+  {
+    "manchu_gt": "ᡨᡠᠯᡝᡵᡤᡳ",
+    "roman_gt": "TULERGI",
+    "manchu_pred": "ᡩᡠᠯᡝᡵᡤᡳ",
+    "roman_pred": "DULERGI",
+    "image_path": "test_00426.png",
+    "inference_time": 1727.9489040374756
+  },
+  {
+    "manchu_gt": "ᠵᡳᡵᡤᠠᠯᠠᠩ",
+    "roman_gt": "JIRGALANG",
+    "manchu_pred": "ᠵᡳᡵᠠᠯᠠᡵᠠᠩᡤᡝ",
+    "roman_pred": "JIRALARANGGE",
+    "image_path": "test_00729.png",
+    "inference_time": 2220.569849014282
+  },
+  {
+    "manchu_gt": " ᡳᠨᡝᠩᡤᡳ",
+    "roman_gt": "INENGGI",
+    "manchu_pred": "ᡳᠨᡝᠩᡤᡳ",
+    "roman_pred": "INENGGI",
+    "image_path": "test_00424.png",
+    "inference_time": 1891.3891315460205
+  },
+  {
+    "manchu_gt": "ᠠᠴᠠᠸᡳ",
+    "roman_gt": "ACAFI",
+    "manchu_pred": "ᠠᠴᠠᠸᡳ",
+    "roman_pred": "ACAFI",
+    "image_path": "test_00020.png",
+    "inference_time": 1475.586175918579
+  },
+  {
+    "manchu_gt": "ᡴᡝᠮᡠᠨᡳ",
+    "roman_gt": "KEMUNI",
+    "manchu_pred": "ᡴᡝᠮᡠᠨᡳ",
+    "roman_pred": "KEMUNI",
+    "image_path": "test_00559.png",
+    "inference_time": 1644.8214054107666
+  },
+  {
+    "manchu_gt": "ᠣᡥᠣᠪᡳ",
+    "roman_gt": "OHOBI",
+    "manchu_pred": "ᠣᡥᠣᠪᡳ",
+    "roman_pred": "OHOBI",
+    "image_path": "test_00701.png",
+    "inference_time": 1555.4473400115967
+  },
+  {
+    "manchu_gt": "ᠠᡳᡴᠠ",
+    "roman_gt": "AIKA",
+    "manchu_pred": "ᠠᡳᡴᠠ",
+    "roman_pred": "AIKA",
+    "image_path": "test_00482.png",
+    "inference_time": 1397.5880146026611
+  },
+  {
+    "manchu_gt": "ᠠᠮᠠᠯᠠ",
+    "roman_gt": "AMALA",
+    "manchu_pred": "ᠠᠮᠠᠯᠠ",
+    "roman_pred": "AMALA",
+    "image_path": "test_00299.png",
+    "inference_time": 1392.188310623169
+  },
+  {
+    "manchu_gt": "ᡨᡠᠸᠠᠴᡳ",
+    "roman_gt": "TUWACI",
+    "manchu_pred": "ᡨᡠᠸᠠᠴᡳ",
+    "roman_pred": "TUWACI",
+    "image_path": "test_00574.png",
+    "inference_time": 1725.7375717163086
+  },
+  {
+    "manchu_gt": "ᡤᡝᠮᡠ",
+    "roman_gt": "GEMU",
+    "manchu_pred": "ᡤᡝᠮᡠ",
+    "roman_pred": "GEMU",
+    "image_path": "test_00245.png",
+    "inference_time": 1308.6812496185303
+  },
+  {
+    "manchu_gt": "ᠪᠠᠨᠵᡳᠨᠠᡥᠠᠩᡤᡝ",
+    "roman_gt": "BANJINAHANGGE",
+    "manchu_pred": "ᠪᠠᠨᠵᡳᠨᠠᡥᠠᠩᡤᡝ",
+    "roman_pred": "BANJINAHANGGE",
+    "image_path": "test_00493.png",
+    "inference_time": 2468.4858322143555
+  },
+  {
+    "manchu_gt": "ᡤᠣᠯᠣ",
+    "roman_gt": "GOLO",
+    "manchu_pred": "ᡤᠣᠯᠣ",
+    "roman_pred": "GOLO",
+    "image_path": "test_00140.png",
+    "inference_time": 1311.619520187378
+  },
+  {
+    "manchu_gt": "ᠵᠠᠰᡝ",
+    "roman_gt": "JASE",
+    "manchu_pred": "ᠵᠠᠰᡝ",
+    "roman_pred": "JASE",
+    "image_path": "test_00217.png",
+    "inference_time": 1310.4028701782227
+  },
+  {
+    "manchu_gt": "ᠠᠩᡤᠠᠯᠠ",
+    "roman_gt": "ANGGALA",
+    "manchu_pred": "ᠠᠩᡤᠠᠯᠠ",
+    "roman_pred": "ANGGALA",
+    "image_path": "test_00495.png",
+    "inference_time": 1559.0357780456543
+  },
+  {
+    "manchu_gt": "ᡥᠠᠴᡳᠨ",
+    "roman_gt": "HACIN",
+    "manchu_pred": "ᡤᠠᠴᡳᠨ",
+    "roman_pred": "GACIN",
+    "image_path": "test_00393.png",
+    "inference_time": 1560.3196620941162
+  },
+  {
+    "manchu_gt": "ᠣᠪᡠᡥᠠ",
+    "roman_gt": "OBUHA",
+    "manchu_pred": "ᠣᠪᡠᡥᠠ",
+    "roman_pred": "OBUHA",
+    "image_path": "test_00124.png",
+    "inference_time": 1476.2988090515137
+  },
+  {
+    "manchu_gt": "ᠶᠠᠮᡠᠨ",
+    "roman_gt": "YAMUN",
+    "manchu_pred": "ᠶᠠᠮᡠᠨ",
+    "roman_pred": "YAMUN",
+    "image_path": "test_00328.png",
+    "inference_time": 1474.931240081787
+  },
+  {
+    "manchu_gt": "ᠪᠠᡵᡤᡳᠶᠠᡥᠠ",
+    "roman_gt": "BARGIYAHA",
+    "manchu_pred": "ᠪᠠᡵᡤᡳᠶᠠᡥᠠ",
+    "roman_pred": "BARGIYAHA",
+    "image_path": "test_00059.png",
+    "inference_time": 2140.110492706299
+  },
+  {
+    "manchu_gt": "ᠵᠠᡶᠠᠸᡳ",
+    "roman_gt": "JAFAFI",
+    "manchu_pred": "ᠵᠠᡶᠠᠸᡳ",
+    "roman_pred": "JAFAFI",
+    "image_path": "test_00224.png",
+    "inference_time": 1727.3690700531006
+  },
+  {
+    "manchu_gt": "ᠶᠣᡨᠣ",
+    "roman_gt": "YOTO",
+    "manchu_pred": "ᠶᠣᡨᠣ",
+    "roman_pred": "YOTO",
+    "image_path": "test_00733.png",
+    "inference_time": 1394.0157890319824
+  },
+  {
+    "manchu_gt": "ᡥᠠᠴᡳᡥᡳᠶᠠᠮᡝ",
+    "roman_gt": "HACIHIYAME",
+    "manchu_pred": "ᡥᠠᠴᡳᡥᡳᠶᠠᠮᡝ",
+    "roman_pred": "HACIHIYAME",
+    "image_path": "test_00513.png",
+    "inference_time": 2392.678737640381
+  },
+  {
+    "manchu_gt": "ᠸᡠᠯᠠᡥᡡᠨ",
+    "roman_gt": "FULAHŪN",
+    "manchu_pred": "ᠸᡠᠯᠠᡥᡡᠨ",
+    "roman_pred": "FULAHŪN",
+    "image_path": "test_00312.png",
+    "inference_time": 1819.4282054901123
+  },
+  {
+    "manchu_gt": "ᡠᡨᡥᠠᡳ",
+    "roman_gt": "UTHAI",
+    "manchu_pred": "ᡠᡨᡥᠠᡳ",
+    "roman_pred": "UTHAI",
+    "image_path": "test_00515.png",
+    "inference_time": 1644.7672843933105
+  },
+  {
+    "manchu_gt": "ᠵᡠᡳ",
+    "roman_gt": "JUI",
+    "manchu_pred": "ᠵᡠᡳ",
+    "roman_pred": "JUI",
+    "image_path": "test_00180.png",
+    "inference_time": 1312.9634857177734
+  },
+  {
+    "manchu_gt": "ᠠᡶᠠᡵᠠ",
+    "roman_gt": "AFARA",
+    "manchu_pred": "ᠠᡶᠠᡵᠠ",
+    "roman_pred": "AFARA",
+    "image_path": "test_00044.png",
+    "inference_time": 1477.9820442199707
+  },
+  {
+    "manchu_gt": "ᡤᠠᡳᠮᡝ",
+    "roman_gt": "GAIME",
+    "manchu_pred": "ᡤᠠᡳᠮᡝ",
+    "roman_pred": "GAIME",
+    "image_path": "test_00135.png",
+    "inference_time": 1477.9233932495117
+  },
+  {
+    "manchu_gt": "ᠴᡝᠨᡳ",
+    "roman_gt": "CENI",
+    "manchu_pred": "ᠴᡝᠨᡳ",
+    "roman_pred": "CENI",
+    "image_path": "test_00219.png",
+    "inference_time": 1480.1111221313477
+  },
+  {
+    "manchu_gt": "ᠮᠠᡵᡳᠸᡳ",
+    "roman_gt": "MARIFI",
+    "manchu_pred": "ᠮᠠᡵᡳᠸᡳ",
+    "roman_pred": "MARIFI",
+    "image_path": "test_00040.png",
+    "inference_time": 1645.228624343872
+  },
+  {
+    "manchu_gt": "ᠰᡝᠮᡝ",
+    "roman_gt": "SEME",
+    "manchu_pred": "ᠰᡝᠮᡝ",
+    "roman_pred": "SEME",
+    "image_path": "test_00064.png",
+    "inference_time": 1312.713623046875
+  },
+  {
+    "manchu_gt": "ᠵᡳᠸᡳ",
+    "roman_gt": "JIFI",
+    "manchu_pred": "ᠵᡳᠸᡳ",
+    "roman_pred": "JIFI",
+    "image_path": "test_00237.png",
+    "inference_time": 1481.1441898345947
+  },
+  {
+    "manchu_gt": " ᡳᠴᡳᡥᡳᠶᠠᡵᠠᠩᡤᡝ",
+    "roman_gt": "ICIHIYARANGGE",
+    "manchu_pred": "ᡳᠴᡳᡥᡳᠶᠠᡵᠠᠩᡤᡝ",
+    "roman_pred": "ICIHIYARANGGE",
+    "image_path": "test_00447.png",
+    "inference_time": 2798.396110534668
+  },
+  {
+    "manchu_gt": "ᠯᡠᠩ",
+    "roman_gt": "LUNG",
+    "manchu_pred": "ᠯᡠᠩ",
+    "roman_pred": "LUNG",
+    "image_path": "test_00741.png",
+    "inference_time": 1228.7261486053467
+  },
+  {
+    "manchu_gt": "ᠰᡝᠪᠵᡝᠨ",
+    "roman_gt": "SEBJEN",
+    "manchu_pred": "ᠰᡝᠪᠴᡝᠨ",
+    "roman_pred": "SEBCEN",
+    "image_path": "test_00404.png",
+    "inference_time": 1559.4937801361084
+  },
+  {
+    "manchu_gt": "ᡨᡝᡴᠰᡳᠯᡝᠮᡝ",
+    "roman_gt": "TEKSILEME",
+    "manchu_pred": "ᡩᡝᡴᠰᡳᠯᡝᠮᡝ",
+    "roman_pred": "DEKSILEME",
+    "image_path": "test_00132.png",
+    "inference_time": 1976.2623310089111
+  },
+  {
+    "manchu_gt": "ᠪᡝᡳᠰᡝ",
+    "roman_gt": "BEISE",
+    "manchu_pred": "ᠪᡝᡳᠰᡝ",
+    "roman_pred": "BEISE",
+    "image_path": "test_00319.png",
+    "inference_time": 1478.0747890472412
+  },
+  {
+    "manchu_gt": "ᡤᠠᡵᠵᠠᠪᡠᡵᡝ",
+    "roman_gt": "GARJABURE",
+    "manchu_pred": "ᡤᠠᡵᠵᠠᠪᡠᡵᡝ",
+    "roman_pred": "GARJABURE",
+    "image_path": "test_00138.png",
+    "inference_time": 1887.9706859588623
+  },
+  {
+    "manchu_gt": "ᡠᠮᠠᡳ",
+    "roman_gt": "UMAI",
+    "manchu_pred": "ᡠᠮᠠᡳ",
+    "roman_pred": "UMAI",
+    "image_path": "test_00667.png",
+    "inference_time": 1479.522466659546
+  },
+  {
+    "manchu_gt": "ᠪᡳᡥᡝ",
+    "roman_gt": "BIHE",
+    "manchu_pred": "ᠪᡳᡥᡝ",
+    "roman_pred": "BIHE",
+    "image_path": "test_00046.png",
+    "inference_time": 1395.4696655273438
+  },
+  {
+    "manchu_gt": "ᡨᠠᠩᠰᡝ",
+    "roman_gt": "TANGSE",
+    "manchu_pred": "ᡨᠠᠩᠰᡝ",
+    "roman_pred": "TANGSE",
+    "image_path": "test_00338.png",
+    "inference_time": 1482.1386337280273
+  },
+  {
+    "manchu_gt": "ᡤᡠᠸᡝᠪᡠᠸᡳ",
+    "roman_gt": "GUWEBUFI",
+    "manchu_pred": "ᡤᡠᠸᡝᠪᡠᠸᡳ",
+    "roman_pred": "GUWEBUFI",
+    "image_path": "test_00243.png",
+    "inference_time": 1893.4061527252197
+  },
+  {
+    "manchu_gt": "ᠠᡥᠠ",
+    "roman_gt": "AHA",
+    "manchu_pred": "ᠠᡥᠠ",
+    "roman_pred": "AHA",
+    "image_path": "test_00657.png",
+    "inference_time": 1233.361005783081
+  },
+  {
+    "manchu_gt": "ᡶᡝᠩᡧᡝᠨ",
+    "roman_gt": "FENGŠEN",
+    "manchu_pred": "ᡶᡝᠩᡧᡝᠨ",
+    "roman_pred": "FENGŠEN",
+    "image_path": "test_00677.png",
+    "inference_time": 1726.6795635223389
+  },
+  {
+    "manchu_gt": "ᡩᠠᡥᠠᠮᡝ",
+    "roman_gt": "DAHAME",
+    "manchu_pred": "ᡩᠠᡥᠠᠮᡝ",
+    "roman_pred": "DAHAME",
+    "image_path": "test_00532.png",
+    "inference_time": 1560.9488487243652
+  },
+  {
+    "manchu_gt": "ᠠᡴᡡ",
+    "roman_gt": "AKŪ",
+    "manchu_pred": "ᠠᡴᡡ",
+    "roman_pred": "AKŪ",
+    "image_path": "test_00595.png",
+    "inference_time": 1230.7307720184326
+  },
+  {
+    "manchu_gt": "ᠮᠠᠨᠵᡠ",
+    "roman_gt": "MANJU",
+    "manchu_pred": "ᠮᠠᠨᠵᡠ",
+    "roman_pred": "MANJU",
+    "image_path": "test_00373.png",
+    "inference_time": 1478.731632232666
+  },
+  {
+    "manchu_gt": "ᡝᠰᡥᡠᠨ",
+    "roman_gt": "ESHUN",
+    "manchu_pred": "ᡝᠰᡥᡠᠨ",
+    "roman_pred": "ESHUN",
+    "image_path": "test_00436.png",
+    "inference_time": 1483.3319187164307
+  },
+  {
+    "manchu_gt": " ᡳ",
+    "roman_gt": "I",
+    "manchu_pred": "ᡳ",
+    "roman_pred": "I",
+    "image_path": "test_00159.png",
+    "inference_time": 1149.449348449707
+  },
+  {
+    "manchu_gt": "ᠣᠵᠣᡵᠣ",
+    "roman_gt": "OJORO",
+    "manchu_pred": "ᠣᠵᠣᡵᠣ",
+    "roman_pred": "OJORO",
+    "image_path": "test_00298.png",
+    "inference_time": 1482.2466373443604
+  },
+  {
+    "manchu_gt": "ᡠᡨᡨᡠ",
+    "roman_gt": "UTTU",
+    "manchu_pred": "ᡠᠵᠠᡨᡠ",
+    "roman_pred": "UJATU",
+    "image_path": "test_00454.png",
+    "inference_time": 1649.0821838378906
+  },
+  {
+    "manchu_gt": "ᠪᠣᡩᠣᠮᡝ",
+    "roman_gt": "BODOME",
+    "manchu_pred": "ᠪᠣᡩᠣᠮᡝ",
+    "roman_pred": "BODOME",
+    "image_path": "test_00350.png",
+    "inference_time": 1643.9194679260254
+  },
+  {
+    "manchu_gt": "ᡤᡝᠮᡠ",
+    "roman_gt": "GEMU",
+    "manchu_pred": "ᡤᡝᠮᡠ",
+    "roman_pred": "GEMU",
+    "image_path": "test_00435.png",
+    "inference_time": 1313.870906829834
+  },
+  {
+    "manchu_gt": "ᡠᠵᡠ",
+    "roman_gt": "UJU",
+    "manchu_pred": "ᡠᠵᡠ",
+    "roman_pred": "UJU",
+    "image_path": "test_00541.png",
+    "inference_time": 1314.9573802947998
+  },
+  {
+    "manchu_gt": "ᡶᡝᠵᡳᠯᡝ",
+    "roman_gt": "FEJILE",
+    "manchu_pred": "ᡶᡝᠵᡳᠯᡝ",
+    "roman_pred": "FEJILE",
+    "image_path": "test_00387.png",
+    "inference_time": 1656.543493270874
+  },
+  {
+    "manchu_gt": "ᠰᠠᡵᡳᠨ",
+    "roman_gt": "SARIN",
+    "manchu_pred": "ᠰᠠᡵᡳᠨ",
+    "roman_pred": "SARIN",
+    "image_path": "test_00168.png",
+    "inference_time": 1483.4270477294922
+  },
+  {
+    "manchu_gt": "ᡴᡳᠴᡝᠮᡝ",
+    "roman_gt": "KICEME",
+    "manchu_pred": "ᡴᡳᠴᡝᠮᡝ",
+    "roman_pred": "KICEME",
+    "image_path": "test_00479.png",
+    "inference_time": 1648.0975151062012
+  },
+  {
+    "manchu_gt": "ᠣᠪᡠᠮᡝ",
+    "roman_gt": "OBUME",
+    "manchu_pred": "ᠣᠪᡠᠮᡝ",
+    "roman_pred": "OBUME",
+    "image_path": "test_00477.png",
+    "inference_time": 1399.1451263427734
+  },
+  {
+    "manchu_gt": "ᡴᡝᠨᡝᡥᡠᠨᠵᡝᡵᡝ",
+    "roman_gt": "KENEHUNJERE",
+    "manchu_pred": "ᡧᡝᠨᡝᡥᡠᠨᠵᡝᡵᡝ",
+    "roman_pred": "ŠENEHUNJERE",
+    "image_path": "test_00230.png",
+    "inference_time": 2308.9911937713623
+  },
+  {
+    "manchu_gt": "ᡠᠩᡤᡳᡥᡝ",
+    "roman_gt": "UNGGIHE",
+    "manchu_pred": "ᡠᠩᡤᡳᡥᡝ",
+    "roman_pred": "UNGGIHE",
+    "image_path": "test_00172.png",
+    "inference_time": 1723.1810092926025
+  },
+  {
+    "manchu_gt": "ᠪᡝᡳᠯᡝ",
+    "roman_gt": "BEILE",
+    "manchu_pred": "ᠪᡝᡳᠯᡝ",
+    "roman_pred": "BEILE",
+    "image_path": "test_00360.png",
+    "inference_time": 1479.2451858520508
+  },
+  {
+    "manchu_gt": "ᡩᡠ",
+    "roman_gt": "DU",
+    "manchu_pred": "ᡩᡠ",
+    "roman_pred": "DU",
+    "image_path": "test_00119.png",
+    "inference_time": 1068.077564239502
+  },
+  {
+    "manchu_gt": "ᡩᡝᡵᡳᠪᡠᠮᡝ",
+    "roman_gt": "DERIBUME",
+    "manchu_pred": "ᡩᡝᠯᡝᡵᡳᠪᡠᠮᡝ",
+    "roman_pred": "DELERIBUME",
+    "image_path": "test_00002.png",
+    "inference_time": 2058.6681365966797
+  },
+  {
+    "manchu_gt": "ᡦᡝᡳᠴᡝᠩ",
+    "roman_gt": "PEICENG",
+    "manchu_pred": "ᠪᡝᡳᠴᡝᠩ",
+    "roman_pred": "BEICENG",
+    "image_path": "test_00620.png",
+    "inference_time": 1642.9994106292725
+  },
+  {
+    "manchu_gt": "ᡥᠣᡨᠣᠨ",
+    "roman_gt": "HOTON",
+    "manchu_pred": "ᡥᠣᡨᠣᠨ",
+    "roman_pred": "HOTON",
+    "image_path": "test_00045.png",
+    "inference_time": 1479.151964187622
+  },
+  {
+    "manchu_gt": "ᡤᡳᡩᠠᠸᡳ",
+    "roman_gt": "GIDAFI",
+    "manchu_pred": "ᡤᡳᡩᠠᠸᡳ",
+    "roman_pred": "GIDAFI",
+    "image_path": "test_00035.png",
+    "inference_time": 1893.3665752410889
+  },
+  {
+    "manchu_gt": "ᡶᡝ",
+    "roman_gt": "FE",
+    "manchu_pred": "ᡶᡝ",
+    "roman_pred": "FE",
+    "image_path": "test_00470.png",
+    "inference_time": 1065.072774887085
+  },
+  {
+    "manchu_gt": "ᡥᠠᡶᠠᠰᠠ",
+    "roman_gt": "HAFASA",
+    "manchu_pred": "ᡥᠠᠯᠠᡧᠠ",
+    "roman_pred": "HALAŠA",
+    "image_path": "test_00446.png",
+    "inference_time": 1727.8211116790771
+  },
+  {
+    "manchu_gt": "ᠪᠣᠨᡳᠣ",
+    "roman_gt": "BONIO",
+    "manchu_pred": "ᠪᠣᠨᡳᠣ",
+    "roman_pred": "BONIO",
+    "image_path": "test_00156.png",
+    "inference_time": 1563.2336139678955
+  },
+  {
+    "manchu_gt": " ᡳᠰᡳᠨᠠᠮᡝ",
+    "roman_gt": "ISINAME",
+    "manchu_pred": "ᡳᠰᡳᠨᠠᠮᡝ",
+    "roman_pred": "ISINAME",
+    "image_path": "test_00524.png",
+    "inference_time": 1897.1068859100342
+  },
+  {
+    "manchu_gt": "ᠶᠠᠶᠠ",
+    "roman_gt": "YAYA",
+    "manchu_pred": "ᠶᠠᠶᠠ",
+    "roman_pred": "YAYA",
+    "image_path": "test_00281.png",
+    "inference_time": 1478.9175987243652
+  },
+  {
+    "manchu_gt": "ᠨᡳᠩᡤᡝ",
+    "roman_gt": "NINGGE",
+    "manchu_pred": "ᠨᡳᠩᡤᡝ",
+    "roman_pred": "NINGGE",
+    "image_path": "test_00512.png",
+    "inference_time": 1560.7373714447021
+  },
+  {
+    "manchu_gt": "ᠴᡠᠩ",
+    "roman_gt": "CUNG",
+    "manchu_pred": "ᠴᡠᠩ",
+    "roman_pred": "CUNG",
+    "image_path": "test_00752.png",
+    "inference_time": 1230.372428894043
+  },
+  {
+    "manchu_gt": "ᠵᡠᠸᡝ",
+    "roman_gt": "JUWE",
+    "manchu_pred": "ᠵᡠᠸᡝ",
+    "roman_pred": "JUWE",
+    "image_path": "test_00231.png",
+    "inference_time": 1397.127628326416
+  },
+  {
+    "manchu_gt": "ᠵᡠᠸᠠᠨ",
+    "roman_gt": "JUWAN",
+    "manchu_pred": "ᠵᡠᠸᠠᠨ",
+    "roman_pred": "JUWAN",
+    "image_path": "test_00419.png",
+    "inference_time": 1563.6160373687744
+  },
+  {
+    "manchu_gt": "ᠸᠠᡵᠠ",
+    "roman_gt": "WARA",
+    "manchu_pred": "ᠸᠠᡵᠠ",
+    "roman_pred": "WARA",
+    "image_path": "test_00225.png",
+    "inference_time": 1309.5557689666748
+  },
+  {
+    "manchu_gt": "ᠵᠠᡴᠠᡩᡝ",
+    "roman_gt": "JAKADE",
+    "manchu_pred": "ᠵᠠᡴᠠᡩᡝ",
+    "roman_pred": "JAKADE",
+    "image_path": "test_00226.png",
+    "inference_time": 1642.2631740570068
+  },
+  {
+    "manchu_gt": "ᡨᡝᠨᡳ",
+    "roman_gt": "TENI",
+    "manchu_pred": "ᡨᡝᠨᡳ",
+    "roman_pred": "TENI",
+    "image_path": "test_00110.png",
+    "inference_time": 1391.801357269287
+  },
+  {
+    "manchu_gt": "ᠰᠠᡵᡳᠨ",
+    "roman_gt": "SARIN",
+    "manchu_pred": "ᠰᠠᡵᡳᠨ",
+    "roman_pred": "SARIN",
+    "image_path": "test_00398.png",
+    "inference_time": 1479.5966148376465
+  },
+  {
+    "manchu_gt": "ᠯᡳᡳ",
+    "roman_gt": "LII",
+    "manchu_pred": "ᠯᡳᡳ",
+    "roman_pred": "LII",
+    "image_path": "test_00009.png",
+    "inference_time": 1392.3912048339844
+  },
+  {
+    "manchu_gt": "ᡨᡝ",
+    "roman_gt": "TE",
+    "manchu_pred": "ᡨᡝ",
+    "roman_pred": "TE",
+    "image_path": "test_00501.png",
+    "inference_time": 1061.8760585784912
+  },
+  {
+    "manchu_gt": "ᠰᡝᡵᡝᠩᡤᡝ",
+    "roman_gt": "SERENGGE",
+    "manchu_pred": "ᠰᡝᡵᡝᠩᡤᡝ",
+    "roman_pred": "SERENGGE",
+    "image_path": "test_00467.png",
+    "inference_time": 1640.8276557922363
+  },
+  {
+    "manchu_gt": "ᠪᡳᠶᠠᡳ",
+    "roman_gt": "BIYAI",
+    "manchu_pred": "ᠪᡳᠶᠠᡳ",
+    "roman_pred": "BIYAI",
+    "image_path": "test_00150.png",
+    "inference_time": 1725.3611087799072
+  },
+  {
+    "manchu_gt": "ᡝᠨᡩᡠᡵᡳᠩᡤᡝ",
+    "roman_gt": "ENDURINGGE",
+    "manchu_pred": "ᡝᠨᡩᡠᡵᡳᠩᡤᡝ",
+    "roman_pred": "ENDURINGGE",
+    "image_path": "test_00626.png",
+    "inference_time": 1979.600429534912
+  },
+  {
+    "manchu_gt": "ᠸᠠᠴᡳᡥᡳᠶᠠᠮᡝ",
+    "roman_gt": "WACIHIYAME",
+    "manchu_pred": "ᠸᠠᠴᡳᡥᡳᠶᠠᠮᡝ",
+    "roman_pred": "WACIHIYAME",
+    "image_path": "test_00714.png",
+    "inference_time": 2400.327444076538
+  },
+  {
+    "manchu_gt": "ᡨᡠᡴᡳᠶᡝᡥᡝ",
+    "roman_gt": "TUKIYEHE",
+    "manchu_pred": "ᡨᡠᡴᡳᠶᡝᡥᡝ",
+    "roman_pred": "TUKIYEHE",
+    "image_path": "test_00121.png",
+    "inference_time": 2057.048797607422
+  },
+  {
+    "manchu_gt": "ᠠᡴᡡ",
+    "roman_gt": "AKŪ",
+    "manchu_pred": "ᠠᡴᡡ",
+    "roman_pred": "AKŪ",
+    "image_path": "test_00259.png",
+    "inference_time": 1229.8133373260498
+  },
+  {
+    "manchu_gt": " ᡳᠨᡝᠩᡤᡳ",
+    "roman_gt": "INENGGI",
+    "manchu_pred": "ᡳᠨᡝᠩᡤᡳ",
+    "roman_pred": "INENGGI",
+    "image_path": "test_00174.png",
+    "inference_time": 1884.5407962799072
+  },
+  {
+    "manchu_gt": "ᡨᠠᡳᡯᡠ",
+    "roman_gt": "TAIDZU",
+    "manchu_pred": "ᡨᠠᡳᠯᡠ",
+    "roman_pred": "TAILU",
+    "image_path": "test_00400.png",
+    "inference_time": 1561.2621307373047
+  },
+  {
+    "manchu_gt": "ᡝᡩᡠᠨ",
+    "roman_gt": "EDUN",
+    "manchu_pred": "ᡝᡨᡠᠨ",
+    "roman_pred": "ETUN",
+    "image_path": "test_00577.png",
+    "inference_time": 1394.7124481201172
+  },
+  {
+    "manchu_gt": "ᡨᠠᡳᠵᡳ",
+    "roman_gt": "TAIJI",
+    "manchu_pred": "ᡨᠠᡳᠴᡳ",
+    "roman_pred": "TAICI",
+    "image_path": "test_00730.png",
+    "inference_time": 1558.4895610809326
+  },
+  {
+    "manchu_gt": "ᠪᡳᠰᡳᡵᡝ",
+    "roman_gt": "BISIRE",
+    "manchu_pred": "ᠪᡳᠰᡳᡵᡝ",
+    "roman_pred": "BISIRE",
+    "image_path": "test_00709.png",
+    "inference_time": 1721.853256225586
+  },
+  {
+    "manchu_gt": "ᡤᡡᠨᡳᠴᡳ",
+    "roman_gt": "GŪNICI",
+    "manchu_pred": "ᡤᡡᠨᡳᠴᡳ",
+    "roman_pred": "GŪNICI",
+    "image_path": "test_00463.png",
+    "inference_time": 1807.0385456085205
+  },
+  {
+    "manchu_gt": "ᠮᠣᡵᠣᡥᠣᠨ",
+    "roman_gt": "MOROHON",
+    "manchu_pred": "ᠮᠣᡵᠠᡥᠣᠨ",
+    "roman_pred": "MORAHON",
+    "image_path": "test_00184.png",
+    "inference_time": 1638.6232376098633
+  },
+  {
+    "manchu_gt": "ᡠᠶᡠᡨᡝ",
+    "roman_gt": "UYUTE",
+    "manchu_pred": "ᡠᠶᡠᡨᡝ",
+    "roman_pred": "UYUTE",
+    "image_path": "test_00352.png",
+    "inference_time": 1641.1046981811523
+  },
+  {
+    "manchu_gt": "ᠠᠰᡥᠠᠨ",
+    "roman_gt": "ASHAN",
+    "manchu_pred": "ᠠᡥᠠᠨ",
+    "roman_pred": "AHAN",
+    "image_path": "test_00646.png",
+    "inference_time": 1313.3001327514648
+  },
+  {
+    "manchu_gt": "ᠸᠠᠵᡳᠮᡝ",
+    "roman_gt": "WAJIME",
+    "manchu_pred": "ᠸᠠᠵᡳᠮᡝ",
+    "roman_pred": "WAJIME",
+    "image_path": "test_00326.png",
+    "inference_time": 1646.916151046753
+  },
+  {
+    "manchu_gt": "ᠨᡳᠶᠠᠯᠮᠠ",
+    "roman_gt": "NIYALMA",
+    "manchu_pred": "ᠨᡳᠶᠠᠯᠮᠠ",
+    "roman_pred": "NIYALMA",
+    "image_path": "test_00144.png",
+    "inference_time": 1892.5268650054932
+  },
+  {
+    "manchu_gt": "ᡤᡝᠮᡠ",
+    "roman_gt": "GEMU",
+    "manchu_pred": "ᡤᡝᠮᡠ",
+    "roman_pred": "GEMU",
+    "image_path": "test_00097.png",
+    "inference_time": 1314.9526119232178
+  },
+  {
+    "manchu_gt": "ᡩᡝᡵᡤᡳ",
+    "roman_gt": "DERGI",
+    "manchu_pred": "ᡩᡝᡵᡤᡳ",
+    "roman_pred": "DERGI",
+    "image_path": "test_00421.png",
+    "inference_time": 1475.9674072265625
+  },
+  {
+    "manchu_gt": "ᠨᡳᠶᡝᠩᠨᡳᠶᡝᡵᡳ",
+    "roman_gt": "NIYENGNIYERI",
+    "manchu_pred": "ᠨᡳᠶᡝᠩᠨᡳᠶᡝᡵᡳ",
+    "roman_pred": "NIYENGNIYERI",
+    "image_path": "test_00572.png",
+    "inference_time": 2723.609447479248
+  },
+  {
+    "manchu_gt": " ᡳᠣᡤᡳ",
+    "roman_gt": "IOGI",
+    "manchu_pred": "ᡳᠣᡤᡳ",
+    "roman_pred": "IOGI",
+    "image_path": "test_00211.png",
+    "inference_time": 1565.3815269470215
+  },
+  {
+    "manchu_gt": "ᠨᡳᠶᠠᠯᠮᠠ",
+    "roman_gt": "NIYALMA",
+    "manchu_pred": "ᠨᡳᠶᠠᠯᠮᠠ",
+    "roman_pred": "NIYALMA",
+    "image_path": "test_00053.png",
+    "inference_time": 1892.5011157989502
+  },
+  {
+    "manchu_gt": "ᡤᡝᠰᡝ",
+    "roman_gt": "GESE",
+    "manchu_pred": "ᡤᡝᠰᡝ",
+    "roman_pred": "GESE",
+    "image_path": "test_00703.png",
+    "inference_time": 1310.7304573059082
+  },
+  {
+    "manchu_gt": "ᡶᠠᡳᡩᠠᡥᠠ",
+    "roman_gt": "FAIDAHA",
+    "manchu_pred": "ᡶᠠᡳᡩᠠᡥᠠ",
+    "roman_pred": "FAIDAHA",
+    "image_path": "test_00334.png",
+    "inference_time": 1809.220552444458
+  },
+  {
+    "manchu_gt": "ᡝᠸᡳᠨ",
+    "roman_gt": "EFIN",
+    "manchu_pred": "ᡝᠸᡳᠨ",
+    "roman_pred": "EFIN",
+    "image_path": "test_00394.png",
+    "inference_time": 1392.6424980163574
+  },
+  {
+    "manchu_gt": "ᠰᡠᡵᡝ",
+    "roman_gt": "SURE",
+    "manchu_pred": "ᠰᡠᡵᡝ",
+    "roman_pred": "SURE",
+    "image_path": "test_00309.png",
+    "inference_time": 1315.9596920013428
+  },
+  {
+    "manchu_gt": "ᡩᠣᠨᠵᡳᠸᡳ",
+    "roman_gt": "DONJIFI",
+    "manchu_pred": "ᡩᠣᠨᠵᡳᠸᡳ",
+    "roman_pred": "DONJIFI",
+    "image_path": "test_00192.png",
+    "inference_time": 1807.88254737854
+  },
+  {
+    "manchu_gt": "ᠯᡠ",
+    "roman_gt": "LU",
+    "manchu_pred": "ᡝᠯᡠ",
+    "roman_pred": "ELU",
+    "image_path": "test_00080.png",
+    "inference_time": 1233.0670356750488
+  },
+  {
+    "manchu_gt": "ᠵᡝᡵᡤᡳ",
+    "roman_gt": "JERGI",
+    "manchu_pred": "ᠵᡝᡵᡤᡳ",
+    "roman_pred": "JERGI",
+    "image_path": "test_00542.png",
+    "inference_time": 1564.0687942504883
+  },
+  {
+    "manchu_gt": "ᠴᡝ",
+    "roman_gt": "CE",
+    "manchu_pred": "ᠴᡝ",
+    "roman_pred": "CE",
+    "image_path": "test_00551.png",
+    "inference_time": 1067.8188800811768
+  },
+  {
+    "manchu_gt": "ᡝᡵᡝ",
+    "roman_gt": "ERE",
+    "manchu_pred": "ᡝᡵᡝ",
+    "roman_pred": "ERE",
+    "image_path": "test_00488.png",
+    "inference_time": 1227.7371883392334
+  },
+  {
+    "manchu_gt": "ᡨᡠᠸᠠᡴᡳᠶᠠᡥᠠ",
+    "roman_gt": "TUWAKIYAHA",
+    "manchu_pred": "ᡨᡠᠸᠠᡴᡳᠶᠠᡥᠠ",
+    "roman_pred": "TUWAKIYAHA",
+    "image_path": "test_00208.png",
+    "inference_time": 2307.1987628936768
+  },
+  {
+    "manchu_gt": "ᡥᡝᠪᡩᡝᡥᡝ",
+    "roman_gt": "HEBDEHE",
+    "manchu_pred": "ᡤᡝᠪᡩᡝᡥᡝ",
+    "roman_pred": "GEBDEHE",
+    "image_path": "test_00256.png",
+    "inference_time": 1803.6184310913086
+  },
+  {
+    "manchu_gt": "ᡨᡝᠪᡠᡥᡝ",
+    "roman_gt": "TEBUHE",
+    "manchu_pred": "ᡨᡝᠪᡠᡥᡝ",
+    "roman_pred": "TEBUHE",
+    "image_path": "test_00380.png",
+    "inference_time": 1646.3558673858643
+  },
+  {
+    "manchu_gt": "ᠯᡝᡴᡝᡵᡥᡳ",
+    "roman_gt": "LEKERHI",
+    "manchu_pred": "ᠯᡝᡴᡝᡵᡥᡝ",
+    "roman_pred": "LEKERHE",
+    "image_path": "test_00145.png",
+    "inference_time": 1640.6810283660889
+  },
+  {
+    "manchu_gt": "ᡨᠠᡳᡯᡠ",
+    "roman_gt": "TAIDZU",
+    "manchu_pred": "ᡨᠠᡳᠯᡠ",
+    "roman_pred": "TAILU",
+    "image_path": "test_00276.png",
+    "inference_time": 1560.0035190582275
+  },
+  {
+    "manchu_gt": " ᡳᠴᡳᡥᡳᠶᠠᠮᠪᡳᠨᡳ",
+    "roman_gt": "ICIHIYAMBINI",
+    "manchu_pred": "ᡳᠴᡳᡥᡳᠶᠠᠮᠪᡳᠨᡳ",
+    "roman_pred": "ICIHIYAMBINI",
+    "image_path": "test_00457.png",
+    "inference_time": 2880.768060684204
+  },
+  {
+    "manchu_gt": "ᠪᠠᡥᠠ",
+    "roman_gt": "BAHA",
+    "manchu_pred": "ᠪᠠᡥᠠ",
+    "roman_pred": "BAHA",
+    "image_path": "test_00363.png",
+    "inference_time": 1312.699794769287
+  },
+  {
+    "manchu_gt": "ᠯᡳᠶᠣᠣ",
+    "roman_gt": "LIYOO",
+    "manchu_pred": "ᠯᡳᠶᠣᠣ",
+    "roman_pred": "LIYOO",
+    "image_path": "test_00050.png",
+    "inference_time": 1642.981767654419
+  },
+  {
+    "manchu_gt": "ᡴᡠᠩ",
+    "roman_gt": "KUNG",
+    "manchu_pred": "ᡴᡠᠩ",
+    "roman_pred": "KUNG",
+    "image_path": "test_00090.png",
+    "inference_time": 1148.2055187225342
+  },
+  {
+    "manchu_gt": "ᡤᡳᠰᡠᡵᡝᠪᡠᠮᡝ",
+    "roman_gt": "GISUREBUME",
+    "manchu_pred": "ᡤᡳᠰᡠᡵᡝᠪᡠᠮᡝ",
+    "roman_pred": "GISUREBUME",
+    "image_path": "test_00519.png",
+    "inference_time": 2056.0169219970703
+  },
+  {
+    "manchu_gt": "ᡠᠶᡠᠨ",
+    "roman_gt": "UYUN",
+    "manchu_pred": "ᡠᠶᡠᠨ",
+    "roman_pred": "UYUN",
+    "image_path": "test_00343.png",
+    "inference_time": 1477.1759510040283
+  },
+  {
+    "manchu_gt": "ᠯᡳᠣᡳ",
+    "roman_gt": "LIOI",
+    "manchu_pred": "ᠯᡳᠣᡳ",
+    "roman_pred": "LIOI",
+    "image_path": "test_00072.png",
+    "inference_time": 1558.086633682251
+  },
+  {
+    "manchu_gt": "ᡥᡝᠨᡩᡠᠮᡝ",
+    "roman_gt": "HENDUME",
+    "manchu_pred": "ᡥᡝᠨᡩᡠᠮᡝ",
+    "roman_pred": "HENDUME",
+    "image_path": "test_00108.png",
+    "inference_time": 1728.9707660675049
+  },
+  {
+    "manchu_gt": "ᠰᡳᠨᡩᠠᠸᡳ",
+    "roman_gt": "SINDAFI",
+    "manchu_pred": "ᠰᡳᠨᡩᠠᠸᡳ",
+    "roman_pred": "SINDAFI",
+    "image_path": "test_00068.png",
+    "inference_time": 1972.2845554351807
+  },
+  {
+    "manchu_gt": "ᠠᡳ",
+    "roman_gt": "AI",
+    "manchu_pred": "ᡝᠨᡳ",
+    "roman_pred": "ENI",
+    "image_path": "test_00546.png",
+    "inference_time": 1309.6487522125244
+  },
+  {
+    "manchu_gt": "ᡶᡝ",
+    "roman_gt": "FE",
+    "manchu_pred": "ᡶᡝ",
+    "roman_pred": "FE",
+    "image_path": "test_00390.png",
+    "inference_time": 1061.1920356750488
+  },
+  {
+    "manchu_gt": "ᠴᡝᠨᡩᡝᠮᡝ",
+    "roman_gt": "CENDEME",
+    "manchu_pred": "ᠴᡝᠨᡩᡝᠮᡝ",
+    "roman_pred": "CENDEME",
+    "image_path": "test_00557.png",
+    "inference_time": 1808.283805847168
+  },
+  {
+    "manchu_gt": "ᡝᠪᠰᡳᡥᡝᡳ",
+    "roman_gt": "EBSIHEI",
+    "manchu_pred": "ᡝᠪᠰᡳᡥᡝᡳ",
+    "roman_pred": "EBSIHEI",
+    "image_path": "test_00710.png",
+    "inference_time": 1971.4961051940918
+  },
+  {
+    "manchu_gt": "ᡩᠠᠰᠠᡵᠠ",
+    "roman_gt": "DASARA",
+    "manchu_pred": "ᡩᠠᠰᠠᡵᠠ",
+    "roman_pred": "DASARA",
+    "image_path": "test_00429.png",
+    "inference_time": 1557.3596954345703
+  },
+  {
+    "manchu_gt": "ᠵᠠᡴᡡᠨ",
+    "roman_gt": "JAKŪN",
+    "manchu_pred": "ᠵᠠᡴᡡᠨ",
+    "roman_pred": "JAKŪN",
+    "image_path": "test_00636.png",
+    "inference_time": 1556.6790103912354
+  },
+  {
+    "manchu_gt": "ᡧᠠᠩᡤᡳᠶᠠᠨ",
+    "roman_gt": "ŠANGGIYAN",
+    "manchu_pred": "ᡧᠠᠩᡤᡳᠶᠠᠨ",
+    "roman_pred": "ŠANGGIYAN",
+    "image_path": "test_00155.png",
+    "inference_time": 2139.7855281829834
+  },
+  {
+    "manchu_gt": "ᠸᡠᡴᠠ",
+    "roman_gt": "FUKA",
+    "manchu_pred": "ᠸᡠᡴᠠ",
+    "roman_pred": "FUKA",
+    "image_path": "test_00304.png",
+    "inference_time": 1392.824649810791
+  },
+  {
+    "manchu_gt": "ᡠᠯᡥᡳᠪᡠᠮᡝ",
+    "roman_gt": "ULHIBUME",
+    "manchu_pred": "ᡠᠯᡥᡳᠪᡠᠮᡝ",
+    "roman_pred": "ULHIBUME",
+    "image_path": "test_00130.png",
+    "inference_time": 1887.873649597168
+  },
+  {
+    "manchu_gt": "ᡠᡴᠠᠮᡝ",
+    "roman_gt": "UKAME",
+    "manchu_pred": "ᡠᡴᠠᠮᡝ",
+    "roman_pred": "UKAME",
+    "image_path": "test_00220.png",
+    "inference_time": 1392.8008079528809
+  },
+  {
+    "manchu_gt": "ᡠᡵᠰᡝ",
+    "roman_gt": "URSE",
+    "manchu_pred": "ᡠᡵᠰᡝ",
+    "roman_pred": "URSE",
+    "image_path": "test_00545.png",
+    "inference_time": 1313.070297241211
+  },
+  {
+    "manchu_gt": "ᠴᡝᠩ",
+    "roman_gt": "CENG",
+    "manchu_pred": "ᠴᡝᠩ",
+    "roman_pred": "CENG",
+    "image_path": "test_00033.png",
+    "inference_time": 1230.3788661956787
+  },
+  {
+    "manchu_gt": "ᠪᡝᡳᠰᡝ",
+    "roman_gt": "BEISE",
+    "manchu_pred": "ᠪᡝᡳᠰᡝ",
+    "roman_pred": "BEISE",
+    "image_path": "test_00194.png",
+    "inference_time": 1481.177568435669
+  },
+  {
+    "manchu_gt": "ᡤᡡᠨᡳᠨ",
+    "roman_gt": "GŪNIN",
+    "manchu_pred": "ᡤᠣᠨᡳᠨ",
+    "roman_pred": "GONIN",
+    "image_path": "test_00695.png",
+    "inference_time": 1560.0903034210205
+  },
+  {
+    "manchu_gt": "ᡤᡝᡵᡝᠮᡝ",
+    "roman_gt": "GEREME",
+    "manchu_pred": "ᡤᡝᡵᡝᠮᡝ",
+    "roman_pred": "GEREME",
+    "image_path": "test_00336.png",
+    "inference_time": 1559.6697330474854
+  },
+  {
+    "manchu_gt": "ᠪᡳᡨᡥᡝᡩᡝ",
+    "roman_gt": "BITHEDE",
+    "manchu_pred": "ᠪᡳᡨᡥᡝᡩᡝ",
+    "roman_pred": "BITHEDE",
+    "image_path": "test_00697.png",
+    "inference_time": 1883.8281631469727
+  },
+  {
+    "manchu_gt": "ᠰᠠᡳᡴᠠᠨ",
+    "roman_gt": "SAIKAN",
+    "manchu_pred": "ᠰᠠᡳᡴᠠᠨ",
+    "roman_pred": "SAIKAN",
+    "image_path": "test_00530.png",
+    "inference_time": 1723.292589187622
+  },
+  {
+    "manchu_gt": " ᡳᠰᡳᠨᠵᡳᠸᡳ",
+    "roman_gt": "ISINJIFI",
+    "manchu_pred": "ᡳᠰᡳᠨᠵᡳᠸᡳ",
+    "roman_pred": "ISINJIFI",
+    "image_path": "test_00639.png",
+    "inference_time": 2064.023971557617
+  },
+  {
+    "manchu_gt": "ᠸᡠᠨᠴᡝᠮᡝ",
+    "roman_gt": "FUNCEME",
+    "manchu_pred": "ᠸᡠᠨᠴᡝᠮᡝ",
+    "roman_pred": "FUNCEME",
+    "image_path": "test_00058.png",
+    "inference_time": 1640.462875366211
+  },
+  {
+    "manchu_gt": "ᠮᡳᠨᡳ",
+    "roman_gt": "MINI",
+    "manchu_pred": "ᠮᡳᠨᡳ",
+    "roman_pred": "MINI",
+    "image_path": "test_00556.png",
+    "inference_time": 1475.0261306762695
+  },
+  {
+    "manchu_gt": "ᡝᡩᡝ",
+    "roman_gt": "EDE",
+    "manchu_pred": "ᡝᡩᡝ",
+    "roman_pred": "EDE",
+    "image_path": "test_00472.png",
+    "inference_time": 1312.7107620239258
+  },
+  {
+    "manchu_gt": "ᠸᡠ",
+    "roman_gt": "FU",
+    "manchu_pred": "ᠵᡠ",
+    "roman_pred": "JU",
+    "image_path": "test_00043.png",
+    "inference_time": 1144.2384719848633
+  },
+  {
+    "manchu_gt": "ᡤᡝᠨᡝᡥᡝᡴᡡ",
+    "roman_gt": "GENEHEKŪ",
+    "manchu_pred": "ᡧᡝᠨᡝᡥᡝᡴᡡ",
+    "roman_pred": "ŠENEHEKŪ",
+    "image_path": "test_00261.png",
+    "inference_time": 1968.397855758667
+  },
+  {
+    "manchu_gt": "ᠨᡳᡴᠠᠨ",
+    "roman_gt": "NIKAN",
+    "manchu_pred": "ᠨᡳᡴᠠᠨ",
+    "roman_pred": "NIKAN",
+    "image_path": "test_00738.png",
+    "inference_time": 1558.3305358886719
+  },
+  {
+    "manchu_gt": "ᠠᠮᠪᠠᠨ",
+    "roman_gt": "AMBAN",
+    "manchu_pred": "ᠠᠮᠪᠠᠨ",
+    "roman_pred": "AMBAN",
+    "image_path": "test_00361.png",
+    "inference_time": 1477.778434753418
+  },
+  {
+    "manchu_gt": "ᠣᠪᡠᡥᠠ",
+    "roman_gt": "OBUHA",
+    "manchu_pred": "ᠣᠪᡠᡥᠠ",
+    "roman_pred": "OBUHA",
+    "image_path": "test_00252.png",
+    "inference_time": 1475.1183986663818
+  },
+  {
+    "manchu_gt": "ᠪᠠᡳᠮᡝ",
+    "roman_gt": "BAIME",
+    "manchu_pred": "ᠪᠠᡳᠮᡝ",
+    "roman_pred": "BAIME",
+    "image_path": "test_00742.png",
+    "inference_time": 1475.295066833496
+  },
+  {
+    "manchu_gt": "ᠪᠣᠯᠣᡵᡳ",
+    "roman_gt": "BOLORI",
+    "manchu_pred": "ᠪᠣᠯᠵᠣᡵᡳ",
+    "roman_pred": "BOLJORI",
+    "image_path": "test_00601.png",
+    "inference_time": 1804.9719333648682
+  },
+  {
+    "manchu_gt": "ᠸᠠᡵᡤᡳ",
+    "roman_gt": "WARGI",
+    "manchu_pred": "ᠸᠠᠵᡳᡤᡝ",
+    "roman_pred": "WAJIGE",
+    "image_path": "test_00575.png",
+    "inference_time": 1733.1461906433105
+  },
+  {
+    "manchu_gt": "ᡴᠠᡵᡠᠯᠠᡵᠠ",
+    "roman_gt": "KARULARA",
+    "manchu_pred": "ᡴᠠᡵᡠᠯᠠᡵᠠ",
+    "roman_pred": "KARULARA",
+    "image_path": "test_00721.png",
+    "inference_time": 1719.527006149292
+  },
+  {
+    "manchu_gt": "ᠰᠠᠪᡠᠸᡳ",
+    "roman_gt": "SABUFI",
+    "manchu_pred": "ᠰᠠᠪᡠᠸᡳ",
+    "roman_pred": "SABUFI",
+    "image_path": "test_00213.png",
+    "inference_time": 1719.7856903076172
+  },
+  {
+    "manchu_gt": "ᠪᡳᠶᠠᡳ",
+    "roman_gt": "BIYAI",
+    "manchu_pred": "ᠪᡳᠶᠠᡳ",
+    "roman_pred": "BIYAI",
+    "image_path": "test_00315.png",
+    "inference_time": 1727.555513381958
+  },
+  {
+    "manchu_gt": "ᡩᠣᡵᠣᠨ",
+    "roman_gt": "DORON",
+    "manchu_pred": "ᡩᠣᡵᠣᠨ",
+    "roman_pred": "DORON",
+    "image_path": "test_00125.png",
+    "inference_time": 1478.9807796478271
+  },
+  {
+    "manchu_gt": "ᠮᠠᠩᡤᡳ",
+    "roman_gt": "MANGGI",
+    "manchu_pred": "ᠮᠠᠩᡤᡳ",
+    "roman_pred": "MANGGI",
+    "image_path": "test_00235.png",
+    "inference_time": 1562.2460842132568
+  },
+  {
+    "manchu_gt": "ᠣᠪᡠᠸᡳ",
+    "roman_gt": "OBUFI",
+    "manchu_pred": "ᠣᠪᡠᠸᡳ",
+    "roman_pred": "OBUFI",
+    "image_path": "test_00280.png",
+    "inference_time": 1562.6246929168701
+  },
+  {
+    "manchu_gt": "ᠰᠠᡥᠠᡥᡡᠨ",
+    "roman_gt": "SAHAHŪN",
+    "manchu_pred": "ᠰᠠᡥᠠᡥᡡᠨ",
+    "roman_pred": "SAHAHŪN",
+    "image_path": "test_00153.png",
+    "inference_time": 1807.2288036346436
+  },
+  {
+    "manchu_gt": "ᠣᠯᡥᠣᠮᡝ",
+    "roman_gt": "OLHOME",
+    "manchu_pred": "ᠣᠯᡥᠣᠮᡝ",
+    "roman_pred": "OLHOME",
+    "image_path": "test_00692.png",
+    "inference_time": 1477.9162406921387
+  },
+  {
+    "manchu_gt": "ᠨᡳᠶᠠᡴᡡᡵᠠ",
+    "roman_gt": "NIYAKŪRA",
+    "manchu_pred": "ᠨᡳᠶᠠᡴᡡᡵᠠ",
+    "roman_pred": "NIYAKŪRA",
+    "image_path": "test_00368.png",
+    "inference_time": 2061.713218688965
+  },
+  {
+    "manchu_gt": "ᠪᡳᠴᡳᠪᡝ",
+    "roman_gt": "BICIBE",
+    "manchu_pred": "ᠪᡳᠴᡳᠪᡝ",
+    "roman_pred": "BICIBE",
+    "image_path": "test_00598.png",
+    "inference_time": 1728.6171913146973
+  },
+  {
+    "manchu_gt": "ᠵᡠᠸᠠᠨ",
+    "roman_gt": "JUWAN",
+    "manchu_pred": "ᠵᡠᠸᠠᠨ",
+    "roman_pred": "JUWAN",
+    "image_path": "test_00563.png",
+    "inference_time": 1561.0935688018799
+  },
+  {
+    "manchu_gt": "ᡨᡝᡵᡝᠴᡳ",
+    "roman_gt": "TERECI",
+    "manchu_pred": "ᡨᡝᡵᡝᠴᡳ",
+    "roman_pred": "TERECI",
+    "image_path": "test_00026.png",
+    "inference_time": 1638.8676166534424
+  },
+  {
+    "manchu_gt": "ᡩᡝᠣ",
+    "roman_gt": "DEO",
+    "manchu_pred": "ᡩᡝᠣ",
+    "roman_pred": "DEO",
+    "image_path": "test_00178.png",
+    "inference_time": 1225.8083820343018
+  },
+  {
+    "manchu_gt": "ᠣᠴᡳ",
+    "roman_gt": "OCI",
+    "manchu_pred": "ᠣᠴᡳ",
+    "roman_pred": "OCI",
+    "image_path": "test_00650.png",
+    "inference_time": 1226.7961502075195
+  },
+  {
+    "manchu_gt": "ᠴᠣᠣᡥᠠᡳ",
+    "roman_gt": "COOHAI",
+    "manchu_pred": "ᠴᠣᠣᡥᠠᡳ",
+    "roman_pred": "COOHAI",
+    "image_path": "test_00273.png",
+    "inference_time": 1642.1539783477783
+  },
+  {
+    "manchu_gt": "ᡨᡝᡳᠰᡠᠯᡝᠪᡠᠸᡳ",
+    "roman_gt": "TEISULEBUFI",
+    "manchu_pred": "ᡨᡝᡳᠰᡠᠯᡝᠪᡠᠸᡳ",
+    "roman_pred": "TEISULEBUFI",
+    "image_path": "test_00666.png",
+    "inference_time": 2300.9634017944336
+  },
+  {
+    "manchu_gt": "ᠠᡶᠠᠪᡠᠸᡳ",
+    "roman_gt": "AFABUFI",
+    "manchu_pred": "ᠠᡶᠠᠪᡠᠸᡳ",
+    "roman_pred": "AFABUFI",
+    "image_path": "test_00736.png",
+    "inference_time": 1887.1371746063232
+  },
+  {
+    "manchu_gt": "ᡩᠠᡳᠮᡳᠩ",
+    "roman_gt": "DAIMING",
+    "manchu_pred": "ᡩᠠᡵᡳᠮᠪᠠ",
+    "roman_pred": "DARIMBA",
+    "image_path": "test_00746.png",
+    "inference_time": 1729.7203540802002
+  },
+  {
+    "manchu_gt": "ᠠᠯᡳᠮᠪᠠᡥᠠᡵᠠᡴᡡ",
+    "roman_gt": "ALIMBAHARAKŪ",
+    "manchu_pred": "ᠠᠯᡳᠮᠪᠠᡥᠠᡵᠠᡴᡡ",
+    "roman_pred": "ALIMBAHARAKŪ",
+    "image_path": "test_00725.png",
+    "inference_time": 2468.942165374756
+  },
+  {
+    "manchu_gt": "ᠰᠠᡵᠠ",
+    "roman_gt": "SARA",
+    "manchu_pred": "ᠰᠠᡵᠠ",
+    "roman_pred": "SARA",
+    "image_path": "test_00652.png",
+    "inference_time": 1310.612440109253
+  },
+  {
+    "manchu_gt": " ᡳᠨᡠ",
+    "roman_gt": "INU",
+    "manchu_pred": "ᡳᠨᡠ",
+    "roman_pred": "INU",
+    "image_path": "test_00084.png",
+    "inference_time": 1226.3519763946533
+  },
+  {
+    "manchu_gt": "ᡤᡡᠸᠠ",
+    "roman_gt": "GŪWA",
+    "manchu_pred": "ᡤᡡᠸᠠ",
+    "roman_pred": "GŪWA",
+    "image_path": "test_00461.png",
+    "inference_time": 1394.3839073181152
+  },
+  {
+    "manchu_gt": "ᡤᡠᠸᠠᠩ",
+    "roman_gt": "GUWANG",
+    "manchu_pred": "ᡤᡠᠸᠠᠩ",
+    "roman_pred": "GUWANG",
+    "image_path": "test_00079.png",
+    "inference_time": 1477.4787425994873
+  },
+  {
+    "manchu_gt": "ᠪᠠᠪᡝ",
+    "roman_gt": "BABE",
+    "manchu_pred": "ᠪᠠᡤᠠ",
+    "roman_pred": "BAGA",
+    "image_path": "test_00612.png",
+    "inference_time": 1397.5894451141357
+  },
+  {
+    "manchu_gt": "ᡤᡝᠩ",
+    "roman_gt": "GENG",
+    "manchu_pred": "ᡤᡝᠩ",
+    "roman_pred": "GENG",
+    "image_path": "test_00047.png",
+    "inference_time": 1226.6037464141846
+  },
+  {
+    "manchu_gt": "ᡤᡝᠨᡝᡵᡝ",
+    "roman_gt": "GENERE",
+    "manchu_pred": "ᡤᡝᠨᡝᡵᡝ",
+    "roman_pred": "GENERE",
+    "image_path": "test_00163.png",
+    "inference_time": 1485.717535018921
+  },
+  {
+    "manchu_gt": "ᠮᡠᡨᡝᡵᠠᡴᡡ",
+    "roman_gt": "MUTERAKŪ",
+    "manchu_pred": "ᠮᡠᡨᡝᡵᠠᡴᡡ",
+    "roman_pred": "MUTERAKŪ",
+    "image_path": "test_00700.png",
+    "inference_time": 1893.6429023742676
+  },
+  {
+    "manchu_gt": "ᠪᡳᠸᡳ",
+    "roman_gt": "BIFI",
+    "manchu_pred": "ᠪᡳᠸᡳ",
+    "roman_pred": "BIFI",
+    "image_path": "test_00402.png",
+    "inference_time": 1479.2065620422363
+  },
+  {
+    "manchu_gt": "ᠴᡳ",
+    "roman_gt": "CI",
+    "manchu_pred": "ᠴᡳ",
+    "roman_pred": "CI",
+    "image_path": "test_00282.png",
+    "inference_time": 1146.8465328216553
+  },
+  {
+    "manchu_gt": "ᠸᡠᠩᡤᠠᠯᠠ",
+    "roman_gt": "FUNGGALA",
+    "manchu_pred": "ᠸᡠᠩᡤᠠᠯᠠ",
+    "roman_pred": "FUNGGALA",
+    "image_path": "test_00686.png",
+    "inference_time": 1649.8420238494873
+  },
+  {
+    "manchu_gt": "ᡧᠣᠯᠣ",
+    "roman_gt": "ŠOLO",
+    "manchu_pred": "ᡧᠣᠯᠣ",
+    "roman_pred": "ŠOLO",
+    "image_path": "test_00258.png",
+    "inference_time": 1480.5686473846436
+  },
+  {
+    "manchu_gt": "ᠰᡠᠪᡠᡩᡳ",
+    "roman_gt": "SUBUDI",
+    "manchu_pred": "ᠰᡠᠪᡠᡩᠠᡳ",
+    "roman_pred": "SUBUDAI",
+    "image_path": "test_00160.png",
+    "inference_time": 1806.6365718841553
+  },
+  {
+    "manchu_gt": "ᡴᡝᠣ",
+    "roman_gt": "KEO",
+    "manchu_pred": "ᡴᡝᡴᡠ",
+    "roman_pred": "KEKU",
+    "image_path": "test_00074.png",
+    "inference_time": 1313.4102821350098
+  },
+  {
+    "manchu_gt": "ᡨᡝᠪᡠᡵᠠᡴᡡ",
+    "roman_gt": "TEBURAKŪ",
+    "manchu_pred": "ᡨᡝᠪᡠᡵᠠᡴᡡ",
+    "roman_pred": "TEBURAKŪ",
+    "image_path": "test_00388.png",
+    "inference_time": 1899.0859985351562
+  },
+  {
+    "manchu_gt": "ᡨᡠᠸᠠᠮᡝ",
+    "roman_gt": "TUWAME",
+    "manchu_pred": "ᡨᡠᠸᠠᠮᡝ",
+    "roman_pred": "TUWAME",
+    "image_path": "test_00728.png",
+    "inference_time": 1563.8785362243652
+  },
+  {
+    "manchu_gt": "ᠵᡠᠰᡝ",
+    "roman_gt": "JUSE",
+    "manchu_pred": "ᠵᡠᠰᡝ",
+    "roman_pred": "JUSE",
+    "image_path": "test_00200.png",
+    "inference_time": 1316.9317245483398
+  },
+  {
+    "manchu_gt": "ᡩᠠᠮᡠ",
+    "roman_gt": "DAMU",
+    "manchu_pred": "ᡩᠠᠮᡠ",
+    "roman_pred": "DAMU",
+    "image_path": "test_00707.png",
+    "inference_time": 1317.8420066833496
+  },
+  {
+    "manchu_gt": "ᡩᠣᡵᠣᠯᠣᠸᡳ",
+    "roman_gt": "DOROLOFI",
+    "manchu_pred": "ᡩᠣᡵᠣᠯᠣᠸᡳ",
+    "roman_pred": "DOROLOFI",
+    "image_path": "test_00642.png",
+    "inference_time": 1986.4308834075928
+  },
+  {
+    "manchu_gt": "ᠠᡴᡩᡠᠯᠠᡵᠠᡴᡡ",
+    "roman_gt": "AKDULARAKŪ",
+    "manchu_pred": "ᠠᡴᡩᡠᠯᠠᡵᠠᡴᡡ",
+    "roman_pred": "AKDULARAKŪ",
+    "image_path": "test_00552.png",
+    "inference_time": 2161.012887954712
+  },
+  {
+    "manchu_gt": "ᡨᡝᠸᡳ",
+    "roman_gt": "TEFI",
+    "manchu_pred": "ᡨᡝᠸᡳ",
+    "roman_pred": "TEFI",
+    "image_path": "test_00129.png",
+    "inference_time": 1403.904914855957
+  },
+  {
+    "manchu_gt": "ᠰᠣᠯᡥᠣ",
+    "roman_gt": "SOLHO",
+    "manchu_pred": "ᠰᠣᠯᡥᠣ",
+    "roman_pred": "SOLHO",
+    "image_path": "test_00737.png",
+    "inference_time": 1403.2940864562988
+  },
+  {
+    "manchu_gt": "ᡠᡵᡳᡥᡝ",
+    "roman_gt": "URIHE",
+    "manchu_pred": "ᡠᡳᡥᡝ",
+    "roman_pred": "UIHE",
+    "image_path": "test_00293.png",
+    "inference_time": 1403.1307697296143
+  },
+  {
+    "manchu_gt": "ᠰᡳᠨᠠᡤᠠᠨ",
+    "roman_gt": "SINAGAN",
+    "manchu_pred": "ᠰᡳᠨᠠᡤᠠᠨ",
+    "roman_pred": "SINAGAN",
+    "image_path": "test_00295.png",
+    "inference_time": 1739.5977973937988
+  },
+  {
+    "manchu_gt": "ᠠᠮᠠᠰᡳ",
+    "roman_gt": "AMASI",
+    "manchu_pred": "ᠠᠮᠠᠰᡳ",
+    "roman_pred": "AMASI",
+    "image_path": "test_00234.png",
+    "inference_time": 1486.588716506958
+  },
+  {
+    "manchu_gt": "ᠠᠰᠠᡵᠠᡥᠠ",
+    "roman_gt": "ASARAHA",
+    "manchu_pred": "ᠠᠰᠠᡵᠠᡥᠠ",
+    "roman_pred": "ASARAHA",
+    "image_path": "test_00203.png",
+    "inference_time": 1650.329828262329
+  },
+  {
+    "manchu_gt": "ᠪᡝᠶᡝᠪᡝ",
+    "roman_gt": "BEYEBE",
+    "manchu_pred": "ᠪᡝᠶᡝᠪᡝ",
+    "roman_pred": "BEYEBE",
+    "image_path": "test_00118.png",
+    "inference_time": 1735.2344989776611
+  },
+  {
+    "manchu_gt": "ᡤᠠᡳᠸᡳ",
+    "roman_gt": "GAIFI",
+    "manchu_pred": "ᡤᠠᡳᠸᡳ",
+    "roman_pred": "GAIFI",
+    "image_path": "test_00337.png",
+    "inference_time": 1566.586971282959
+  },
+  {
+    "manchu_gt": "ᡥᠠᡶᠠᠨ",
+    "roman_gt": "HAFAN",
+    "manchu_pred": "ᡥᠠᡶᠠᠨ",
+    "roman_pred": "HAFAN",
+    "image_path": "test_00367.png",
+    "inference_time": 1565.9470558166504
+  },
+  {
+    "manchu_gt": "ᡥᡝᡵᡤᡝᠨ",
+    "roman_gt": "HERGEN",
+    "manchu_pred": "ᡥᡝᡵᡤᡝᠨ",
+    "roman_pred": "HERGEN",
+    "image_path": "test_00306.png",
+    "inference_time": 1490.1301860809326
+  },
+  {
+    "manchu_gt": "ᠪᡠᠴᡝᡨᡝᡳ",
+    "roman_gt": "BUCETEI",
+    "manchu_pred": "ᠪᡠᠴᡝᡨᡝᡳ",
+    "roman_pred": "BUCETEI",
+    "image_path": "test_00711.png",
+    "inference_time": 1895.5013751983643
+  },
+  {
+    "manchu_gt": "ᠶᠠᠮᡠᠨ",
+    "roman_gt": "YAMUN",
+    "manchu_pred": "ᠶᠠᠮᡠᠨ",
+    "roman_pred": "YAMUN",
+    "image_path": "test_00166.png",
+    "inference_time": 1480.119228363037
+  },
+  {
+    "manchu_gt": "ᠠᠯᡳᠮᡝ",
+    "roman_gt": "ALIME",
+    "manchu_pred": "ᠠᠯᡳᠮᡝ",
+    "roman_pred": "ALIME",
+    "image_path": "test_00610.png",
+    "inference_time": 1481.0686111450195
+  },
+  {
+    "manchu_gt": "ᠵᠠᡴᡡᠨ",
+    "roman_gt": "JAKŪN",
+    "manchu_pred": "ᠵᠠᡴᡡᠨ",
+    "roman_pred": "JAKŪN",
+    "image_path": "test_00600.png",
+    "inference_time": 1563.9948844909668
+  },
+  {
+    "manchu_gt": "ᡩᠣᡵᡤᡳᡩᡝᡵᡳ",
+    "roman_gt": "DORGIDERI",
+    "manchu_pred": "ᡩᠣᡵᡤᡳᡩᡝᡵᡳ",
+    "roman_pred": "DORGIDERI",
+    "image_path": "test_00054.png",
+    "inference_time": 2145.3983783721924
+  },
+  {
+    "manchu_gt": "ᡥᡝᠨᡳ",
+    "roman_gt": "HENI",
+    "manchu_pred": "ᡥᡝᠨᡳ",
+    "roman_pred": "HENI",
+    "image_path": "test_00671.png",
+    "inference_time": 1480.5254936218262
+  },
+  {
+    "manchu_gt": "ᡠᡵᡠᠨᠠᡴᡡ",
+    "roman_gt": "URUNAKŪ",
+    "manchu_pred": "ᡠᡵᡠᠨᠠᡴᡡ",
+    "roman_pred": "URUNAKŪ",
+    "image_path": "test_00538.png",
+    "inference_time": 1734.4517707824707
+  },
+  {
+    "manchu_gt": "ᡠᡨᡥᠠᡳ",
+    "roman_gt": "UTHAI",
+    "manchu_pred": "ᡠᡨᡥᠠᡳ",
+    "roman_pred": "UTHAI",
+    "image_path": "test_00631.png",
+    "inference_time": 1647.4826335906982
+  },
+  {
+    "manchu_gt": "ᠸᠠᠰᡳᠮᠪᡠᡥᠠᠩᡤᡝ",
+    "roman_gt": "WASIMBUHANGGE",
+    "manchu_pred": "ᠸᠠᠰᡳᠮᠪᡠᡥᠠᠩᡤᡝ",
+    "roman_pred": "WASIMBUHANGGE",
+    "image_path": "test_00423.png",
+    "inference_time": 2393.7525749206543
+  },
+  {
+    "manchu_gt": "ᡨᠣᠪ",
+    "roman_gt": "TOB",
+    "manchu_pred": "ᡨᡠᠪᠠ",
+    "roman_pred": "TUBA",
+    "image_path": "test_00561.png",
+    "inference_time": 1401.5731811523438
+  },
+  {
+    "manchu_gt": "ᡨᠠᡴᡡᡵᡧᠠᠮᡝ",
+    "roman_gt": "TAKŪRŠAME",
+    "manchu_pred": "ᡨᠠᡴᡡᡵᡧᠠᠮᡝ",
+    "roman_pred": "TAKŪRŠAME",
+    "image_path": "test_00284.png",
+    "inference_time": 2148.8590240478516
+  },
+  {
+    "manchu_gt": "ᡥᡝᠴᡝᠨ",
+    "roman_gt": "HECEN",
+    "manchu_pred": "ᡥᡝᠴᡝᠨ",
+    "roman_pred": "HECEN",
+    "image_path": "test_00269.png",
+    "inference_time": 1479.8390865325928
+  },
+  {
+    "manchu_gt": "ᡝᠸᡳᠮᡝ",
+    "roman_gt": "EFIME",
+    "manchu_pred": "ᡝᠸᡳᠮᡝ",
+    "roman_pred": "EFIME",
+    "image_path": "test_00395.png",
+    "inference_time": 1481.438398361206
+  },
+  {
+    "manchu_gt": " ᡳᠯᡳᠸᡳ",
+    "roman_gt": "ILIFI",
+    "manchu_pred": "ᡳᠯᡳᠸᡳ",
+    "roman_pred": "ILIFI",
+    "image_path": "test_00357.png",
+    "inference_time": 1736.1266613006592
+  },
+  {
+    "manchu_gt": "ᠪᡠᡥᡝ",
+    "roman_gt": "BUHE",
+    "manchu_pred": "ᠪᡠᡥᡝ",
+    "roman_pred": "BUHE",
+    "image_path": "test_00099.png",
+    "inference_time": 1319.8578357696533
+  },
+  {
+    "manchu_gt": "ᡧᠠᠨᡩᡠᠩ",
+    "roman_gt": "ŠANDUNG",
+    "manchu_pred": "ᡧᠠᠨᡩᡠᠩ",
+    "roman_pred": "ŠANDUNG",
+    "image_path": "test_00139.png",
+    "inference_time": 1725.9125709533691
+  },
+  {
+    "manchu_gt": "ᠣᡥᠣᠪᡳ",
+    "roman_gt": "OHOBI",
+    "manchu_pred": "ᠣᡥᠣᠪᡳ",
+    "roman_pred": "OHOBI",
+    "image_path": "test_00505.png",
+    "inference_time": 1559.8790645599365
+  },
+  {
+    "manchu_gt": "ᡥᡠᠩᡴᡝᡵᡝᠸᡳ",
+    "roman_gt": "HUNGKEREFI",
+    "manchu_pred": "ᡥᡠᠩᡴᡝᡵᡝᠸᡳ",
+    "roman_pred": "HUNGKEREFI",
+    "image_path": "test_00126.png",
+    "inference_time": 1979.517936706543
+  },
+  {
+    "manchu_gt": "ᠠᠮᠪᠠᠰᠠ",
+    "roman_gt": "AMBASA",
+    "manchu_pred": "ᠠᠮᠪᠠᠰᠠ",
+    "roman_pred": "AMBASA",
+    "image_path": "test_00320.png",
+    "inference_time": 1563.1072521209717
+  },
+  {
+    "manchu_gt": "ᠪᡠᠸᡳ",
+    "roman_gt": "BUFI",
+    "manchu_pred": "ᠪᡠᠸᡳ",
+    "roman_pred": "BUFI",
+    "image_path": "test_00246.png",
+    "inference_time": 1393.9793109893799
+  },
+  {
+    "manchu_gt": "ᠴᠣᠣᡥᠠ",
+    "roman_gt": "COOHA",
+    "manchu_pred": "ᠴᠣᠣᡥᠠ",
+    "roman_pred": "COOHA",
+    "image_path": "test_00023.png",
+    "inference_time": 1477.3948192596436
+  },
+  {
+    "manchu_gt": "ᡤᡝᠨᡝᡥᡝ",
+    "roman_gt": "GENEHE",
+    "manchu_pred": "ᡧᡝᠨᡝᡥᡝ",
+    "roman_pred": "ŠENEHE",
+    "image_path": "test_00191.png",
+    "inference_time": 1643.350601196289
+  },
+  {
+    "manchu_gt": "ᡩᡠᡳᠯᡝᠴᡳ",
+    "roman_gt": "DUILECI",
+    "manchu_pred": "ᡩᡠᡳᠯᡝᠴᡳ",
+    "roman_pred": "DUILECI",
+    "image_path": "test_00264.png",
+    "inference_time": 1806.8041801452637
+  },
+  {
+    "manchu_gt": "ᠠᡳ",
+    "roman_gt": "AI",
+    "manchu_pred": "ᠠᠩ",
+    "roman_pred": "ANG",
+    "image_path": "test_00676.png",
+    "inference_time": 1144.8578834533691
+  },
+  {
+    "manchu_gt": "ᠮᡠᡴᡝ",
+    "roman_gt": "MUKE",
+    "manchu_pred": "ᠮᡠᡴᡝ",
+    "roman_pred": "MUKE",
+    "image_path": "test_00585.png",
+    "inference_time": 1310.3179931640625
+  },
+  {
+    "manchu_gt": "ᠶᠠᠶᠠ",
+    "roman_gt": "YAYA",
+    "manchu_pred": "ᠶᠠᠶᠠ",
+    "roman_pred": "YAYA",
+    "image_path": "test_00381.png",
+    "inference_time": 1480.0760746002197
+  },
+  {
+    "manchu_gt": "ᠵᠠᠯᠠᠨ",
+    "roman_gt": "JALAN",
+    "manchu_pred": "ᠵᠠᠯᠠᠨ",
+    "roman_pred": "JALAN",
+    "image_path": "test_00662.png",
+    "inference_time": 1479.4056415557861
+  },
+  {
+    "manchu_gt": "ᠨᡳᠩᡤᡠᠴᡳ",
+    "roman_gt": "NINGGUCI",
+    "manchu_pred": "ᠨᡳᠩᡤᡠᠴᡳ",
+    "roman_pred": "NINGGUCI",
+    "image_path": "test_00417.png",
+    "inference_time": 1971.5971946716309
+  },
+  {
+    "manchu_gt": "ᠵᠠᡨᠠ",
+    "roman_gt": "JATA",
+    "manchu_pred": "ᠵᠠᡨᠠ",
+    "roman_pred": "JATA",
+    "image_path": "test_00183.png",
+    "inference_time": 1399.9581336975098
+  },
+  {
+    "manchu_gt": "ᡠᠨᡨᠠᠰᡳ",
+    "roman_gt": "UNTASI",
+    "manchu_pred": "ᡠᠨᡨᠠᠰᡳ",
+    "roman_pred": "UNTASI",
+    "image_path": "test_00745.png",
+    "inference_time": 1722.4738597869873
+  },
+  {
+    "manchu_gt": "ᠸᡝᠰᡳᠮᠪᡠᠸᡳ",
+    "roman_gt": "WESIMBUFI",
+    "manchu_pred": "ᠸᡝᠰᡳᠮᠪᡠᠸᡳ",
+    "roman_pred": "WESIMBUFI",
+    "image_path": "test_00614.png",
+    "inference_time": 2142.080068588257
+  },
+  {
+    "manchu_gt": "ᡤᡝᠪᡠᠩᡤᡝ",
+    "roman_gt": "GEBUNGGE",
+    "manchu_pred": "ᡝᡴᡠᠪᡠᠩᡤᡝ",
+    "roman_pred": "EKUBUNGGE",
+    "image_path": "test_00206.png",
+    "inference_time": 1894.3371772766113
+  },
+  {
+    "manchu_gt": "ᡤᡠᠩ",
+    "roman_gt": "GUNG",
+    "manchu_pred": "ᡤᡠᠩ",
+    "roman_pred": "GUNG",
+    "image_path": "test_00008.png",
+    "inference_time": 1227.590560913086
+  },
+  {
+    "manchu_gt": "ᡤᡝᡵᠴᡳᠯᡝᠮᡝ",
+    "roman_gt": "GERCILEME",
+    "manchu_pred": "ᡤᡝᡵᠴᡳᠯᡝᠮᡝ",
+    "roman_pred": "GERCILEME",
+    "image_path": "test_00262.png",
+    "inference_time": 1978.3365726470947
+  },
+  {
+    "manchu_gt": "ᡨᡝᡵᡝᡳ",
+    "roman_gt": "TEREI",
+    "manchu_pred": "ᡨᡝᡵᡝᡳ",
+    "roman_pred": "TEREI",
+    "image_path": "test_00242.png",
+    "inference_time": 2019.2348957061768
+  },
+  {
+    "manchu_gt": "ᡩᠠᠰᠠᠸᡳ",
+    "roman_gt": "DASAFI",
+    "manchu_pred": "ᡩᠠᠰᠠᠸᡳ",
+    "roman_pred": "DASAFI",
+    "image_path": "test_00133.png",
+    "inference_time": 1744.7724342346191
+  },
+  {
+    "manchu_gt": "ᡨᠠᠴᡳᠴᡳ",
+    "roman_gt": "TACICI",
+    "manchu_pred": "ᡨᠠᠴᡳᠴᡳ",
+    "roman_pred": "TACICI",
+    "image_path": "test_00480.png",
+    "inference_time": 1729.7306060791016
+  },
+  {
+    "manchu_gt": "ᡨᡠᠴᡳᠪᡠᠮᡝ",
+    "roman_gt": "TUCIBUME",
+    "manchu_pred": "ᡨᡠᠴᡳᠪᡠᠮᡝ",
+    "roman_pred": "TUCIBUME",
+    "image_path": "test_00699.png",
+    "inference_time": 1901.4947414398193
+  },
+  {
+    "manchu_gt": "ᡠᠵᠠᠯᡠ",
+    "roman_gt": "UJALU",
+    "manchu_pred": "ᡠᠵᡳᠯᡠ",
+    "roman_pred": "UJILU",
+    "image_path": "test_00268.png",
+    "inference_time": 1650.498628616333
+  },
+  {
+    "manchu_gt": "ᠠᠯᡳᡵᡝ",
+    "roman_gt": "ALIRE",
+    "manchu_pred": "ᠠᠯᡳᡵᡝ",
+    "roman_pred": "ALIRE",
+    "image_path": "test_00239.png",
+    "inference_time": 1482.19633102417
+  },
+  {
+    "manchu_gt": "ᡤᡝᠴᡝᠨ",
+    "roman_gt": "GECEN",
+    "manchu_pred": "ᡤᡝᠴᡝᠨ",
+    "roman_pred": "GECEN",
+    "image_path": "test_00606.png",
+    "inference_time": 1481.0445308685303
+  },
+  {
+    "manchu_gt": "ᠸᡠᠵᡳᠶᠠᠩ",
+    "roman_gt": "FUJIYANG",
+    "manchu_pred": "ᠸᡠᠵᡳᠶᠠᠩ",
+    "roman_pred": "FUJIYANG",
+    "image_path": "test_00082.png",
+    "inference_time": 1890.7749652862549
+  },
+  {
+    "manchu_gt": "ᠠᡥᠠ",
+    "roman_gt": "AHA",
+    "manchu_pred": "ᠠᡥᠠ",
+    "roman_pred": "AHA",
+    "image_path": "test_00619.png",
+    "inference_time": 1234.8065376281738
+  },
+  {
+    "manchu_gt": " ᡳ",
+    "roman_gt": "I",
+    "manchu_pred": "ᡳ",
+    "roman_pred": "I",
+    "image_path": "test_00415.png",
+    "inference_time": 1148.8914489746094
+  },
+  {
+    "manchu_gt": "ᠰᠠᡵᡳᠯᠠᡥᠠᡴᡡ",
+    "roman_gt": "SARILAHAKŪ",
+    "manchu_pred": "ᠰᠠᡵᡳᠯᠠᡥᠠᡴᡡ",
+    "roman_pred": "SARILAHAKŪ",
+    "image_path": "test_00408.png",
+    "inference_time": 2145.4949378967285
+  },
+  {
+    "manchu_gt": "ᠸᠠᠩ",
+    "roman_gt": "WANG",
+    "manchu_pred": "ᠸᡳᠩ",
+    "roman_pred": "FING",
+    "image_path": "test_00103.png",
+    "inference_time": 1315.9277439117432
+  },
+  {
+    "manchu_gt": "ᡩᠠᠪᡠᠴᡳ",
+    "roman_gt": "DABUCI",
+    "manchu_pred": "ᡩᠠᠪᡠᠴᡳ",
+    "roman_pred": "DABUCI",
+    "image_path": "test_00550.png",
+    "inference_time": 1730.0012111663818
+  },
+  {
+    "manchu_gt": "ᠠᠮᠪᠠ",
+    "roman_gt": "AMBA",
+    "manchu_pred": "ᠠᠮᠪᠠ",
+    "roman_pred": "AMBA",
+    "image_path": "test_00327.png",
+    "inference_time": 1313.1206035614014
+  },
+  {
+    "manchu_gt": "ᡤᡝᠪᡠ",
+    "roman_gt": "GEBU",
+    "manchu_pred": "ᡤᡝᠪᡠ",
+    "roman_pred": "GEBU",
+    "image_path": "test_00104.png",
+    "inference_time": 1397.5160121917725
+  },
+  {
+    "manchu_gt": "ᠴᠣᠣᡥᠠ",
+    "roman_gt": "COOHA",
+    "manchu_pred": "ᠴᠣᠣᡥᠠ",
+    "roman_pred": "COOHA",
+    "image_path": "test_00735.png",
+    "inference_time": 1478.0824184417725
+  },
+  {
+    "manchu_gt": "ᠠᡴᡡ",
+    "roman_gt": "AKŪ",
+    "manchu_pred": "ᠠᡴᡡ",
+    "roman_pred": "AKŪ",
+    "image_path": "test_00680.png",
+    "inference_time": 1233.8860034942627
+  },
+  {
+    "manchu_gt": "ᠸᡠᠸᠠᡵᡳ",
+    "roman_gt": "FUWARI",
+    "manchu_pred": "ᠵᡠᠸᠠᡵᡳ",
+    "roman_pred": "JUWARI",
+    "image_path": "test_00588.png",
+    "inference_time": 1730.4189205169678
+  },
+  {
+    "manchu_gt": "ᡠᡩᡠ",
+    "roman_gt": "UDU",
+    "manchu_pred": "ᡠᡩᡠ",
+    "roman_pred": "UDU",
+    "image_path": "test_00021.png",
+    "inference_time": 1313.1814002990723
+  },
+  {
+    "manchu_gt": "ᠣᡥᠣᡩᡝ",
+    "roman_gt": "OHODE",
+    "manchu_pred": "ᠣᡥᠣᡩᡝ",
+    "roman_pred": "OHODE",
+    "image_path": "test_00460.png",
+    "inference_time": 1478.7821769714355
+  },
+  {
+    "manchu_gt": "ᡤᡠᠩ",
+    "roman_gt": "GUNG",
+    "manchu_pred": "ᡤᡠᠩ",
+    "roman_pred": "GUNG",
+    "image_path": "test_00274.png",
+    "inference_time": 1229.0735244750977
+  },
+  {
+    "manchu_gt": "ᡥᠣ",
+    "roman_gt": "HO",
+    "manchu_pred": "ᡥᠣ",
+    "roman_pred": "HO",
+    "image_path": "test_00031.png",
+    "inference_time": 1063.6115074157715
+  },
+  {
+    "manchu_gt": "ᠰᠠᡵᡳᠯᠠᠸᡳ",
+    "roman_gt": "SARILAFI",
+    "manchu_pred": "ᠰᠠᡵᡳᠯᠠᠸᡳ",
+    "roman_pred": "SARILAFI",
+    "image_path": "test_00169.png",
+    "inference_time": 1974.8420715332031
+  },
+  {
+    "manchu_gt": "ᡠᡵᠰᡝᡳ",
+    "roman_gt": "URSEI",
+    "manchu_pred": "ᡠᡵᠰᡝᡳ",
+    "roman_pred": "URSEI",
+    "image_path": "test_00469.png",
+    "inference_time": 1559.1487884521484
+  },
+  {
+    "manchu_gt": " ᡳᠨᡠ",
+    "roman_gt": "INU",
+    "manchu_pred": "ᡳᠨᡠ",
+    "roman_pred": "INU",
+    "image_path": "test_00383.png",
+    "inference_time": 1402.7528762817383
+  },
+  {
+    "manchu_gt": "ᡝᠮᡤᡳ",
+    "roman_gt": "EMGI",
+    "manchu_pred": "ᡝᠮᡴᡳ",
+    "roman_pred": "EMKI",
+    "image_path": "test_00254.png",
+    "inference_time": 1395.8523273468018
+  },
+  {
+    "manchu_gt": " ᡳᠴᡝ",
+    "roman_gt": "ICE",
+    "manchu_pred": "ᡳᠴᡝ",
+    "roman_pred": "ICE",
+    "image_path": "test_00625.png",
+    "inference_time": 1316.0789012908936
+  },
+  {
+    "manchu_gt": "ᠸᡠᠨᠴᡝᡵᡝ",
+    "roman_gt": "FUNCERE",
+    "manchu_pred": "ᠸᡠᠨᠴᡝᡵᡝ",
+    "roman_pred": "FUNCERE",
+    "image_path": "test_00017.png",
+    "inference_time": 1564.1393661499023
+  },
+  {
+    "manchu_gt": "ᡤᠠᡳᠸᡳ",
+    "roman_gt": "GAIFI",
+    "manchu_pred": "ᡤᠠᡳᠸᡳ",
+    "roman_pred": "GAIFI",
+    "image_path": "test_00024.png",
+    "inference_time": 1563.9936923980713
+  },
+  {
+    "manchu_gt": "ᠠᠪᡴᠠᡳ",
+    "roman_gt": "ABKAI",
+    "manchu_pred": "ᡝᠪᡴᡝᠨᡳ",
+    "roman_pred": "EBKENI",
+    "image_path": "test_00413.png",
+    "inference_time": 1644.8583602905273
+  },
+  {
+    "manchu_gt": "ᠪᡝᡩᡝᡵᡝᠸᡳ",
+    "roman_gt": "BEDEREFI",
+    "manchu_pred": "ᠪᡝᡩᡝᡵᡝᠸᡳ",
+    "roman_pred": "BEDEREFI",
+    "image_path": "test_00346.png",
+    "inference_time": 1894.3967819213867
+  },
+  {
+    "manchu_gt": "ᠠᠰᡥᠠᠨ",
+    "roman_gt": "ASHAN",
+    "manchu_pred": "ᠠᠰᡥᠠᠨ",
+    "roman_pred": "ASHAN",
+    "image_path": "test_00355.png",
+    "inference_time": 1477.9729843139648
+  },
+  {
+    "manchu_gt": "ᡤᡳᠶᠠᠨ",
+    "roman_gt": "GIYAN",
+    "manchu_pred": "ᡤᡳᠶᠠᠨ",
+    "roman_pred": "GIYAN",
+    "image_path": "test_00474.png",
+    "inference_time": 1646.2583541870117
+  },
+  {
+    "manchu_gt": "ᠠᡥᡡᠨ",
+    "roman_gt": "AHŪN",
+    "manchu_pred": "ᠠᡥᡡᠨ",
+    "roman_pred": "AHŪN",
+    "image_path": "test_00378.png",
+    "inference_time": 1399.9300003051758
+  },
+  {
+    "manchu_gt": " ᡳᠣ",
+    "roman_gt": "IO",
+    "manchu_pred": "ᡝᠸᠣ",
+    "roman_pred": "EFO",
+    "image_path": "test_00011.png",
+    "inference_time": 1236.5291118621826
+  },
+  {
+    "manchu_gt": "ᠠᠨᡳᠶᠠ",
+    "roman_gt": "ANIYA",
+    "manchu_pred": "ᠠᠨᡳᠶᠠ",
+    "roman_pred": "ANIYA",
+    "image_path": "test_00565.png",
+    "inference_time": 1648.0157375335693
+  },
+  {
+    "manchu_gt": "ᠰᡠᠨᠵᠠᠴᡳ",
+    "roman_gt": "SUNJACI",
+    "manchu_pred": "ᠰᡠᠨᠵᠠᠴᡳ",
+    "roman_pred": "SUNJACI",
+    "image_path": "test_00324.png",
+    "inference_time": 1818.1653022766113
+  },
+  {
+    "manchu_gt": "ᠰᠠᡵᡤᠠᠨ",
+    "roman_gt": "SARGAN",
+    "manchu_pred": "ᠰᠠᡵᡤᠠᠨ",
+    "roman_pred": "SARGAN",
+    "image_path": "test_00198.png",
+    "inference_time": 1568.4547424316406
+  },
+  {
+    "manchu_gt": "ᠸᡝᡥᡳᠶᡝᡥᡝ",
+    "roman_gt": "WEHIYEHE",
+    "manchu_pred": "ᠸᡝᡥᡳᠶᡝᡥᡝ",
+    "roman_pred": "WEHIYEHE",
+    "image_path": "test_00414.png",
+    "inference_time": 1977.86545753479
+  },
+  {
+    "manchu_gt": "ᠵᠠᡴᠠᡩᡝ",
+    "roman_gt": "JAKADE",
+    "manchu_pred": "ᠵᠠᡴᠠᡩᡝ",
+    "roman_pred": "JAKADE",
+    "image_path": "test_00056.png",
+    "inference_time": 1649.153232574463
+  },
+  {
+    "manchu_gt": "ᡤᡳᠰᡠᠨ",
+    "roman_gt": "GISUN",
+    "manchu_pred": "ᡤᡳᠰᡠᠨ",
+    "roman_pred": "GISUN",
+    "image_path": "test_00466.png",
+    "inference_time": 1479.0284633636475
+  },
+  {
+    "manchu_gt": "ᡶᠠᡵᡤᠠᠮᡝ",
+    "roman_gt": "FARGAME",
+    "manchu_pred": "ᡶᠠᡵᡤᠠᠮᡝ",
+    "roman_pred": "FARGAME",
+    "image_path": "test_00197.png",
+    "inference_time": 1644.5040702819824
+  },
+  {
+    "manchu_gt": "ᡝᠮᡤᡳ",
+    "roman_gt": "EMGI",
+    "manchu_pred": "ᡝᠮᡤᡳ",
+    "roman_pred": "EMGI",
+    "image_path": "test_00019.png",
+    "inference_time": 1399.8863697052002
+  },
+  {
+    "manchu_gt": "ᠪᡝ",
+    "roman_gt": "BE",
+    "manchu_pred": "ᠪᡝ",
+    "roman_pred": "BE",
+    "image_path": "test_00162.png",
+    "inference_time": 1066.8346881866455
+  },
+  {
+    "manchu_gt": "ᡤᡝᠮᡠᠨ",
+    "roman_gt": "GEMUN",
+    "manchu_pred": "ᡤᡝᠮᡠᠨ",
+    "roman_pred": "GEMUN",
+    "image_path": "test_00632.png",
+    "inference_time": 1478.9011478424072
+  },
+  {
+    "manchu_gt": "ᠪᡳ",
+    "roman_gt": "BI",
+    "manchu_pred": "ᠪᡳ",
+    "roman_pred": "BI",
+    "image_path": "test_00443.png",
+    "inference_time": 1150.7315635681152
+  },
+  {
+    "manchu_gt": "ᡩᠠᠩᠰᡝ",
+    "roman_gt": "DANGSE",
+    "manchu_pred": "ᡩᠠᠩᠰᡝ",
+    "roman_pred": "DANGSE",
+    "image_path": "test_00308.png",
+    "inference_time": 1484.3807220458984
+  },
+  {
+    "manchu_gt": "ᡝᠨᡩᡠᡵᡳᠩᡤᡝᡳ",
+    "roman_gt": "ENDURINGGEI",
+    "manchu_pred": "ᡝᠨᡩᡠᡵᡳᠩᡤᡝ",
+    "roman_pred": "ENDURINGGE",
+    "image_path": "test_00661.png",
+    "inference_time": 1979.0589809417725
+  },
+  {
+    "manchu_gt": "ᠨᡝᡵᡤᡳᠨᡩᡝ",
+    "roman_gt": "NERGINDE",
+    "manchu_pred": "ᠨᡝᡵᡤᡳᡩᡝ",
+    "roman_pred": "NERGIDE",
+    "image_path": "test_00554.png",
+    "inference_time": 1895.5531120300293
+  },
+  {
+    "manchu_gt": "ᡤᡳᠩ",
+    "roman_gt": "GING",
+    "manchu_pred": "ᡤᡳᠩ",
+    "roman_pred": "GING",
+    "image_path": "test_00325.png",
+    "inference_time": 1312.2272491455078
+  },
+  {
+    "manchu_gt": "ᡧᡡᠨ",
+    "roman_gt": "ŠŪN",
+    "manchu_pred": "ᡧᡠᡵᡝ",
+    "roman_pred": "ŠURE",
+    "image_path": "test_00073.png",
+    "inference_time": 1398.5211849212646
+  },
+  {
+    "manchu_gt": "ᠰᡝᡵᡝᠮᡧᡝᠮᡝ",
+    "roman_gt": "SEREMŠEME",
+    "manchu_pred": "ᠰᡝᡵᡝᠮᡧᡝᠮᡝ",
+    "roman_pred": "SEREMŠEME",
+    "image_path": "test_00075.png",
+    "inference_time": 2059.859275817871
+  },
+  {
+    "manchu_gt": "ᡠᡨᡥᠠᡳ",
+    "roman_gt": "UTHAI",
+    "manchu_pred": "ᡠᡨᡥᠠᡳ",
+    "roman_pred": "UTHAI",
+    "image_path": "test_00003.png",
+    "inference_time": 1642.8272724151611
+  },
+  {
+    "manchu_gt": "ᡩᡝᠨ",
+    "roman_gt": "DEN",
+    "manchu_pred": "ᡩᡝᠨ",
+    "roman_pred": "DEN",
+    "image_path": "test_00704.png",
+    "inference_time": 1143.9497470855713
+  },
+  {
+    "manchu_gt": "ᠰᡠᠰᠠᡳ",
+    "roman_gt": "SUSAI",
+    "manchu_pred": "ᠰᡠᠰᠠᡳ",
+    "roman_pred": "SUSAI",
+    "image_path": "test_00016.png",
+    "inference_time": 1463.4974002838135
+  },
+  {
+    "manchu_gt": "ᠪᡳᠮᡝ",
+    "roman_gt": "BIME",
+    "manchu_pred": "ᠪᠠᠮᡝ",
+    "roman_pred": "BAME",
+    "image_path": "test_00674.png",
+    "inference_time": 1307.2493076324463
+  },
+  {
+    "manchu_gt": "ᡨᠣᠵᡳᠨ",
+    "roman_gt": "TOJIN",
+    "manchu_pred": "ᡨᠣᠵᡳᠨ",
+    "roman_pred": "TOJIN",
+    "image_path": "test_00685.png",
+    "inference_time": 1556.546688079834
+  },
+  {
+    "manchu_gt": "ᠵᠠᠯᡳᠨ",
+    "roman_gt": "JALIN",
+    "manchu_pred": "ᠵᠠᠯᡳᠨ",
+    "roman_pred": "JALIN",
+    "image_path": "test_00618.png",
+    "inference_time": 1555.2268028259277
+  },
+  {
+    "manchu_gt": "ᠪᠠᠨᠵᡳᠨᠵᡳᠸᡳ",
+    "roman_gt": "BANJINJIFI",
+    "manchu_pred": "ᠪᠠᠨᠵᡳᠨᠵᡳᠸᡳ",
+    "roman_pred": "BANJINJIFI",
+    "image_path": "test_00663.png",
+    "inference_time": 2381.453514099121
+  },
+  {
+    "manchu_gt": "ᡥᠠᠨᠴᡳ",
+    "roman_gt": "HANCI",
+    "manchu_pred": "ᡥᠠᠨᠴᡳ",
+    "roman_pred": "HANCI",
+    "image_path": "test_00283.png",
+    "inference_time": 1563.0192756652832
+  },
+  {
+    "manchu_gt": "ᠣᠶᠣᠩᡤᠣ",
+    "roman_gt": "OYONGGO",
+    "manchu_pred": "ᠣᠶᠣᠩᡤᠣ",
+    "roman_pred": "OYONGGO",
+    "image_path": "test_00476.png",
+    "inference_time": 1733.3197593688965
+  },
+  {
+    "manchu_gt": "ᡤᡠᡵᡠᠨ",
+    "roman_gt": "GURUN",
+    "manchu_pred": "ᡤᡠᡵᡠᠨ",
+    "roman_pred": "GURUN",
+    "image_path": "test_00374.png",
+    "inference_time": 1481.3566207885742
+  },
+  {
+    "manchu_gt": "ᠪᡳᡥᡝ",
+    "roman_gt": "BIHE",
+    "manchu_pred": "ᠪᡳᡥᡝ",
+    "roman_pred": "BIHE",
+    "image_path": "test_00580.png",
+    "inference_time": 1397.4838256835938
+  },
+  {
+    "manchu_gt": "ᡥᠠᡶᠠᠰᠠᡳ",
+    "roman_gt": "HAFASAI",
+    "manchu_pred": "ᡥᠠᡶᠠᠰᡳ",
+    "roman_pred": "HAFASI",
+    "image_path": "test_00431.png",
+    "inference_time": 1730.1075458526611
+  },
+  {
+    "manchu_gt": "ᠯᠠᡨᡠᠨᠠᡥᠠᡴᡡ",
+    "roman_gt": "LATUNAHAKŪ",
+    "manchu_pred": "ᠯᠠᡨᡠᠨᠠᡥᠠᡴᡡ",
+    "roman_pred": "LATUNAHAKŪ",
+    "image_path": "test_00215.png",
+    "inference_time": 2145.0130939483643
+  },
+  {
+    "manchu_gt": "ᠪᠠᡩᡝ",
+    "roman_gt": "BADE",
+    "manchu_pred": "ᠪᠠᡩᡝ",
+    "roman_pred": "BADE",
+    "image_path": "test_00382.png",
+    "inference_time": 1395.531415939331
+  },
+  {
+    "manchu_gt": "ᠣᡵᡳᠨ",
+    "roman_gt": "ORIN",
+    "manchu_pred": "ᠣᡵᡳᠨ",
+    "roman_pred": "ORIN",
+    "image_path": "test_00568.png",
+    "inference_time": 1400.1169204711914
+  },
+  {
+    "manchu_gt": "ᡠᠩᡤᡳᡥᡝ",
+    "roman_gt": "UNGGIHE",
+    "manchu_pred": "ᡠᠩᡤᡳᡥᡝ",
+    "roman_pred": "UNGGIHE",
+    "image_path": "test_00743.png",
+    "inference_time": 1723.3781814575195
+  },
+  {
+    "manchu_gt": "ᡤᠣᠰᡳᠨ",
+    "roman_gt": "GOSIN",
+    "manchu_pred": "ᡤᠣᠰᡳᠨ",
+    "roman_pred": "GOSIN",
+    "image_path": "test_00062.png",
+    "inference_time": 1561.0971450805664
+  },
+  {
+    "manchu_gt": "ᠠᡩᠠᡵᠠᠮᡝ",
+    "roman_gt": "ADARAME",
+    "manchu_pred": "ᠠᡩᠠᡵᠠᠮᡝ",
+    "roman_pred": "ADARAME",
+    "image_path": "test_00456.png",
+    "inference_time": 1721.6830253601074
+  },
+  {
+    "manchu_gt": "ᡨᠠᠨ",
+    "roman_gt": "TAN",
+    "manchu_pred": "ᡨᠠᠨ",
+    "roman_pred": "TAN",
+    "image_path": "test_00127.png",
+    "inference_time": 1234.020471572876
+  },
+  {
+    "manchu_gt": "ᠪᡝᠨᠵᡳᠮᡝ",
+    "roman_gt": "BENJIME",
+    "manchu_pred": "ᠪᡝᠨᠵᡳᠮᡝ",
+    "roman_pred": "BENJIME",
+    "image_path": "test_00146.png",
+    "inference_time": 1726.9489765167236
+  },
+  {
+    "manchu_gt": "ᡨᡠᠮᡝᠨ",
+    "roman_gt": "TUMEN",
+    "manchu_pred": "ᡨᡠᠮᡝᠨ",
+    "roman_pred": "TUMEN",
+    "image_path": "test_00719.png",
+    "inference_time": 1477.4158000946045
+  },
+  {
+    "manchu_gt": "ᠰᡝᠮᡝ",
+    "roman_gt": "SEME",
+    "manchu_pred": "ᠰᡝᠮᡝᠨ",
+    "roman_pred": "SEMEN",
+    "image_path": "test_00486.png",
+    "inference_time": 1396.590232849121
+  },
+  {
+    "manchu_gt": "ᠯᡳᠨ",
+    "roman_gt": "LIN",
+    "manchu_pred": "ᠯᡳᠨ",
+    "roman_pred": "LIN",
+    "image_path": "test_00027.png",
+    "inference_time": 1231.264352798462
+  },
+  {
+    "manchu_gt": "ᡝᠸᡠᠯᡝᡥᡝᡴᡡ",
+    "roman_gt": "EFULEHEKŪ",
+    "manchu_pred": "ᡝᠸᡠᠯᡝᡥᠠᡴᡡ",
+    "roman_pred": "EFULEHAKŪ",
+    "image_path": "test_00249.png",
+    "inference_time": 1960.9286785125732
+  },
+  {
+    "manchu_gt": "ᡴᡠᠨᡩᡠᠯᡝᠮᡝ",
+    "roman_gt": "KUNDULEME",
+    "manchu_pred": "ᡴᡠᠨᡩᡠᠯᡝᠮᡝ",
+    "roman_pred": "KUNDULEME",
+    "image_path": "test_00379.png",
+    "inference_time": 1876.8455982208252
+  },
+  {
+    "manchu_gt": "ᠰᡳᠮᠨᡝᡵᡝ",
+    "roman_gt": "SIMNERE",
+    "manchu_pred": "ᠰᡳᠮᠨᡝᡵᡝ",
+    "roman_pred": "SIMNERE",
+    "image_path": "test_00537.png",
+    "inference_time": 1718.1131839752197
+  },
+  {
+    "manchu_gt": "ᡥᡝᠰᡝ",
+    "roman_gt": "HESE",
+    "manchu_pred": "ᡥᡝᠰᡝ",
+    "roman_pred": "HESE",
+    "image_path": "test_00629.png",
+    "inference_time": 1301.5949726104736
+  },
+  {
+    "manchu_gt": "ᡤᡳᠰᡠᡵᡝᡥᡝ",
+    "roman_gt": "GISUREHE",
+    "manchu_pred": "ᡤᡳᠰᡠᡵᡝᡥᡝ",
+    "roman_pred": "GISUREHE",
+    "image_path": "test_00292.png",
+    "inference_time": 1795.2475547790527
+  },
+  {
+    "manchu_gt": "ᠶᠠᡵᡤᡳᠶᠠᠨ",
+    "roman_gt": "YARGIYAN",
+    "manchu_pred": "ᠶᠠᡵᡤᡳᠶᠠᠨ",
+    "roman_pred": "YARGIYAN",
+    "image_path": "test_00265.png",
+    "inference_time": 2039.0002727508545
+  },
+  {
+    "manchu_gt": "ᡝᠯᡥᡝ",
+    "roman_gt": "ELHE",
+    "manchu_pred": "ᡝᠯᡥᡝ",
+    "roman_pred": "ELHE",
+    "image_path": "test_00607.png",
+    "inference_time": 1302.5386333465576
+  },
+  {
+    "manchu_gt": "ᡥᠠᡶᠠᠨ",
+    "roman_gt": "HAFAN",
+    "manchu_pred": "ᡥᠠᡶᠠᠨ",
+    "roman_pred": "HAFAN",
+    "image_path": "test_00247.png",
+    "inference_time": 1545.8948612213135
+  },
+  {
+    "manchu_gt": " ᡳᠰᠠᠸᡳ",
+    "roman_gt": "ISAFI",
+    "manchu_pred": "ᡳᠰᠠᠸᡳ",
+    "roman_pred": "ISAFI",
+    "image_path": "test_00330.png",
+    "inference_time": 1710.9525203704834
+  },
+  {
+    "manchu_gt": "ᡤᡝᠮᡠᠨ",
+    "roman_gt": "GEMUN",
+    "manchu_pred": "ᡤᡝᠮᡠᠨ",
+    "roman_pred": "GEMUN",
+    "image_path": "test_00536.png",
+    "inference_time": 1465.8210277557373
+  },
+  {
+    "manchu_gt": "ᠪᡝ",
+    "roman_gt": "BE",
+    "manchu_pred": "ᠪᡝ",
+    "roman_pred": "BE",
+    "image_path": "test_00722.png",
+    "inference_time": 1066.286325454712
+  },
+  {
+    "manchu_gt": "ᠮᠣᠩᡤᠣᡳ",
+    "roman_gt": "MONGGOI",
+    "manchu_pred": "ᠮᠣᠩᡤᠣᡳ",
+    "roman_pred": "MONGGOI",
+    "image_path": "test_00228.png",
+    "inference_time": 1726.6216278076172
+  },
+  {
+    "manchu_gt": "ᠠᠯᠠᡵᠠ",
+    "roman_gt": "ALARA",
+    "manchu_pred": "ᠠᠯᠠᡵᠠ",
+    "roman_pred": "ALARA",
+    "image_path": "test_00498.png",
+    "inference_time": 1394.8924541473389
+  },
+  {
+    "manchu_gt": "ᠪᡝ",
+    "roman_gt": "BE",
+    "manchu_pred": "ᠪᡝ",
+    "roman_pred": "BE",
+    "image_path": "test_00573.png",
+    "inference_time": 1062.4499320983887
+  },
+  {
+    "manchu_gt": "ᠪᡳᠰᡳᡵᡝ",
+    "roman_gt": "BISIRE",
+    "manchu_pred": "ᠪᡳᠰᡳᡵᡝ",
+    "roman_pred": "BISIRE",
+    "image_path": "test_00143.png",
+    "inference_time": 1726.2704372406006
+  },
+  {
+    "manchu_gt": "ᠪᡳᠶᠠᡳ",
+    "roman_gt": "BIYAI",
+    "manchu_pred": "ᡨᡳᠶᠠᡳ",
+    "roman_pred": "TIYAI",
+    "image_path": "test_00567.png",
+    "inference_time": 1727.273941040039
+  },
+  {
+    "manchu_gt": "ᡠᡵᡠᠨᠠᡴᡡ",
+    "roman_gt": "URUNAKŪ",
+    "manchu_pred": "ᡠᡵᡠᠨᠠᡴᡡ",
+    "roman_pred": "URUNAKŪ",
+    "image_path": "test_00288.png",
+    "inference_time": 1731.7142486572266
+  },
+  {
+    "manchu_gt": "ᠪᡠᠴᡝᡥᡝᡴᡡ",
+    "roman_gt": "BUCEHEKŪ",
+    "manchu_pred": "ᠪᡠᠴᡝᡥᠠᡴᡡ",
+    "roman_pred": "BUCEHAKŪ",
+    "image_path": "test_00294.png",
+    "inference_time": 1900.287389755249
+  },
+  {
+    "manchu_gt": "ᠮᡳᠩᡤᠠᠨ",
+    "roman_gt": "MINGGAN",
+    "manchu_pred": "ᠮᡳᠩᡤᠠᠨ",
+    "roman_pred": "MINGGAN",
+    "image_path": "test_00022.png",
+    "inference_time": 1648.8003730773926
+  },
+  {
+    "manchu_gt": "ᡤᠣᠰᡳᠮᡝ",
+    "roman_gt": "GOSIME",
+    "manchu_pred": "ᡤᠣᠰᡳᠮᡝ",
+    "roman_pred": "GOSIME",
+    "image_path": "test_00285.png",
+    "inference_time": 1648.6859321594238
+  },
+  {
+    "manchu_gt": "ᠪᠠᡩᡠᡥᡡ",
+    "roman_gt": "BADUHŪ",
+    "manchu_pred": "ᠪᠠᡩᡠᡥᡡ",
+    "roman_pred": "BADUHŪ",
+    "image_path": "test_00210.png",
+    "inference_time": 1726.6640663146973
+  },
+  {
+    "manchu_gt": "ᠸᡝᡳᠯᡝ",
+    "roman_gt": "WEILE",
+    "manchu_pred": "ᠸᡝᡳᠯᡝ",
+    "roman_pred": "WEILE",
+    "image_path": "test_00238.png",
+    "inference_time": 1485.5492115020752
+  },
+  {
+    "manchu_gt": "ᠮᠠᠩᡤᡳ",
+    "roman_gt": "MANGGI",
+    "manchu_pred": "ᠮᠠᠩᡤᡳ",
+    "roman_pred": "MANGGI",
+    "image_path": "test_00089.png",
+    "inference_time": 1566.6370391845703
+  },
+  {
+    "manchu_gt": "ᠰᠣᠩᡴᠣᡳ",
+    "roman_gt": "SONGKOI",
+    "manchu_pred": "ᠰᠣᠩᡴᠣᡳ",
+    "roman_pred": "SONGKOI",
+    "image_path": "test_00531.png",
+    "inference_time": 1735.1210117340088
+  },
+  {
+    "manchu_gt": "ᠵᡠᠸᡝ",
+    "roman_gt": "JUWE",
+    "manchu_pred": "ᠵᡠᠸᡝ",
+    "roman_pred": "JUWE",
+    "image_path": "test_00354.png",
+    "inference_time": 1398.5576629638672
+  },
+  {
+    "manchu_gt": "ᠪᠠᡥᠠᠨᠠᡵᠠᠩᡤᡝ",
+    "roman_gt": "BAHANARANGGE",
+    "manchu_pred": "ᠪᠠᡥᠠᡵᠠᠩᡤᡝ",
+    "roman_pred": "BAHARANGGE",
+    "image_path": "test_00653.png",
+    "inference_time": 1985.4326248168945
+  },
+  {
+    "manchu_gt": "ᠵᡳᡥᡝ",
+    "roman_gt": "JIHE",
+    "manchu_pred": "ᠵᡳᡥᡝ",
+    "roman_pred": "JIHE",
+    "image_path": "test_00148.png",
+    "inference_time": 1484.6293926239014
+  },
+  {
+    "manchu_gt": "ᠠᡳᠨᠠᡥᠠ",
+    "roman_gt": "AINAHA",
+    "manchu_pred": "ᠠᡳᠨᠠᡥᠠ",
+    "roman_pred": "AINAHA",
+    "image_path": "test_00485.png",
+    "inference_time": 1651.8685817718506
+  },
+  {
+    "manchu_gt": "ᠵᡠᡤᡡᠨ",
+    "roman_gt": "JUGŪN",
+    "manchu_pred": "ᠵᡠᡤᡡᠨ",
+    "roman_pred": "JUGŪN",
+    "image_path": "test_00196.png",
+    "inference_time": 1567.2838687896729
+  },
+  {
+    "manchu_gt": "ᠠᠯᠪᠠᡨᡠ",
+    "roman_gt": "ALBATU",
+    "manchu_pred": "ᠠᠯᠪᠠᡨᡠ",
+    "roman_pred": "ALBATU",
+    "image_path": "test_00655.png",
+    "inference_time": 1649.5697498321533
+  },
+  {
+    "manchu_gt": "ᠠᠮᠠᡵᡤᡳᠴᡳ",
+    "roman_gt": "AMARGICI",
+    "manchu_pred": "ᠠᠮᡝᡵᡤᡳᠴᡳ",
+    "roman_pred": "AMERGICI",
+    "image_path": "test_00576.png",
+    "inference_time": 1985.8527183532715
+  },
+  {
+    "manchu_gt": "ᡥᡝᠴᡝᠨ",
+    "roman_gt": "HECEN",
+    "manchu_pred": "ᡥᡝᠴᡝᠨ",
+    "roman_pred": "HECEN",
+    "image_path": "test_00134.png",
+    "inference_time": 1485.3901863098145
+  },
+  {
+    "manchu_gt": "ᡩᡠᡳᠨ",
+    "roman_gt": "DUIN",
+    "manchu_pred": "ᡩᡠᡳᠨ",
+    "roman_pred": "DUIN",
+    "image_path": "test_00433.png",
+    "inference_time": 1401.2985229492188
+  },
+  {
+    "manchu_gt": "ᡯᠣᠣ",
+    "roman_gt": "DZOO",
+    "manchu_pred": "ᡯᠣᠣ",
+    "roman_pred": "DZOO",
+    "image_path": "test_00012.png",
+    "inference_time": 1319.92506980896
+  },
+  {
+    "manchu_gt": "ᡨᠠᠴᡳᠪᡠᠮᡝ",
+    "roman_gt": "TACIBUME",
+    "manchu_pred": "ᡨᠠᠴᡳᠪᡠᠮᡝ",
+    "roman_pred": "TACIBUME",
+    "image_path": "test_00517.png",
+    "inference_time": 1901.7162322998047
+  },
+  {
+    "manchu_gt": "ᠣᠸᡳ",
+    "roman_gt": "OFI",
+    "manchu_pred": "ᠣᠸᡳ",
+    "roman_pred": "OFI",
+    "image_path": "test_00067.png",
+    "inference_time": 1324.6526718139648
+  },
+  {
+    "manchu_gt": "ᡨᡝᡵᡝ",
+    "roman_gt": "TERE",
+    "manchu_pred": "ᡨᡝᡵᡝ",
+    "roman_pred": "TERE",
+    "image_path": "test_00494.png",
+    "inference_time": 1324.4528770446777
+  },
+  {
+    "manchu_gt": "ᠮᠠᠵᡳᡤᡝ",
+    "roman_gt": "MAJIGE",
+    "manchu_pred": "ᠮᠠᠵᡳᡤᡝ",
+    "roman_pred": "MAJIGE",
+    "image_path": "test_00604.png",
+    "inference_time": 1735.4505062103271
+  },
+  {
+    "manchu_gt": " ᡳᠯᠠᠨ",
+    "roman_gt": "ILAN",
+    "manchu_pred": "ᡳᠯᠠᠨ",
+    "roman_pred": "ILAN",
+    "image_path": "test_00340.png",
+    "inference_time": 1319.1230297088623
+  },
+  {
+    "manchu_gt": "ᡥᠠᡶᠠᠰᠠ",
+    "roman_gt": "HAFASA",
+    "manchu_pred": "ᡥᠠᠯᠸᠠᠰᠠ",
+    "roman_pred": "HALWASA",
+    "image_path": "test_00085.png",
+    "inference_time": 1651.8104076385498
+  },
+  {
+    "manchu_gt": "ᡤᡝᡵᡝᠨ",
+    "roman_gt": "GEREN",
+    "manchu_pred": "ᡤᡝᡵᡝᠨ",
+    "roman_pred": "GEREN",
+    "image_path": "test_00497.png",
+    "inference_time": 1411.7560386657715
+  },
+  {
+    "manchu_gt": "ᡤᡝᠨᡝᡴᡳ",
+    "roman_gt": "GENEKI",
+    "manchu_pred": "ᡤᡝᠨᡝᡴᡳ",
+    "roman_pred": "GENEKI",
+    "image_path": "test_00229.png",
+    "inference_time": 1652.7934074401855
+  },
+  {
+    "manchu_gt": "ᠯᠣᠣᡩᡝ",
+    "roman_gt": "LOODE",
+    "manchu_pred": "ᠯᠣᠣᡩᡝ",
+    "roman_pred": "LOODE",
+    "image_path": "test_00201.png",
+    "inference_time": 1485.8756065368652
+  },
+  {
+    "manchu_gt": "ᡝᡵᡝᡥᡝᡴᡡ",
+    "roman_gt": "EREHEKŪ",
+    "manchu_pred": "ᡝᡵᡝᡥᡝᡴᡡ",
+    "roman_pred": "EREHEKŪ",
+    "image_path": "test_00681.png",
+    "inference_time": 1822.5572109222412
+  },
+  {
+    "manchu_gt": "ᠪᡳᠮᡝ",
+    "roman_gt": "BIME",
+    "manchu_pred": "ᠪᡳᠮᡝ",
+    "roman_pred": "BIME",
+    "image_path": "test_00539.png",
+    "inference_time": 1404.4973850250244
+  },
+  {
+    "manchu_gt": "ᡤᡡᠨᡳᠮᡝ",
+    "roman_gt": "GŪNIME",
+    "manchu_pred": "ᡤᠣᡳᠮᡝ",
+    "roman_pred": "GOIME",
+    "image_path": "test_00727.png",
+    "inference_time": 1492.9451942443848
+  },
+  {
+    "manchu_gt": "ᡤᡳ",
+    "roman_gt": "GI",
+    "manchu_pred": "ᡤᡳ",
+    "roman_pred": "GI",
+    "image_path": "test_00007.png",
+    "inference_time": 1155.686378479004
+  },
+  {
+    "manchu_gt": "ᡩᠠᡥᠠᡥᠠ",
+    "roman_gt": "DAHAHA",
+    "manchu_pred": "ᡩᠠᡥᠠᡥᠠ",
+    "roman_pred": "DAHAHA",
+    "image_path": "test_00088.png",
+    "inference_time": 1571.6047286987305
+  },
+  {
+    "manchu_gt": "ᡶᠠᠩᡤᡳᠨᠠ",
+    "roman_gt": "FANGGINA",
+    "manchu_pred": "ᡶᠠᠩᡤᡳᠨᠠ",
+    "roman_pred": "FANGGINA",
+    "image_path": "test_00744.png",
+    "inference_time": 1828.911542892456
+  },
+  {
+    "manchu_gt": "ᠪᠣᡩᠣᠮᡝ",
+    "roman_gt": "BODOME",
+    "manchu_pred": "ᠪᠣᡩᠣᠮᡝ",
+    "roman_pred": "BODOME",
+    "image_path": "test_00718.png",
+    "inference_time": 1655.6661128997803
+  },
+  {
+    "manchu_gt": "ᡝᠮᡠ",
+    "roman_gt": "EMU",
+    "manchu_pred": "ᡝᠮᡠ",
+    "roman_pred": "EMU",
+    "image_path": "test_00358.png",
+    "inference_time": 1237.8056049346924
+  },
+  {
+    "manchu_gt": "ᠠᡶᠠᠪᡠᠸᡳ",
+    "roman_gt": "AFABUFI",
+    "manchu_pred": "ᡳᠯᡳᠪᡠᠸᡳ",
+    "roman_pred": "ILIBUFI",
+    "image_path": "test_00527.png",
+    "inference_time": 1904.8867225646973
+  },
+  {
+    "manchu_gt": "ᡥᠠᡵᠠᠩᡤᠠ",
+    "roman_gt": "HARANGGA",
+    "manchu_pred": "ᡥᠠᡵᠠᠩᡤᠠ",
+    "roman_pred": "HARANGGA",
+    "image_path": "test_00489.png",
+    "inference_time": 1656.1644077301025
+  },
+  {
+    "manchu_gt": "ᡤᡝᠯᡳ",
+    "roman_gt": "GELI",
+    "manchu_pred": "ᡤᡝᠯᡳ",
+    "roman_pred": "GELI",
+    "image_path": "test_00233.png",
+    "inference_time": 1491.281509399414
+  },
+  {
+    "manchu_gt": "ᠪᡳ",
+    "roman_gt": "BI",
+    "manchu_pred": "ᠪᡳ",
+    "roman_pred": "BI",
+    "image_path": "test_00109.png",
+    "inference_time": 1154.1767120361328
+  },
+  {
+    "manchu_gt": "ᡤᡝᠮᡠ",
+    "roman_gt": "GEMU",
+    "manchu_pred": "ᡤᡝᠮᡠ",
+    "roman_pred": "GEMU",
+    "image_path": "test_00698.png",
+    "inference_time": 1321.8436241149902
+  },
+  {
+    "manchu_gt": "ᠵᠠᡴᡡᠨ",
+    "roman_gt": "JAKŪN",
+    "manchu_pred": "ᠵᠠᡴᡡᠨ",
+    "roman_pred": "JAKŪN",
+    "image_path": "test_00412.png",
+    "inference_time": 1576.6215324401855
+  },
+  {
+    "manchu_gt": "ᠠᡴᡩᡠᠯᠠᠮᡝ",
+    "roman_gt": "AKDULAME",
+    "manchu_pred": "ᠠᡴᡩᡠᠯᠠᠮᡝ",
+    "roman_pred": "AKDULAME",
+    "image_path": "test_00291.png",
+    "inference_time": 1907.609224319458
+  },
+  {
+    "manchu_gt": "ᠰᡝᡥᡝᡳ",
+    "roman_gt": "SEHEI",
+    "manchu_pred": "ᠰᡝᡥᡝᡳ",
+    "roman_pred": "SEHEI",
+    "image_path": "test_00181.png",
+    "inference_time": 1565.3247833251953
+  },
+  {
+    "manchu_gt": "ᠨᠠᡩᠠᠨ",
+    "roman_gt": "NADAN",
+    "manchu_pred": "ᠨᠠᡩᠠ",
+    "roman_pred": "NADA",
+    "image_path": "test_00623.png",
+    "inference_time": 1401.888132095337
+  },
+  {
+    "manchu_gt": "ᡴᡠᠮᡠᠨ",
+    "roman_gt": "KUMUN",
+    "manchu_pred": "ᡴᡠᠮᡠᠨ",
+    "roman_pred": "KUMUN",
+    "image_path": "test_00405.png",
+    "inference_time": 1401.1101722717285
+  },
+  {
+    "manchu_gt": "ᠶᠠᠮᠵᡳ",
+    "roman_gt": "YAMJI",
+    "manchu_pred": "ᠶᠠᠮᠵᡳ",
+    "roman_pred": "YAMJI",
+    "image_path": "test_00391.png",
+    "inference_time": 1571.336030960083
+  },
+  {
+    "manchu_gt": "ᡥᠠᠨ",
+    "roman_gt": "HAN",
+    "manchu_pred": "ᡥᠠᠨ",
+    "roman_pred": "HAN",
+    "image_path": "test_00165.png",
+    "inference_time": 1239.5424842834473
+  },
+  {
+    "manchu_gt": "ᡥᡝᡵᡤᡝᠨ",
+    "roman_gt": "HERGEN",
+    "manchu_pred": "ᡥᡝᡵᡤᡝᠨ",
+    "roman_pred": "HERGEN",
+    "image_path": "test_00449.png",
+    "inference_time": 1485.281229019165
+  },
+  {
+    "manchu_gt": "ᠪᠠᡳᠸᡳ",
+    "roman_gt": "BAIFI",
+    "manchu_pred": "ᠪᡝᡳᠸᡳ",
+    "roman_pred": "BEIFI",
+    "image_path": "test_00630.png",
+    "inference_time": 1568.9880847930908
+  },
+  {
+    "manchu_gt": "ᠸᡠᠵᡳᠶᠠᠩ",
+    "roman_gt": "FUJIYANG",
+    "manchu_pred": "ᠸᡠᠵᡳᠶᠠᠩ",
+    "roman_pred": "FUJIYANG",
+    "image_path": "test_00209.png",
+    "inference_time": 1901.6458988189697
+  },
+  {
+    "manchu_gt": "ᠰᡳᠨᠠᡤᠠᠨ",
+    "roman_gt": "SINAGAN",
+    "manchu_pred": "ᠰᡳᠨᠠᡤᠠᠨ",
+    "roman_pred": "SINAGAN",
+    "image_path": "test_00401.png",
+    "inference_time": 1732.1903705596924
+  },
+  {
+    "manchu_gt": "ᡠᡵᠰᡝ",
+    "roman_gt": "URSE",
+    "manchu_pred": "ᡠᡵᠰᡝ",
+    "roman_pred": "URSE",
+    "image_path": "test_00473.png",
+    "inference_time": 1318.319320678711
+  },
+  {
+    "manchu_gt": "ᠵᠠᡴᡡᠨ",
+    "roman_gt": "JAKŪN",
+    "manchu_pred": "ᠵᠠᡴᡡᠨ",
+    "roman_pred": "JAKŪN",
+    "image_path": "test_00149.png",
+    "inference_time": 1569.4804191589355
+  },
+  {
+    "manchu_gt": "ᡝᠮᡤᡝᡵᡳ",
+    "roman_gt": "EMGERI",
+    "manchu_pred": "ᡝᠮᡤᡝᡵᡳ",
+    "roman_pred": "EMGERI",
+    "image_path": "test_00720.png",
+    "inference_time": 1650.9528160095215
+  },
+  {
+    "manchu_gt": "ᡝᡩᡝ",
+    "roman_gt": "EDE",
+    "manchu_pred": "ᡝᡩᡝ",
+    "roman_pred": "EDE",
+    "image_path": "test_00070.png",
+    "inference_time": 1317.8958892822266
+  },
+  {
+    "manchu_gt": "ᡠᡴᠠᡴᡳ",
+    "roman_gt": "UKAKI",
+    "manchu_pred": "ᡠᡴᠠᡴᡳ",
+    "roman_pred": "UKAKI",
+    "image_path": "test_00255.png",
+    "inference_time": 1572.843313217163
+  },
+  {
+    "manchu_gt": "ᠠᡤᡡᡵᠠ",
+    "roman_gt": "AGŪRA",
+    "manchu_pred": "ᠠᡤᡡᡵᠠ",
+    "roman_pred": "AGŪRA",
+    "image_path": "test_00037.png",
+    "inference_time": 1488.3105754852295
+  },
+  {
+    "manchu_gt": "ᠪᡝ",
+    "roman_gt": "BE",
+    "manchu_pred": "ᠪᡝ",
+    "roman_pred": "BE",
+    "image_path": "test_00428.png",
+    "inference_time": 1070.6861019134521
+  },
+  {
+    "manchu_gt": "ᡤᡝᡵᡝᠨ",
+    "roman_gt": "GEREN",
+    "manchu_pred": "ᡤᡝᡵᡝᠨ",
+    "roman_pred": "GEREN",
+    "image_path": "test_00318.png",
+    "inference_time": 1403.5942554473877
+  },
+  {
+    "manchu_gt": "ᠣᠮᡧᠣᠨ",
+    "roman_gt": "OMŠON",
+    "manchu_pred": "ᠣᠮᡧᠣᠨ",
+    "roman_pred": "OMŠON",
+    "image_path": "test_00566.png",
+    "inference_time": 1570.6400871276855
+  },
+  {
+    "manchu_gt": "ᠴᠣᠣᡥᠠᡳ",
+    "roman_gt": "COOHAI",
+    "manchu_pred": "ᠴᠣᠣᡥᠠᡳ",
+    "roman_pred": "COOHAI",
+    "image_path": "test_00322.png",
+    "inference_time": 1655.827283859253
+  },
+  {
+    "manchu_gt": " ᡳᠨᡩᠠᡥᡡᠨ",
+    "roman_gt": "INDAHŪN",
+    "manchu_pred": "ᡳᠨᡩᠠᡥᡡᠨ",
+    "roman_pred": "INDAHŪN",
+    "image_path": "test_00712.png",
+    "inference_time": 2067.9678916931152
+  },
+  {
+    "manchu_gt": "ᡴᠠᡵᠠᠴᡳᠨ",
+    "roman_gt": "KARACIN",
+    "manchu_pred": "ᡴᠠᡵᠠᠴᡳᠨ",
+    "roman_pred": "KARACIN",
+    "image_path": "test_00158.png",
+    "inference_time": 1736.4678382873535
+  },
+  {
+    "manchu_gt": "ᡩᠠᡳᠨ",
+    "roman_gt": "DAIN",
+    "manchu_pred": "ᡩᠠᡳᠨ",
+    "roman_pred": "DAIN",
+    "image_path": "test_00095.png",
+    "inference_time": 1403.599739074707
+  },
+  {
+    "manchu_gt": "ᡨᡝᡥᡝ",
+    "roman_gt": "TEHE",
+    "manchu_pred": "ᡨᡝᡥᡝ",
+    "roman_pred": "TEHE",
+    "image_path": "test_00348.png",
+    "inference_time": 1321.0513591766357
+  },
+  {
+    "manchu_gt": "ᠣᠵᠣᡵᠠᡴᡡ",
+    "roman_gt": "OJORAKŪ",
+    "manchu_pred": "ᠣᠵᠣᡵᠠᡴᡡ",
+    "roman_pred": "OJORAKŪ",
+    "image_path": "test_00487.png",
+    "inference_time": 1734.4374656677246
+  },
+  {
+    "manchu_gt": "ᠨᡝᠨᡝᠮᡝ",
+    "roman_gt": "NENEME",
+    "manchu_pred": "ᠨᡝᠨᡝᠮᡝ",
+    "roman_pred": "NENEME",
+    "image_path": "test_00175.png",
+    "inference_time": 1650.007724761963
+  },
+  {
+    "manchu_gt": "ᠵᡝᡵᡤᡳ",
+    "roman_gt": "JERGI",
+    "manchu_pred": "ᠵᡝᡵᡤᡳ",
+    "roman_pred": "JERGI",
+    "image_path": "test_00341.png",
+    "inference_time": 1570.81937789917
+  },
+  {
+    "manchu_gt": "ᠵᡠᠸᠠᡵᡳ",
+    "roman_gt": "JUWARI",
+    "manchu_pred": "ᠵᡠᠸᠠᡵᡳ",
+    "roman_pred": "JUWARI",
+    "image_path": "test_00596.png",
+    "inference_time": 1737.745761871338
+  },
+  {
+    "manchu_gt": "ᠨᡳᡴᠠᠨ",
+    "roman_gt": "NIKAN",
+    "manchu_pred": "ᠨᠠᡴᠠ",
+    "roman_pred": "NAKA",
+    "image_path": "test_00186.png",
+    "inference_time": 1402.047872543335
+  },
+  {
+    "manchu_gt": "ᡤᡡᠨᡳᡥᠠᡩᠠᡵᡳ",
+    "roman_gt": "GŪNIHADARI",
+    "manchu_pred": "ᡤᡡᠨᡳᡥᠠᡩᠠᡵᡳ",
+    "roman_pred": "GŪNIHADARI",
+    "image_path": "test_00690.png",
+    "inference_time": 2399.677515029907
+  },
+  {
+    "manchu_gt": "ᠠᠯᠠᡵᠠ",
+    "roman_gt": "ALARA",
+    "manchu_pred": "ᠠᠯᠠᡵᠠ",
+    "roman_pred": "ALARA",
+    "image_path": "test_00263.png",
+    "inference_time": 1402.6062488555908
+  },
+  {
+    "manchu_gt": "ᡤᠠᡳᡥᠠ",
+    "roman_gt": "GAIHA",
+    "manchu_pred": "ᡤᠠᡳᡥᠠ",
+    "roman_pred": "GAIHA",
+    "image_path": "test_00411.png",
+    "inference_time": 1567.2695636749268
+  },
+  {
+    "manchu_gt": "ᠪᡳᡥᡝ",
+    "roman_gt": "BIHE",
+    "manchu_pred": "ᠪᡳᡥᡝ",
+    "roman_pred": "BIHE",
+    "image_path": "test_00257.png",
+    "inference_time": 1399.3146419525146
+  },
+  {
+    "manchu_gt": "ᠪᡳ",
+    "roman_gt": "BI",
+    "manchu_pred": "ᠪᡳ",
+    "roman_pred": "BI",
+    "image_path": "test_00659.png",
+    "inference_time": 1149.0333080291748
+  },
+  {
+    "manchu_gt": " ᡳᠴᡝ",
+    "roman_gt": "ICE",
+    "manchu_pred": "ᡳᠴᡝ",
+    "roman_pred": "ICE",
+    "image_path": "test_00316.png",
+    "inference_time": 1153.412103652954
+  },
+  {
+    "manchu_gt": "ᠠᠨ",
+    "roman_gt": "AN",
+    "manchu_pred": "ᠠᠨ",
+    "roman_pred": "AN",
+    "image_path": "test_00251.png",
+    "inference_time": 1071.7356204986572
+  },
+  {
+    "manchu_gt": "ᠶᡠᠸᠠᠨ",
+    "roman_gt": "YUWAN",
+    "manchu_pred": "ᠶᡠᠸᠠᠨ",
+    "roman_pred": "YUWAN",
+    "image_path": "test_00749.png",
+    "inference_time": 1565.626621246338
+  },
+  {
+    "manchu_gt": "ᡠᠨᡝᠩᡤᡳ",
+    "roman_gt": "UNENGGI",
+    "manchu_pred": "ᡠᠨᡝᠩᡤᡳ",
+    "roman_pred": "UNENGGI",
+    "image_path": "test_00506.png",
+    "inference_time": 1734.137773513794
+  },
+  {
+    "manchu_gt": "ᡧᡳ",
+    "roman_gt": "ŠI",
+    "manchu_pred": "ᡧᡳ",
+    "roman_pred": "ŠI",
+    "image_path": "test_00078.png",
+    "inference_time": 1319.9703693389893
+  },
+  {
+    "manchu_gt": "ᠠᠯᡳᠶᠠᠮᡝ",
+    "roman_gt": "ALIYAME",
+    "manchu_pred": "ᠠᠯᡳᠶᠠᠮᡝ",
+    "roman_pred": "ALIYAME",
+    "image_path": "test_00240.png",
+    "inference_time": 1899.71923828125
+  },
+  {
+    "manchu_gt": "ᠠᠮᡳᠨ",
+    "roman_gt": "AMIN",
+    "manchu_pred": "ᠠᠮᡳᠨ",
+    "roman_pred": "AMIN",
+    "image_path": "test_00376.png",
+    "inference_time": 1400.6967544555664
+  },
+  {
+    "manchu_gt": "ᠣᠯᡥᠣᠮᡝ",
+    "roman_gt": "OLHOME",
+    "manchu_pred": "ᠣᠯᡥᠣᠮᡝ",
+    "roman_pred": "OLHOME",
+    "image_path": "test_00214.png",
+    "inference_time": 1483.8812351226807
+  },
+  {
+    "manchu_gt": "ᠰᡝᡥᡝ",
+    "roman_gt": "SEHE",
+    "manchu_pred": "ᠰᡝᡥᡝ",
+    "roman_pred": "SEHE",
+    "image_path": "test_00549.png",
+    "inference_time": 1318.8705444335938
+  },
+  {
+    "manchu_gt": "ᠠᠨᡳᠶᠠ",
+    "roman_gt": "ANIYA",
+    "manchu_pred": "ᡝᠨᡳᠶᠠ",
+    "roman_pred": "ENIYA",
+    "image_path": "test_00418.png",
+    "inference_time": 1652.5821685791016
+  },
+  {
+    "manchu_gt": "ᠵᠠᠪᡧᠠᠨ",
+    "roman_gt": "JABŠAN",
+    "manchu_pred": "ᠵᠠᠪᡧᠠᠨ",
+    "roman_pred": "JABŠAN",
+    "image_path": "test_00660.png",
+    "inference_time": 1737.5190258026123
+  },
+  {
+    "manchu_gt": "ᠶᡝᡥᡝ",
+    "roman_gt": "YEHE",
+    "manchu_pred": "ᠶᡝᡥᡝ",
+    "roman_pred": "YEHE",
+    "image_path": "test_00270.png",
+    "inference_time": 1319.0438747406006
+  },
+  {
+    "manchu_gt": "ᡩᡝ",
+    "roman_gt": "DE",
+    "manchu_pred": "ᡩᡝ",
+    "roman_pred": "DE",
+    "image_path": "test_00013.png",
+    "inference_time": 1078.2196521759033
+  },
+  {
+    "manchu_gt": "ᠣᠪᡠᡵᠠᡴᡡᠴᡳ",
+    "roman_gt": "OBURAKŪCI",
+    "manchu_pred": "ᠣᠪᡠᡵᠠᡴᡡᠴᡳ",
+    "roman_pred": "OBURAKŪCI",
+    "image_path": "test_00492.png",
+    "inference_time": 2071.2311267852783
+  },
+  {
+    "manchu_gt": "ᡩᡠᡵᡝᠩ",
+    "roman_gt": "DURENG",
+    "manchu_pred": "ᡩᡠᡵᡝᠩ",
+    "roman_pred": "DURENG",
+    "image_path": "test_00161.png",
+    "inference_time": 1483.8545322418213
+  },
+  {
+    "manchu_gt": "ᡝᡳᡨᡝᠨ",
+    "roman_gt": "EITEN",
+    "manchu_pred": "ᡝᡳᡨᡝᠨ",
+    "roman_pred": "EITEN",
+    "image_path": "test_00392.png",
+    "inference_time": 1649.8849391937256
+  },
+  {
+    "manchu_gt": "ᡨᡠᠴᡳᠪᡠᠸᡳ",
+    "roman_gt": "TUCIBUFI",
+    "manchu_pred": "ᡨᡠᠴᡳᠪᡠᠸᡳ",
+    "roman_pred": "TUCIBUFI",
+    "image_path": "test_00216.png",
+    "inference_time": 2067.4445629119873
+  },
+  {
+    "manchu_gt": "ᠪᠠᠪᡝ",
+    "roman_gt": "BABE",
+    "manchu_pred": "ᠪᠠᠪᡝ",
+    "roman_pred": "BABE",
+    "image_path": "test_00207.png",
+    "inference_time": 1317.4664974212646
+  },
+  {
+    "manchu_gt": "ᡩᡝᡵᡳᠪᡠᠸᡳ",
+    "roman_gt": "DERIBUFI",
+    "manchu_pred": "ᡩᡝᡵᡳᠪᡠᠸᡳ",
+    "roman_pred": "DERIBUFI",
+    "image_path": "test_00112.png",
+    "inference_time": 1986.6943359375
+  },
+  {
+    "manchu_gt": "ᡤᡡᠨᡳᠨ",
+    "roman_gt": "GŪNIN",
+    "manchu_pred": "ᡤᡡᠨᡳᠨ",
+    "roman_pred": "GŪNIN",
+    "image_path": "test_00507.png",
+    "inference_time": 1653.2647609710693
+  },
+  {
+    "manchu_gt": "ᠨᡳᠶᠠᠯᠮᠠᡳ",
+    "roman_gt": "NIYALMAI",
+    "manchu_pred": "ᠨᡳᠶᠠᠯᠮᠠᡳ",
+    "roman_pred": "NIYALMAI",
+    "image_path": "test_00018.png",
+    "inference_time": 2150.5000591278076
+  },
+  {
+    "manchu_gt": "ᠠᡳᡩᡝ",
+    "roman_gt": "AIDE",
+    "manchu_pred": "ᠠᡳᡩᡝ",
+    "roman_pred": "AIDE",
+    "image_path": "test_00523.png",
+    "inference_time": 1483.3128452301025
+  },
+  {
+    "manchu_gt": " ᡳᠨᡝᠩᡤᡳ",
+    "roman_gt": "INENGGI",
+    "manchu_pred": "ᡝᡵᡝᠩᡤᡳ",
+    "roman_pred": "ERENGGI",
+    "image_path": "test_00157.png",
+    "inference_time": 1736.4184856414795
+  },
+  {
+    "manchu_gt": "ᠠᡵᠯᠠ",
+    "roman_gt": "ARLA",
+    "manchu_pred": "ᠠᡵᠯᠠ",
+    "roman_pred": "ARLA",
+    "image_path": "test_00205.png",
+    "inference_time": 1319.103479385376
+  },
+  {
+    "manchu_gt": "ᠠᠪᡴᠠ",
+    "roman_gt": "ABKA",
+    "manchu_pred": "ᠠᠪᡴᠠ",
+    "roman_pred": "ABKA",
+    "image_path": "test_00335.png",
+    "inference_time": 1319.6401596069336
+  },
+  {
+    "manchu_gt": "ᡝᡵᡝᠪᡝ",
+    "roman_gt": "EREBE",
+    "manchu_pred": "ᡝᡵᡝᠪᡝ",
+    "roman_pred": "EREBE",
+    "image_path": "test_00458.png",
+    "inference_time": 1480.5431365966797
+  },
+  {
+    "manchu_gt": "ᡨᠠᡴᡡᡵᠠᡥᠠ",
+    "roman_gt": "TAKŪRAHA",
+    "manchu_pred": "ᡨᠠᡴᡡᡵᠠᡥᠠ",
+    "roman_pred": "TAKŪRAHA",
+    "image_path": "test_00223.png",
+    "inference_time": 1903.337001800537
+  },
+  {
+    "manchu_gt": "ᠸᡝᠰᡳᠮᠪᡠᡵᡝ",
+    "roman_gt": "WESIMBURE",
+    "manchu_pred": "ᠸᡝᠰᡳᠮᠪᡠᡵᡝ",
+    "roman_pred": "WESIMBURE",
+    "image_path": "test_00696.png",
+    "inference_time": 2066.6136741638184
+  },
+  {
+    "manchu_gt": "ᡩᠠᡥᠠ",
+    "roman_gt": "DAHA",
+    "manchu_pred": "ᡨᠠᡥᠠ",
+    "roman_pred": "TAHA",
+    "image_path": "test_00578.png",
+    "inference_time": 1319.4375038146973
+  },
+  {
+    "manchu_gt": " ᡳᠰᡳᠪᡠᠠᡴᡡ",
+    "roman_gt": "ISIBUAKŪ",
+    "manchu_pred": "ᡳᠰᡳᠪᡠᡴᡡ",
+    "roman_pred": "ISIBUKŪ",
+    "image_path": "test_00521.png",
+    "inference_time": 1986.3383769989014
+  },
+  {
+    "manchu_gt": "ᠰᡝ",
+    "roman_gt": "SE",
+    "manchu_pred": "ᠰᡝ",
+    "roman_pred": "SE",
+    "image_path": "test_00362.png",
+    "inference_time": 1071.4216232299805
+  },
+  {
+    "manchu_gt": "ᠶᠠᠪᡠᡥᠠ",
+    "roman_gt": "YABUHA",
+    "manchu_pred": "ᠶᠠᠪᡠᡥᠠ",
+    "roman_pred": "YABUHA",
+    "image_path": "test_00670.png",
+    "inference_time": 1651.9362926483154
+  },
+  {
+    "manchu_gt": "ᡥᠠᡶᠠᠨ",
+    "roman_gt": "HAFAN",
+    "manchu_pred": "ᡥᠠᡶᠠᠨ",
+    "roman_pred": "HAFAN",
+    "image_path": "test_00510.png",
+    "inference_time": 1569.3039894104004
+  },
+  {
+    "manchu_gt": " ᡳᠰᡥᡠᠨ",
+    "roman_gt": "ISHUN",
+    "manchu_pred": "ᡳᠰᡥᡠᠨ",
+    "roman_pred": "ISHUN",
+    "image_path": "test_00571.png",
+    "inference_time": 1649.6295928955078
+  },
+  {
+    "manchu_gt": "ᡩᡝᡵᡳᠪᡠᡥᡝᡴᡡ",
+    "roman_gt": "DERIBUHEKŪ",
+    "manchu_pred": "ᡩᡝᡵᡳᠪᡠᡥᡝᡴᡡ",
+    "roman_pred": "DERIBUHEKŪ",
+    "image_path": "test_00407.png",
+    "inference_time": 2234.9812984466553
+  },
+  {
+    "manchu_gt": "ᠸᡝᠰᡳᠮᠪᡠᡵᡝᠩᡤᡝ",
+    "roman_gt": "WESIMBURENGGE",
+    "manchu_pred": "ᠸᡝᠰᡳᠮᠪᡠᡵᡝᠩᡤᡝ",
+    "roman_pred": "WESIMBURENGGE",
+    "image_path": "test_00608.png",
+    "inference_time": 2489.086389541626
+  },
+  {
+    "manchu_gt": "ᠴᠣᠣᡥᠠᡳ",
+    "roman_gt": "COOHAI",
+    "manchu_pred": "ᠴᠣᠣᡥᠠᡳ",
+    "roman_pred": "COOHAI",
+    "image_path": "test_00004.png",
+    "inference_time": 1651.9131660461426
+  },
+  {
+    "manchu_gt": "ᠵᠠᡳ",
+    "roman_gt": "JAI",
+    "manchu_pred": "ᠵᡳᠩ",
+    "roman_pred": "JING",
+    "image_path": "test_00094.png",
+    "inference_time": 1321.4256763458252
+  },
+  {
+    "manchu_gt": "ᡥᡡᠸᠠᠯᡳᠶᠠᠰᡠᠨ",
+    "roman_gt": "HŪWALIYASUN",
+    "manchu_pred": "ᡥᡡᠸᠠᠯᡳᠶᠠᠰᡠᠨ",
+    "roman_pred": "HŪWALIYASUN",
+    "image_path": "test_00560.png",
+    "inference_time": 2573.8213062286377
+  },
+  {
+    "manchu_gt": "ᠠᠴᠠᠮᠪᡳ",
+    "roman_gt": "ACAMBI",
+    "manchu_pred": "ᠠᠴᠠᠮᠪᡳ",
+    "roman_pred": "ACAMBI",
+    "image_path": "test_00481.png",
+    "inference_time": 1658.1511497497559
+  },
+  {
+    "manchu_gt": "ᡩᡝ",
+    "roman_gt": "DE",
+    "manchu_pred": "ᡩᡝ",
+    "roman_pred": "DE",
+    "image_path": "test_00499.png",
+    "inference_time": 1079.9689292907715
+  },
+  {
+    "manchu_gt": "ᡥᠠᡶᠠᠰᠠ",
+    "roman_gt": "HAFASA",
+    "manchu_pred": "ᡥᠠᡶᠠᠰᠠ",
+    "roman_pred": "HAFASA",
+    "image_path": "test_00323.png",
+    "inference_time": 1652.8072357177734
+  },
+  {
+    "manchu_gt": "ᠣᠪᡠᠸᡳ",
+    "roman_gt": "OBUFI",
+    "manchu_pred": "ᡠᠪᡠᠸᡳ",
+    "roman_pred": "UBUFI",
+    "image_path": "test_00093.png",
+    "inference_time": 1569.0348148345947
+  },
+  {
+    "manchu_gt": "ᡝᠵᡝᠨ",
+    "roman_gt": "EJEN",
+    "manchu_pred": "ᡝᠵᡝᠨ",
+    "roman_pred": "EJEN",
+    "image_path": "test_00627.png",
+    "inference_time": 1406.109094619751
+  },
+  {
+    "manchu_gt": "ᠵᡠᡵᠠᠸᡳ",
+    "roman_gt": "JURAFI",
+    "manchu_pred": "ᠸᡠᡵᠠᠸᡳ",
+    "roman_pred": "FURAFI",
+    "image_path": "test_00635.png",
+    "inference_time": 1735.752820968628
+  },
+  {
+    "manchu_gt": "ᠪᡳᡥᡝ",
+    "roman_gt": "BIHE",
+    "manchu_pred": "ᠪᡳᡥᡝ",
+    "roman_pred": "BIHE",
+    "image_path": "test_00389.png",
+    "inference_time": 1401.8645286560059
+  },
+  {
+    "manchu_gt": "ᠠᠮᠪᠠ",
+    "roman_gt": "AMBA",
+    "manchu_pred": "ᠠᠮᠪᠠ",
+    "roman_pred": "AMBA",
+    "image_path": "test_00397.png",
+    "inference_time": 1319.5264339447021
+  },
+  {
+    "manchu_gt": " ᡳᠯᠠᠴᡳ",
+    "roman_gt": "ILACI",
+    "manchu_pred": "ᡳᠯᠠᠴᡳ",
+    "roman_pred": "ILACI",
+    "image_path": "test_00564.png",
+    "inference_time": 1736.0610961914062
+  },
+  {
+    "manchu_gt": "ᠴᡳᠩ",
+    "roman_gt": "CING",
+    "manchu_pred": "ᠴᡳᠩ",
+    "roman_pred": "CING",
+    "image_path": "test_00032.png",
+    "inference_time": 1322.0653533935547
+  },
+  {
+    "manchu_gt": "ᡩᠠᠪᠠᠯᠠ",
+    "roman_gt": "DABALA",
+    "manchu_pred": "ᡩᠠᡳᠯᠠᠨ",
+    "roman_pred": "DAILAN",
+    "image_path": "test_00386.png",
+    "inference_time": 1651.7226696014404
+  },
+  {
+    "manchu_gt": "ᠰᡝᠮᡝ",
+    "roman_gt": "SEME",
+    "manchu_pred": "ᠰᡝᠮᡝ",
+    "roman_pred": "SEME",
+    "image_path": "test_00364.png",
+    "inference_time": 1319.007158279419
+  },
+  {
+    "manchu_gt": "ᠣᠨᠪᡳᠣ",
+    "roman_gt": "ONBIO",
+    "manchu_pred": "ᠣᠪᡳᠣ",
+    "roman_pred": "OBIO",
+    "image_path": "test_00453.png",
+    "inference_time": 1490.323543548584
+  },
+  {
+    "manchu_gt": "ᠮᠠᠨᠵᡠᡵᠠᠮᡝ",
+    "roman_gt": "MANJURAME",
+    "manchu_pred": "ᠮᠠᠨᠵᡠᡵᠠᠮᡝ",
+    "roman_pred": "MANJURAME",
+    "image_path": "test_00440.png",
+    "inference_time": 1914.4923686981201
+  },
+  {
+    "manchu_gt": "ᡤᠣᠯᠣᠸᡳ",
+    "roman_gt": "GOLOFI",
+    "manchu_pred": "ᡤᠣᠯᠣᠸᡳ",
+    "roman_pred": "GOLOFI",
+    "image_path": "test_00227.png",
+    "inference_time": 1651.353359222412
+  },
+  {
+    "manchu_gt": "ᡥᡝᠩᡴᡳᠯᡝ",
+    "roman_gt": "HENGKILE",
+    "manchu_pred": "ᡥᡝᠩᡴᡳᠯᡝ",
+    "roman_pred": "HENGKILE",
+    "image_path": "test_00369.png",
+    "inference_time": 1816.493034362793
+  },
+  {
+    "manchu_gt": "ᠣᡵᡳᠨ",
+    "roman_gt": "ORIN",
+    "manchu_pred": "ᠣᡵᡳᠨ",
+    "roman_pred": "ORIN",
+    "image_path": "test_00416.png",
+    "inference_time": 1409.7788333892822
+  },
+  {
+    "manchu_gt": "ᠣᠴᡳ",
+    "roman_gt": "OCI",
+    "manchu_pred": "ᠣᠴᡳ",
+    "roman_pred": "OCI",
+    "image_path": "test_00452.png",
+    "inference_time": 1241.6586875915527
+  },
+  {
+    "manchu_gt": "ᡩᠣᠣ",
+    "roman_gt": "DOO",
+    "manchu_pred": "ᡩᠣᠣ",
+    "roman_pred": "DOO",
+    "image_path": "test_00081.png",
+    "inference_time": 1236.3529205322266
+  },
+  {
+    "manchu_gt": "ᡩᠣᠨᠵᡳᠪᡠᠮᡝ",
+    "roman_gt": "DONJIBUME",
+    "manchu_pred": "ᡩᠣᠨᠵᡳᠪᡠᠮᡝ",
+    "roman_pred": "DONJIBUME",
+    "image_path": "test_00613.png",
+    "inference_time": 1988.9092445373535
+  },
+  {
+    "manchu_gt": "ᠸᡝᡳᠯᡝᡵᡝ",
+    "roman_gt": "WEILERE",
+    "manchu_pred": "ᠸᡝᡳᠯᡝᡵᡝ",
+    "roman_pred": "WEILERE",
+    "image_path": "test_00644.png",
+    "inference_time": 1731.7538261413574
+  },
+  {
+    "manchu_gt": "ᡥᡡᠯᠠᡵᠠ",
+    "roman_gt": "HŪLARA",
+    "manchu_pred": "ᡥᡡᠯᠠᡵᠠ",
+    "roman_pred": "HŪLARA",
+    "image_path": "test_00370.png",
+    "inference_time": 1648.592233657837
+  },
+  {
+    "manchu_gt": "ᠰᡠᠴᡠᠩᡤᠠ",
+    "roman_gt": "SUCUNGGA",
+    "manchu_pred": "ᠰᡠᠴᡠᠩᡤᠠ",
+    "roman_pred": "SUCUNGGA",
+    "image_path": "test_00311.png",
+    "inference_time": 1731.0888767242432
+  },
+  {
+    "manchu_gt": "ᠪᠠᡳᡨᠠ",
+    "roman_gt": "BAITA",
+    "manchu_pred": "ᠪᠠᡳᡨᠠ",
+    "roman_pred": "BAITA",
+    "image_path": "test_00450.png",
+    "inference_time": 1649.0025520324707
+  },
+  {
+    "manchu_gt": "ᡨᠣᠸᠣᡥᠣᠨ",
+    "roman_gt": "TOFOHON",
+    "manchu_pred": "ᡨᠣᠸᠣᡥᠣᠨ",
+    "roman_pred": "TOFOHON",
+    "image_path": "test_00052.png",
+    "inference_time": 1728.8305759429932
+  },
+  {
+    "manchu_gt": " ᡳ",
+    "roman_gt": "I",
+    "manchu_pred": "ᡴᡝ",
+    "roman_pred": "KE",
+    "image_path": "test_00684.png",
+    "inference_time": 982.818603515625
+  },
+  {
+    "manchu_gt": "ᠨᡳᠶᠠᡴᡡᡵᠠᠸᡳ",
+    "roman_gt": "NIYAKŪRAFI",
+    "manchu_pred": "ᠨᡳᠶᠠᡴᡡᡵᠠᠸᡳ",
+    "roman_pred": "NIYAKŪRAFI",
+    "image_path": "test_00342.png",
+    "inference_time": 2392.631769180298
+  },
+  {
+    "manchu_gt": "ᡤᡝᠯᡳ",
+    "roman_gt": "GELI",
+    "manchu_pred": "ᡤᡳᠯᡳ",
+    "roman_pred": "GILI",
+    "image_path": "test_00540.png",
+    "inference_time": 1479.119062423706
+  },
+  {
+    "manchu_gt": "ᡩᠠᡩᡝ",
+    "roman_gt": "DADE",
+    "manchu_pred": "ᡩᡝᡩᡝ",
+    "roman_pred": "DEDE",
+    "image_path": "test_00267.png",
+    "inference_time": 1396.1539268493652
+  },
+  {
+    "manchu_gt": "ᡤᠠᡳᠰᡠ",
+    "roman_gt": "GAISU",
+    "manchu_pred": "ᡤᠠᡵᡳᠰᡠ",
+    "roman_pred": "GARISU",
+    "image_path": "test_00106.png",
+    "inference_time": 1650.8898735046387
+  },
+  {
+    "manchu_gt": "ᠯᡳᡳ",
+    "roman_gt": "LII",
+    "manchu_pred": "ᠮᡳᡳ",
+    "roman_pred": "MII",
+    "image_path": "test_00122.png",
+    "inference_time": 1397.348403930664
+  },
+  {
+    "manchu_gt": "ᠮᠠᡴᠰᡳᠮᡝ",
+    "roman_gt": "MAKSIME",
+    "manchu_pred": "ᠮᠠᡴᠰᡳᠮᡝ",
+    "roman_pred": "MAKSIME",
+    "image_path": "test_00396.png",
+    "inference_time": 1734.6937656402588
+  },
+  {
+    "manchu_gt": "ᠨᡳ",
+    "roman_gt": "NI",
+    "manchu_pred": "ᠨᡳ",
+    "roman_pred": "NI",
+    "image_path": "test_00747.png",
+    "inference_time": 1157.6108932495117
+  },
+  {
+    "manchu_gt": "ᠶᠠᠪᡠᡵᡝᠴᡳ",
+    "roman_gt": "YABURECI",
+    "manchu_pred": "ᠶᠠᠪᡠᡵᡝᠴᡳ",
+    "roman_pred": "YABURECI",
+    "image_path": "test_00533.png",
+    "inference_time": 1906.576156616211
+  },
+  {
+    "manchu_gt": "ᠠᡩᠠᠮᡝ",
+    "roman_gt": "ADAME",
+    "manchu_pred": "ᠠᡩᠠᠮᡝ",
+    "roman_pred": "ADAME",
+    "image_path": "test_00384.png",
+    "inference_time": 1490.2398586273193
+  },
+  {
+    "manchu_gt": "ᠠᠯᡳᠮᡝ",
+    "roman_gt": "ALIME",
+    "manchu_pred": "ᠠᠯᡳᠮᡝ",
+    "roman_pred": "ALIME",
+    "image_path": "test_00105.png",
+    "inference_time": 1484.752893447876
+  },
+  {
+    "manchu_gt": "ᠸᠠᡥᠠ",
+    "roman_gt": "WAHA",
+    "manchu_pred": "ᠸᠠᡥᠠ",
+    "roman_pred": "WAHA",
+    "image_path": "test_00266.png",
+    "inference_time": 1318.6628818511963
+  },
+  {
+    "manchu_gt": "ᡨᡠᠴᡳᠸᡳ",
+    "roman_gt": "TUCIFI",
+    "manchu_pred": "ᡨᡠᠴᡳᠸᡳ",
+    "roman_pred": "TUCIFI",
+    "image_path": "test_00347.png",
+    "inference_time": 1735.0740432739258
+  },
+  {
+    "manchu_gt": "ᡠᡴᠠᠮᡝ",
+    "roman_gt": "UKAME",
+    "manchu_pred": "ᡠᡴᠠᠮᡝ",
+    "roman_pred": "UKAME",
+    "image_path": "test_00190.png",
+    "inference_time": 1399.2156982421875
+  },
+  {
+    "manchu_gt": "ᠵᡠᡵᡤᠠᠨ",
+    "roman_gt": "JURGAN",
+    "manchu_pred": "ᠵᡠᡵᡤᠠᠨ",
+    "roman_pred": "JURGAN",
+    "image_path": "test_00645.png",
+    "inference_time": 1567.9116249084473
+  },
+  {
+    "manchu_gt": "ᡠᡵᡤᡠᠨᠵᡝᡵᡝ",
+    "roman_gt": "URGUNJERE",
+    "manchu_pred": "ᡠᡵᡤᡠᠨᠵᡝᡵᡝ",
+    "roman_pred": "URGUNJERE",
+    "image_path": "test_00693.png",
+    "inference_time": 1980.5052280426025
+  },
+  {
+    "manchu_gt": "ᠪᠠᡥᠠ",
+    "roman_gt": "BAHA",
+    "manchu_pred": "ᠪᠠᡥᠠ",
+    "roman_pred": "BAHA",
+    "image_path": "test_00039.png",
+    "inference_time": 1320.0187683105469
+  },
+  {
+    "manchu_gt": "ᡤᡝᠨᡝᠸᡳ",
+    "roman_gt": "GENEFI",
+    "manchu_pred": "ᡤᡝᠨᡝᠸᡳ",
+    "roman_pred": "GENEFI",
+    "image_path": "test_00339.png",
+    "inference_time": 1566.8113231658936
+  },
+  {
+    "manchu_gt": "ᠶᡠᠸᠠᠨ",
+    "roman_gt": "YUWAN",
+    "manchu_pred": "ᠶᡠᠸᠠᠨ",
+    "roman_pred": "YUWAN",
+    "image_path": "test_00188.png",
+    "inference_time": 1565.0794506072998
+  },
+  {
+    "manchu_gt": "ᡨᡝᡵᡝ",
+    "roman_gt": "TERE",
+    "manchu_pred": "ᡨᡝᡵᡝ",
+    "roman_pred": "TERE",
+    "image_path": "test_00403.png",
+    "inference_time": 1315.6406879425049
+  },
+  {
+    "manchu_gt": "ᠨᡳ",
+    "roman_gt": "NI",
+    "manchu_pred": "ᠨᡳ",
+    "roman_pred": "NI",
+    "image_path": "test_00525.png",
+    "inference_time": 1150.266408920288
+  },
+  {
+    "manchu_gt": "ᠪᠠᡵᡠ",
+    "roman_gt": "BARU",
+    "manchu_pred": "ᠪᠠᡵᡠ",
+    "roman_pred": "BARU",
+    "image_path": "test_00189.png",
+    "inference_time": 1314.0816688537598
+  },
+  {
+    "manchu_gt": "ᠵᡳᠸᡳ",
+    "roman_gt": "JIFI",
+    "manchu_pred": "ᠵᡳᠸᡳ",
+    "roman_pred": "JIFI",
+    "image_path": "test_00087.png",
+    "inference_time": 1484.8647117614746
+  },
+  {
+    "manchu_gt": "ᡨᠠᠴᡳᡵᠠᡴᡡ",
+    "roman_gt": "TACIRAKŪ",
+    "manchu_pred": "ᡨᠠᠴᡳᡵᠠᡴᡡ",
+    "roman_pred": "TACIRAKŪ",
+    "image_path": "test_00483.png",
+    "inference_time": 1982.2180271148682
+  },
+  {
+    "manchu_gt": "ᡥᠠᡶᠠᠨ",
+    "roman_gt": "HAFAN",
+    "manchu_pred": "ᡥᠠᡶᠠᠨ",
+    "roman_pred": "HAFAN",
+    "image_path": "test_00005.png",
+    "inference_time": 1568.7038898468018
+  },
+  {
+    "manchu_gt": "ᡝᠯᡤᡳᠶᡝᠨ",
+    "roman_gt": "ELGIYEN",
+    "manchu_pred": "ᡝᠯᡤᡳᠶᡝᠨ",
+    "roman_pred": "ELGIYEN",
+    "image_path": "test_00597.png",
+    "inference_time": 1903.1445980072021
+  },
+  {
+    "manchu_gt": "ᡶᠠᡥᡡᠨ",
+    "roman_gt": "FAHŪN",
+    "manchu_pred": "ᡶᠠᡥᡡᠨ",
+    "roman_pred": "FAHŪN",
+    "image_path": "test_00715.png",
+    "inference_time": 1570.0879096984863
+  },
+  {
+    "manchu_gt": " ᡳᠨᡠ",
+    "roman_gt": "INU",
+    "manchu_pred": "ᡳᠨᡠ",
+    "roman_pred": "INU",
+    "image_path": "test_00442.png",
+    "inference_time": 1403.820514678955
+  },
+  {
+    "manchu_gt": "ᡝᠨᠴᡠᠯᡝᠮᡝ",
+    "roman_gt": "ENCULEME",
+    "manchu_pred": "ᠠᠴᡠᠯᠠᠮᡝ",
+    "roman_pred": "ACULAME",
+    "image_path": "test_00668.png",
+    "inference_time": 1657.6244831085205
+  },
+  {
+    "manchu_gt": "ᡨᡝᠪᡠᡵᡝ",
+    "roman_gt": "TEBURE",
+    "manchu_pred": "ᡨᡝᠪᡠᡵᡝ",
+    "roman_pred": "TEBURE",
+    "image_path": "test_00385.png",
+    "inference_time": 1573.6267566680908
+  },
+  {
+    "manchu_gt": "ᡤᡡᠰᠠ",
+    "roman_gt": "GŪSA",
+    "manchu_pred": "ᡤᡡᠰᠠ",
+    "roman_pred": "GŪSA",
+    "image_path": "test_00332.png",
+    "inference_time": 1401.6659259796143
+  },
+  {
+    "manchu_gt": "ᡨᡝᠨᡨᡝᡴᡝ",
+    "roman_gt": "TENTEKE",
+    "manchu_pred": "ᡨᡝᠨᡨᡝᡴᡝ",
+    "roman_pred": "TENTEKE",
+    "image_path": "test_00359.png",
+    "inference_time": 1730.494737625122
+  },
+  {
+    "manchu_gt": "ᠰᠠᠪᠠᡵᠠ",
+    "roman_gt": "SABARA",
+    "manchu_pred": "ᠰᠠᠪᠠᡵᠠ",
+    "roman_pred": "SABARA",
+    "image_path": "test_00590.png",
+    "inference_time": 1572.4034309387207
+  },
+  {
+    "manchu_gt": "ᠠᠯᠠᡵᠠᡴᡡ",
+    "roman_gt": "ALARAKŪ",
+    "manchu_pred": "ᠮᠠᠯᡳᡵᠠᡴᡡ",
+    "roman_pred": "MALIRAKŪ",
+    "image_path": "test_00504.png",
+    "inference_time": 1896.0981369018555
+  },
+  {
+    "manchu_gt": "ᡴᡳᠴᡝᡴᡳ",
+    "roman_gt": "KICEKI",
+    "manchu_pred": "ᡴᡳᠴᡝᡴᡳ",
+    "roman_pred": "KICEKI",
+    "image_path": "test_00723.png",
+    "inference_time": 1649.7976779937744
+  },
+  {
+    "manchu_gt": "ᡩᠣᡵᠣ",
+    "roman_gt": "DORO",
+    "manchu_pred": "ᡩᠣᡵᠣ",
+    "roman_pred": "DORO",
+    "image_path": "test_00375.png",
+    "inference_time": 1397.6378440856934
+  },
+  {
+    "manchu_gt": "ᡤᡝᠯᡥᡠᠨ",
+    "roman_gt": "GELHUN",
+    "manchu_pred": "ᡤᡝᠯᡥᡠᠨ",
+    "roman_pred": "GELHUN",
+    "image_path": "test_00114.png",
+    "inference_time": 1648.0371952056885
+  },
+  {
+    "manchu_gt": "ᠠᠮᠪᡠᠯᠠ",
+    "roman_gt": "AMBULA",
+    "manchu_pred": "ᠠᠮᠪᡠᠯᠠ",
+    "roman_pred": "AMBULA",
+    "image_path": "test_00170.png",
+    "inference_time": 1561.2211227416992
+  },
+  {
+    "manchu_gt": "ᡤᡳᠣ",
+    "roman_gt": "GIO",
+    "manchu_pred": "ᡤᡳᠣ",
+    "roman_pred": "GIO",
+    "image_path": "test_00123.png",
+    "inference_time": 1320.1732635498047
+  },
+  {
+    "manchu_gt": "ᠰᡝᡵᡝ",
+    "roman_gt": "SERE",
+    "manchu_pred": "ᠰᡝᡵᡝ",
+    "roman_pred": "SERE",
+    "image_path": "test_00301.png",
+    "inference_time": 1326.9131183624268
+  },
+  {
+    "manchu_gt": "ᠠᠪᡴᠠᡳ",
+    "roman_gt": "ABKAI",
+    "manchu_pred": "ᠠᠪᡴᡳ",
+    "roman_pred": "ABKI",
+    "image_path": "test_00615.png",
+    "inference_time": 1400.6576538085938
+  },
+  {
+    "manchu_gt": "ᠰᡝᡵ",
+    "roman_gt": "SER",
+    "manchu_pred": "ᠰᡝᡵ",
+    "roman_pred": "SER",
+    "image_path": "test_00602.png",
+    "inference_time": 1152.0121097564697
+  },
+  {
+    "manchu_gt": "ᡝᡵᡝᠪᡝ",
+    "roman_gt": "EREBE",
+    "manchu_pred": "ᠠᠯᡤᡝ",
+    "roman_pred": "ALGE",
+    "image_path": "test_00689.png",
+    "inference_time": 1313.1968975067139
+  },
+  {
+    "manchu_gt": "ᠸᡝᡵᡝᡧᡝᠮᡝ",
+    "roman_gt": "WEREŠEME",
+    "manchu_pred": "ᠸᡝᡵᡝᡧᡝᠮᡝ",
+    "roman_pred": "WEREŠEME",
+    "image_path": "test_00508.png",
+    "inference_time": 1979.2571067810059
+  },
+  {
+    "manchu_gt": "ᠪᡳᠰᠠᠨ",
+    "roman_gt": "BISAN",
+    "manchu_pred": "ᠪᡳᠰᠠᠨ",
+    "roman_pred": "BISAN",
+    "image_path": "test_00599.png",
+    "inference_time": 1570.8725452423096
+  },
+  {
+    "manchu_gt": "ᠠᠯᠠᠨᠠ",
+    "roman_gt": "ALANA",
+    "manchu_pred": "ᠠᠯᠠᠨᠠ",
+    "roman_pred": "ALANA",
+    "image_path": "test_00221.png",
+    "inference_time": 1401.0825157165527
+  },
+  {
+    "manchu_gt": "ᠴᡳᠩᡤᡳᠶᠠ",
+    "roman_gt": "CINGGIYA",
+    "manchu_pred": "ᠴᡳᠩᠨᡳᠨ",
+    "roman_pred": "CINGNIN",
+    "image_path": "test_00654.png",
+    "inference_time": 1822.732925415039
+  },
+  {
+    "manchu_gt": "ᠵᡠᡵᡤᠠᠨ",
+    "roman_gt": "JURGAN",
+    "manchu_pred": "ᠵᡠᡵᡤᠠᠨ",
+    "roman_pred": "JURGAN",
+    "image_path": "test_00111.png",
+    "inference_time": 1571.1233615875244
+  },
+  {
+    "manchu_gt": "ᡠᠮᡝᠰᡳ",
+    "roman_gt": "UMESI",
+    "manchu_pred": "ᡠᠮᡝᠰᡳ",
+    "roman_pred": "UMESI",
+    "image_path": "test_00475.png",
+    "inference_time": 1568.4700012207031
+  },
+  {
+    "manchu_gt": "ᡝᡩᡝᠨ",
+    "roman_gt": "EDEN",
+    "manchu_pred": "ᡝᡩᡝᠨ",
+    "roman_pred": "EDEN",
+    "image_path": "test_00484.png",
+    "inference_time": 1402.4913311004639
+  },
+  {
+    "manchu_gt": "ᡩᡝ",
+    "roman_gt": "DE",
+    "manchu_pred": "ᡩᡝᠨ",
+    "roman_pred": "DEN",
+    "image_path": "test_00329.png",
+    "inference_time": 1151.0801315307617
+  },
+  {
+    "manchu_gt": "ᠠᠮᠪᠠᠨ",
+    "roman_gt": "AMBAN",
+    "manchu_pred": "ᠠᠮᠪᠠᠨ",
+    "roman_pred": "AMBAN",
+    "image_path": "test_00279.png",
+    "inference_time": 1487.0579242706299
+  },
+  {
+    "manchu_gt": "ᡥᡡᠸᠠᠩᡩᡳ",
+    "roman_gt": "HŪWANGDI",
+    "manchu_pred": "ᡥᡡᠸᠠᠩᡩᡳ",
+    "roman_pred": "HŪWANGDI",
+    "image_path": "test_00277.png",
+    "inference_time": 1986.1104488372803
+  },
+  {
+    "manchu_gt": "ᠮᠠᠩᡤᡳ",
+    "roman_gt": "MANGGI",
+    "manchu_pred": "ᠮᠠᠩᡤᡳ",
+    "roman_pred": "MANGGI",
+    "image_path": "test_00349.png",
+    "inference_time": 1569.021463394165
+  },
+  {
+    "manchu_gt": "ᡠᠴᡠᠪᡠᡵᡝ",
+    "roman_gt": "UCUBURE",
+    "manchu_pred": "ᡠᠴᡠᠪᡠᡵᡝ",
+    "roman_pred": "UCUBURE",
+    "image_path": "test_00717.png",
+    "inference_time": 1653.4874439239502
+  },
+  {
+    "manchu_gt": "ᠨᡳᠩ",
+    "roman_gt": "NING",
+    "manchu_pred": "ᠨᡳᠩ",
+    "roman_pred": "NING",
+    "image_path": "test_00187.png",
+    "inference_time": 1323.9989280700684
+  },
+  {
+    "manchu_gt": "ᠸᠠᠮᡝ",
+    "roman_gt": "WAME",
+    "manchu_pred": "ᠸᠠᠮᡝ",
+    "roman_pred": "WAME",
+    "image_path": "test_00065.png",
+    "inference_time": 1320.218563079834
+  },
+  {
+    "manchu_gt": "ᡩᡠᡩᡠ",
+    "roman_gt": "DUDU",
+    "manchu_pred": "ᡩᡠᡩᡠ",
+    "roman_pred": "DUDU",
+    "image_path": "test_00732.png",
+    "inference_time": 1483.3471775054932
+  },
+  {
+    "manchu_gt": "ᡤᠠᡳᡥᠠ",
+    "roman_gt": "GAIHA",
+    "manchu_pred": "ᡤᠠᡳᡥᠠ",
+    "roman_pred": "GAIHA",
+    "image_path": "test_00611.png",
+    "inference_time": 1574.3839740753174
+  },
+  {
+    "manchu_gt": "ᠣᠴᡳ",
+    "roman_gt": "OCI",
+    "manchu_pred": "ᠣᠴᡳ",
+    "roman_pred": "OCI",
+    "image_path": "test_00583.png",
+    "inference_time": 1238.3620738983154
+  },
+  {
+    "manchu_gt": "ᡠᠩᡤᡳᡥᡝ",
+    "roman_gt": "UNGGIHE",
+    "manchu_pred": "ᡠᠩᡤᡳᡥᡝ",
+    "roman_pred": "UNGGIHE",
+    "image_path": "test_00069.png",
+    "inference_time": 1730.7651042938232
+  },
+  {
+    "manchu_gt": "ᠠᠯᡳᠮᡝ",
+    "roman_gt": "ALIME",
+    "manchu_pred": "ᠠᠯᡳᠮᡝ",
+    "roman_pred": "ALIME",
+    "image_path": "test_00410.png",
+    "inference_time": 1485.2712154388428
+  },
+  {
+    "manchu_gt": "ᠵᡠᠸᠠᠨ",
+    "roman_gt": "JUWAN",
+    "manchu_pred": "ᠵᡠᠸᠠᠨ",
+    "roman_pred": "JUWAN",
+    "image_path": "test_00637.png",
+    "inference_time": 1572.1099376678467
+  },
+  {
+    "manchu_gt": " ᡳᠨᡳ",
+    "roman_gt": "INI",
+    "manchu_pred": "ᡝᡳᠨᡳ",
+    "roman_pred": "EINI",
+    "image_path": "test_00177.png",
+    "inference_time": 1487.6761436462402
+  },
+  {
+    "manchu_gt": "ᠸᡝᠨ",
+    "roman_gt": "WEN",
+    "manchu_pred": "ᠸᡝᠨ",
+    "roman_pred": "WEN",
+    "image_path": "test_00740.png",
+    "inference_time": 1240.2863502502441
+  },
+  {
+    "manchu_gt": "ᡥᠠᠴᡳᡥᡳᠶᠠᡥᠠ",
+    "roman_gt": "HACIHIYAHA",
+    "manchu_pred": "ᡥᠠᠨᠴᡳᡥᡳᠶᠠᡥᠠ",
+    "roman_pred": "HANCIHIYAHA",
+    "image_path": "test_00117.png",
+    "inference_time": 2486.26446723938
+  },
+  {
+    "manchu_gt": "ᠠᠴᠠᠪᡠᠮᠪᡳ",
+    "roman_gt": "ACABUMBI",
+    "manchu_pred": "ᠠᠴᠠᠪᡠᠮᠪᡳ",
+    "roman_pred": "ACABUMBI",
+    "image_path": "test_00586.png",
+    "inference_time": 1902.3330211639404
+  },
+  {
+    "manchu_gt": "ᡩᠠᠴᡳ",
+    "roman_gt": "DACI",
+    "manchu_pred": "ᡩᠠᠴᡳ",
+    "roman_pred": "DACI",
+    "image_path": "test_00372.png",
+    "inference_time": 1403.8431644439697
+  },
+  {
+    "manchu_gt": "ᡧᠠᠩ",
+    "roman_gt": "ŠANG",
+    "manchu_pred": "ᡧᡝᠩ",
+    "roman_pred": "ŠENG",
+    "image_path": "test_00010.png",
+    "inference_time": 1319.5421695709229
+  },
+  {
+    "manchu_gt": "ᡨᠠᠴᡳᠪᡠᡵᡝ",
+    "roman_gt": "TACIBURE",
+    "manchu_pred": "ᡨᠠᠴᡳᠪᡠᡵᡝ",
+    "roman_pred": "TACIBURE",
+    "image_path": "test_00628.png",
+    "inference_time": 1890.3894424438477
+  },
+  {
+    "manchu_gt": "ᡶᠠᡧᡧᠠᠮᡝ",
+    "roman_gt": "FAŠŠAME",
+    "manchu_pred": "ᡶᠠᡧᡧᠠᠮᡝ",
+    "roman_pred": "FAŠŠAME",
+    "image_path": "test_00669.png",
+    "inference_time": 1897.5441455841064
+  },
+  {
+    "manchu_gt": "ᠵᡠᡵᡤᠠᠩᡤᠠ",
+    "roman_gt": "JURGANGGA",
+    "manchu_pred": "ᠵᡠᡵᡤᠠᠩᡤᠠ",
+    "roman_pred": "JURGANGGA",
+    "image_path": "test_00063.png",
+    "inference_time": 1901.2086391448975
+  },
+  {
+    "manchu_gt": "ᠠᠯᠠᠮᠪᡳᡥᡝ",
+    "roman_gt": "ALAMBIHE",
+    "manchu_pred": "ᠠᠮᠠᠮᡳᡥᡝ",
+    "roman_pred": "AMAMIHE",
+    "image_path": "test_00500.png",
+    "inference_time": 1741.2095069885254
+  },
+  {
+    "manchu_gt": "ᠪᡝ",
+    "roman_gt": "BE",
+    "manchu_pred": "ᠪᡝ",
+    "roman_pred": "BE",
+    "image_path": "test_00001.png",
+    "inference_time": 1071.4995861053467
+  },
+  {
+    "manchu_gt": "ᠵᡝᠣ",
+    "roman_gt": "JEO",
+    "manchu_pred": "ᠵᡝᠣ",
+    "roman_pred": "JEO",
+    "image_path": "test_00042.png",
+    "inference_time": 1233.9062690734863
+  },
+  {
+    "manchu_gt": "ᠴᡳ",
+    "roman_gt": "CI",
+    "manchu_pred": "ᠴᡳ",
+    "roman_pred": "CI",
+    "image_path": "test_00634.png",
+    "inference_time": 1152.122974395752
+  },
+  {
+    "manchu_gt": "ᠵᡠᠯᡝᠰᡳ",
+    "roman_gt": "JULESI",
+    "manchu_pred": "ᠵᡠᠯᡝᠰᡳ",
+    "roman_pred": "JULESI",
+    "image_path": "test_00529.png",
+    "inference_time": 1657.9995155334473
+  },
+  {
+    "manchu_gt": "ᡨᡠᠴᡳᠸᡳ",
+    "roman_gt": "TUCIFI",
+    "manchu_pred": "ᡨᡠᠴᡳᠸᡳ",
+    "roman_pred": "TUCIFI",
+    "image_path": "test_00167.png",
+    "inference_time": 1742.9523468017578
+  },
+  {
+    "manchu_gt": "ᡨᡝᡥᡝ",
+    "roman_gt": "TEHE",
+    "manchu_pred": "ᡨᡝᡥᡝ",
+    "roman_pred": "TEHE",
+    "image_path": "test_00076.png",
+    "inference_time": 1320.7037448883057
+  },
+  {
+    "manchu_gt": "ᡤᡡᠯᠮᠠᡥᡡᠨ",
+    "roman_gt": "GŪLMAHŪN",
+    "manchu_pred": "ᡤᡡᠯᠮᠠᡥᡡᠨ",
+    "roman_pred": "GŪLMAHŪN",
+    "image_path": "test_00313.png",
+    "inference_time": 2073.4775066375732
+  },
+  {
+    "manchu_gt": "ᡩᠣᡵᠣ",
+    "roman_gt": "DORO",
+    "manchu_pred": "ᡩᠣᡵᠣ",
+    "roman_pred": "DORO",
+    "image_path": "test_00296.png",
+    "inference_time": 1405.656099319458
+  },
+  {
+    "manchu_gt": "ᡠᠯᡴᡳᠶᡝᠨ",
+    "roman_gt": "ULKIYEN",
+    "manchu_pred": "ᡠᠯᡴᡳᠶᡝᠨ",
+    "roman_pred": "ULKIYEN",
+    "image_path": "test_00502.png",
+    "inference_time": 1909.8670482635498
+  },
+  {
+    "manchu_gt": "ᡨᠠᠩᡤᡳᠨ",
+    "roman_gt": "TANGGIN",
+    "manchu_pred": "ᡨᠠᠩᡤᡳᠨ",
+    "roman_pred": "TANGGIN",
+    "image_path": "test_00490.png",
+    "inference_time": 1663.221836090088
+  },
+  {
+    "manchu_gt": "ᠠᡴᡩᡠᠯᠠᡴᡳᠨᡳ",
+    "roman_gt": "AKDULAKINI",
+    "manchu_pred": "ᠠᡴᡩᡠᠯᠠᡴᡳᠨᡳ",
+    "roman_pred": "AKDULAKINI",
+    "image_path": "test_00543.png",
+    "inference_time": 2324.0907192230225
+  },
+  {
+    "manchu_gt": "ᠮᡠᠩᡤᠠᠨ",
+    "roman_gt": "MUNGGAN",
+    "manchu_pred": "ᠮᡠᠩᡤᠠᠨ",
+    "roman_pred": "MUNGGAN",
+    "image_path": "test_00641.png",
+    "inference_time": 1663.5499000549316
+  },
+  {
+    "manchu_gt": "ᠵᡳᡵᠠᠮᡳᠨ",
+    "roman_gt": "JIRAMIN",
+    "manchu_pred": "ᠵᡳᡵᠠᠮᡳᠨ",
+    "roman_pred": "JIRAMIN",
+    "image_path": "test_00705.png",
+    "inference_time": 1911.5827083587646
+  },
+  {
+    "manchu_gt": "ᡥᡝᠩᡴᡳᠯᡝᡵᡝ",
+    "roman_gt": "HENGKILERE",
+    "manchu_pred": "ᡥᡝᠩᡴᡳᠯᡝᡵᡝ",
+    "roman_pred": "HENGKILERE",
+    "image_path": "test_00617.png",
+    "inference_time": 2077.1992206573486
+  },
+  {
+    "manchu_gt": "ᠪᡠᠴᡝᠮᠪᡳ",
+    "roman_gt": "BUCEMBI",
+    "manchu_pred": "ᠪᡠᠴᡝᠮᠪᡳ",
+    "roman_pred": "BUCEMBI",
+    "image_path": "test_00290.png",
+    "inference_time": 1824.4390487670898
+  },
+  {
+    "manchu_gt": "ᠠᡵᠠᡳ",
+    "roman_gt": "ARAI",
+    "manchu_pred": "ᠠᡵᠠᡳ",
+    "roman_pred": "ARAI",
+    "image_path": "test_00212.png",
+    "inference_time": 1488.7893199920654
+  },
+  {
+    "manchu_gt": " ᡳᠰᡳᠨᠠᠸᡳ",
+    "roman_gt": "ISINAFI",
+    "manchu_pred": "ᡳᠰᡳᠨᠠᠸᡳ",
+    "roman_pred": "ISINAFI",
+    "image_path": "test_00555.png",
+    "inference_time": 2071.150064468384
+  },
+  {
+    "manchu_gt": "ᡥᡠᡴᡧᡝᠮᡝ",
+    "roman_gt": "HUKŠEME",
+    "manchu_pred": "ᡥᡠᡴᡧᡝᠮᡝ",
+    "roman_pred": "HUKŠEME",
+    "image_path": "test_00726.png",
+    "inference_time": 1908.3826541900635
+  },
+  {
+    "manchu_gt": "ᡥᡡᠰᡠᠨ",
+    "roman_gt": "HŪSUN",
+    "manchu_pred": "ᡥᡡᠰᡠᠨ",
+    "roman_pred": "HŪSUN",
+    "image_path": "test_00672.png",
+    "inference_time": 1573.4777450561523
+  },
+  {
+    "manchu_gt": " ᡳᠨᡝᠩᡤᡳ",
+    "roman_gt": "INENGGI",
+    "manchu_pred": "ᡳᠨᡝᠩᡤᡳ",
+    "roman_pred": "INENGGI",
+    "image_path": "test_00317.png",
+    "inference_time": 1905.250072479248
+  },
+  {
+    "manchu_gt": " ᡳᠯᠠᠨ",
+    "roman_gt": "ILAN",
+    "manchu_pred": "ᡳᠯᠠᠨ",
+    "roman_pred": "ILAN",
+    "image_path": "test_00057.png",
+    "inference_time": 1489.2182350158691
+  },
+  {
+    "manchu_gt": " ᡳᠰᡥᡠᠨ",
+    "roman_gt": "ISHUN",
+    "manchu_pred": "ᡳᠰᡥᡠᠨ",
+    "roman_pred": "ISHUN",
+    "image_path": "test_00535.png",
+    "inference_time": 1657.63521194458
+  },
+  {
+    "manchu_gt": "ᠸᠣᠨᡩᡝ",
+    "roman_gt": "FONDE",
+    "manchu_pred": "ᠸᠣᠨᡩᡝ",
+    "roman_pred": "FONDE",
+    "image_path": "test_00272.png",
+    "inference_time": 1575.7970809936523
+  },
+  {
+    "manchu_gt": "ᠵᡝᡵᡤᡳ",
+    "roman_gt": "JERGI",
+    "manchu_pred": "ᠵᡝᡵᡤᡳ",
+    "roman_pred": "JERGI",
+    "image_path": "test_00015.png",
+    "inference_time": 1574.061632156372
+  },
+  {
+    "manchu_gt": "ᡩᠣᡵᡤᡳ",
+    "roman_gt": "DORGI",
+    "manchu_pred": "ᡩᠣᡵᡤᡳ",
+    "roman_pred": "DORGI",
+    "image_path": "test_00432.png",
+    "inference_time": 1574.296474456787
+  },
+  {
+    "manchu_gt": "ᡝᠶᡝᠸᡳ",
+    "roman_gt": "EYEFI",
+    "manchu_pred": "ᡝᠶᡝᠸᡳ",
+    "roman_pred": "EYEFI",
+    "image_path": "test_00503.png",
+    "inference_time": 1658.6756706237793
+  },
+  {
+    "manchu_gt": "ᡝᡵᡝ",
+    "roman_gt": "ERE",
+    "manchu_pred": "ᡝᡵᡝ",
+    "roman_pred": "ERE",
+    "image_path": "test_00621.png",
+    "inference_time": 1242.3102855682373
+  },
+  {
+    "manchu_gt": "ᠪᠠᠪᡝ",
+    "roman_gt": "BABE",
+    "manchu_pred": "ᠪᠠᠪᡝ",
+    "roman_pred": "BABE",
+    "image_path": "test_00137.png",
+    "inference_time": 1325.0048160552979
+  },
+  {
+    "manchu_gt": "ᠠᠪᡴᠠᡳ",
+    "roman_gt": "ABKAI",
+    "manchu_pred": "ᠠᠪᡴᠠ",
+    "roman_pred": "ABKA",
+    "image_path": "test_00702.png",
+    "inference_time": 1327.8663158416748
+  },
+  {
+    "manchu_gt": "ᠪᡳᠰᡳᡵᡝ",
+    "roman_gt": "BISIRE",
+    "manchu_pred": "ᠪᡳᠰᡳᡵᡝᠨ",
+    "roman_pred": "BISIREN",
+    "image_path": "test_00287.png",
+    "inference_time": 1920.6600189208984
+  },
+  {
+    "manchu_gt": "ᠮᡠᡨᡝᡵᠠᡴᡡ",
+    "roman_gt": "MUTERAKŪ",
+    "manchu_pred": "ᠮᡠᡨᡝᡵᠠᡴᡡ",
+    "roman_pred": "MUTERAKŪ",
+    "image_path": "test_00451.png",
+    "inference_time": 1918.2157516479492
+  },
+  {
+    "manchu_gt": "ᡝᡵᡝᠴᡳ",
+    "roman_gt": "ERECI",
+    "manchu_pred": "ᡳᡵᡝᠴᡳ",
+    "roman_pred": "IRECI",
+    "image_path": "test_00528.png",
+    "inference_time": 1567.3654079437256
+  },
+  {
+    "manchu_gt": "ᡠᡴᠠᠮᠪᡳ",
+    "roman_gt": "UKAMBI",
+    "manchu_pred": "ᡠᡴᠠᠮᠪᡳ",
+    "roman_pred": "UKAMBI",
+    "image_path": "test_00300.png",
+    "inference_time": 1646.1091041564941
+  },
+  {
+    "manchu_gt": "ᠠᠨᡳᠶᠠ",
+    "roman_gt": "ANIYA",
+    "manchu_pred": "ᠠᠨᡳᠶᠠ",
+    "roman_pred": "ANIYA",
+    "image_path": "test_00622.png",
+    "inference_time": 1653.8467407226562
+  },
+  {
+    "manchu_gt": "ᠠᠮᠪᠠᠰᠠ",
+    "roman_gt": "AMBASA",
+    "manchu_pred": "ᠠᠮᠪᠠᠰᠠ",
+    "roman_pred": "AMBASA",
+    "image_path": "test_00195.png",
+    "inference_time": 1576.9968032836914
+  },
+  {
+    "manchu_gt": "ᠠᡶᠠᠮᡝ",
+    "roman_gt": "AFAME",
+    "manchu_pred": "ᠠᡶᠠᠮᡝ",
+    "roman_pred": "AFAME",
+    "image_path": "test_00034.png",
+    "inference_time": 1494.5476055145264
+  },
+  {
+    "manchu_gt": "ᡠᠵᡳᡥᡝ",
+    "roman_gt": "UJIHE",
+    "manchu_pred": "ᡠᠵᡳᡥᡝ",
+    "roman_pred": "UJIHE",
+    "image_path": "test_00286.png",
+    "inference_time": 1575.3271579742432
+  },
+  {
+    "manchu_gt": "ᠠᠨᡳᠶᠠ",
+    "roman_gt": "ANIYA",
+    "manchu_pred": "ᠠᠨᡳᠶᠠ",
+    "roman_pred": "ANIYA",
+    "image_path": "test_00314.png",
+    "inference_time": 1660.7091426849365
+  },
+  {
+    "manchu_gt": "ᡥᠠᠴᡳᠨ",
+    "roman_gt": "HACIN",
+    "manchu_pred": "ᡥᠠᠴᡳᠨ",
+    "roman_pred": "HACIN",
+    "image_path": "test_00547.png",
+    "inference_time": 1587.519645690918
+  },
+  {
+    "manchu_gt": "ᡤᡡᠰᠠᡳ",
+    "roman_gt": "GŪSAI",
+    "manchu_pred": "ᡤᡡᠰᠠᡳ",
+    "roman_pred": "GŪSAI",
+    "image_path": "test_00333.png",
+    "inference_time": 1668.7452793121338
+  },
+  {
+    "manchu_gt": "ᠠᡩᠠᡥᠠᡳ",
+    "roman_gt": "ADAHAI",
+    "manchu_pred": "ᠠᡩᠠᡥᠠᡳ",
+    "roman_pred": "ADAHAI",
+    "image_path": "test_00182.png",
+    "inference_time": 1736.6602420806885
+  },
+  {
+    "manchu_gt": "ᠮᡳᠩ",
+    "roman_gt": "MING",
+    "manchu_pred": "ᠮᡳᠩ",
+    "roman_pred": "MING",
+    "image_path": "test_00049.png",
+    "inference_time": 1323.2781887054443
+  },
+  {
+    "manchu_gt": "ᡠᡵᡝᠪᡠᠮᡝ",
+    "roman_gt": "UREBUME",
+    "manchu_pred": "ᡠᡵᡝᠪᡠᠮᡝ",
+    "roman_pred": "UREBUME",
+    "image_path": "test_00518.png",
+    "inference_time": 1743.1373596191406
+  },
+  {
+    "manchu_gt": "ᡤᡝᡵᡝᠨ",
+    "roman_gt": "GEREN",
+    "manchu_pred": "ᡤᡝᡵᡝᠨ",
+    "roman_pred": "GEREN",
+    "image_path": "test_00102.png",
+    "inference_time": 1451.1463642120361
+  },
+  {
+    "manchu_gt": "ᠪᠠᡥᠠᠸᡳ",
+    "roman_gt": "BAHAFI",
+    "manchu_pred": "ᠪᠠᡥᠠᠸᡳ",
+    "roman_pred": "BAHAFI",
+    "image_path": "test_00687.png",
+    "inference_time": 1752.807378768921
+  },
+  {
+    "manchu_gt": "ᠮᠠᠨᠵᡠ",
+    "roman_gt": "MANJU",
+    "manchu_pred": "ᠮᠠᠨᠵᡠ",
+    "roman_pred": "MANJU",
+    "image_path": "test_00651.png",
+    "inference_time": 1472.2824096679688
+  },
+  {
+    "manchu_gt": "ᡩᡝᠩ",
+    "roman_gt": "DENG",
+    "manchu_pred": "ᡩᡝᠩ",
+    "roman_pred": "DENG",
+    "image_path": "test_00041.png",
+    "inference_time": 1222.7144241333008
+  },
+  {
+    "manchu_gt": "ᡨᡠᠸᠠᠪᡠᡵᡝ",
+    "roman_gt": "TUWABURE",
+    "manchu_pred": "ᡨᡠᠸᠠᠪᡠᡵᡝ",
+    "roman_pred": "TUWABURE",
+    "image_path": "test_00553.png",
+    "inference_time": 1803.3761978149414
+  },
+  {
+    "manchu_gt": "ᡥᡡᠯᠠᡥᠠ",
+    "roman_gt": "HŪLAHA",
+    "manchu_pred": "ᡥᡡᠯᠠᡥᠠ",
+    "roman_pred": "HŪLAHA",
+    "image_path": "test_00366.png",
+    "inference_time": 1638.9224529266357
+  },
+  {
+    "manchu_gt": "ᡨᡠᠯᡤᡳᠶᡝᠨ",
+    "roman_gt": "TULGIYEN",
+    "manchu_pred": "ᡨᡠᠯᡤᡳᠶᡝᠨ",
+    "roman_pred": "TULGIYEN",
+    "image_path": "test_00534.png",
+    "inference_time": 2070.476531982422
+  },
+  {
+    "manchu_gt": "ᠪᠠᡥᠠᠸᡳ",
+    "roman_gt": "BAHAFI",
+    "manchu_pred": "ᠪᠠᡥᠠᠸᡳ",
+    "roman_pred": "BAHAFI",
+    "image_path": "test_00275.png",
+    "inference_time": 1742.3138618469238
+  },
+  {
+    "manchu_gt": "ᠮᡳᠨᡩᡝ",
+    "roman_gt": "MINDE",
+    "manchu_pred": "ᠮᠠᠨᡩᡝ",
+    "roman_pred": "MANDE",
+    "image_path": "test_00675.png",
+    "inference_time": 1478.4135818481445
+  },
+  {
+    "manchu_gt": "ᡨᠣᠩᡴᡳ",
+    "roman_gt": "TONGKI",
+    "manchu_pred": "ᡨᠣᠩᡴᡳ",
+    "roman_pred": "TONGKI",
+    "image_path": "test_00303.png",
+    "inference_time": 1571.2196826934814
+  },
+  {
+    "manchu_gt": "ᠠᡳ",
+    "roman_gt": "AI",
+    "manchu_pred": "ᠠᡳ",
+    "roman_pred": "AI",
+    "image_path": "test_00113.png",
+    "inference_time": 1164.5264625549316
+  },
+  {
+    "manchu_gt": "ᡨᡝᡳᠯᡝ",
+    "roman_gt": "TEILE",
+    "manchu_pred": "ᡨᡝᡳᠯᡝ",
+    "roman_pred": "TEILE",
+    "image_path": "test_00437.png",
+    "inference_time": 1492.4616813659668
+  },
+  {
+    "manchu_gt": "ᠠᠰᡠᡵᡠ",
+    "roman_gt": "ASURU",
+    "manchu_pred": "ᠠᠰᡠᡵᡠ",
+    "roman_pred": "ASURU",
+    "image_path": "test_00491.png",
+    "inference_time": 1492.4976825714111
+  },
+  {
+    "manchu_gt": "ᡝᡵᡝᠪᡝ",
+    "roman_gt": "EREBE",
+    "manchu_pred": "ᡳᡵᡝᠪᡝ",
+    "roman_pred": "IREBE",
+    "image_path": "test_00526.png",
+    "inference_time": 1494.4407939910889
+  },
+  {
+    "manchu_gt": "ᡶᠠᠴᡠᡥᡡᡵᠠᠸᡳ",
+    "roman_gt": "FACUHŪRAFI",
+    "manchu_pred": "ᡶᠠᠨᠴᡠᡥᡡᡵᠠᠸᡳ",
+    "roman_pred": "FANCUHŪRAFI",
+    "image_path": "test_00141.png",
+    "inference_time": 2378.9610862731934
+  },
+  {
+    "manchu_gt": "ᡴᡝᠰᡳ",
+    "roman_gt": "KESI",
+    "manchu_pred": "ᡴᡝᠰᡳ",
+    "roman_pred": "KESI",
+    "image_path": "test_00706.png",
+    "inference_time": 1381.6542625427246
+  },
+  {
+    "manchu_gt": " ᡳᠴᡳᡥᡳᠶᠠᡵᠠᠩᡤᡝ",
+    "roman_gt": "ICIHIYARANGGE",
+    "manchu_pred": "ᡳᠴᡳᡥᡳᠶᠠᡵᠠᠩᡤᡝ",
+    "roman_pred": "ICIHIYARANGGE",
+    "image_path": "test_00548.png",
+    "inference_time": 2778.4581184387207
+  },
+  {
+    "manchu_gt": "ᡨᡠᡧᠠᠨ",
+    "roman_gt": "TUŠAN",
+    "manchu_pred": "ᡨᡠᡧᠠᠨ",
+    "roman_pred": "TUŠAN",
+    "image_path": "test_00609.png",
+    "inference_time": 1550.8856773376465
+  },
+  {
+    "manchu_gt": "ᡥᡠᠵᡠᠸᡳ",
+    "roman_gt": "HUJUFI",
+    "manchu_pred": "ᡥᡠᠵᡠᠸᡳ",
+    "roman_pred": "HUJUFI",
+    "image_path": "test_00648.png",
+    "inference_time": 1810.9931945800781
+  }
+]

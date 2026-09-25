@@ -1,0 +1,56 @@
+# Default configuration is required and will be loaded first. Model-specific configurations will override default settings when provided.
+#
+# Three eval splits are reported in the paper:
+#   - validation   — 1000 seeded samples from mic7ch/manchu-2025-0033 validation
+#   - real_val     — 1000 seeded samples from a held-out real-image set built from
+#                    HenryKingCN/scidb_manchu_v2 (loaded from local data/real_val/labels.json
+#                    via src/utils/dataset.py::load_split). This is the "real_val" 1000-sample
+#                    column in paper tables.
+#   - test         — 753 samples = full mic7ch/manchu-2025-0033 test split (paper's reported test)
+
+default:
+  validation:
+    num_samples: 1000
+  real_val:
+    num_samples: 1000
+  test:
+    num_samples: 753
+    step_num: best
+
+models:
+  # LLaMA family
+  - llama-final
+  - llama-step1-syn
+  - llama-step1-real
+  - llama-mix
+  # Pixtral family
+  - pixtral-final
+  - pixtral-step1-syn
+  - pixtral-step1-real
+  - pixtral-mix
+  # Qwen family
+  - qwen-final
+  - qwen-step1-syn
+  - qwen-step1-real
+  - qwen-mix
+  # CRNN family
+  - crnn-final
+  - crnn-step1-syn
+  - crnn-step1-real
+  - crnn-mix
+
+# CRNN family (sweep all checkpoints — picks best by manchu_word_accuracy)
+crnn-final: &crnn-eval
+  validation:
+    num_samples: 1000
+    step_num: best
+  real_val:
+    num_samples: 1000
+    step_num: best
+  test:
+    num_samples: 753
+    step_num: best
+
+crnn-step1-syn: *crnn-eval
+crnn-step1-real: *crnn-eval
+crnn-mix: *crnn-eval

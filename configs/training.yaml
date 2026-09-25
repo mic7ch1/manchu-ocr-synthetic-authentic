@@ -1,0 +1,237 @@
+# Default configuration is required and will be loaded first. Model-specific configurations will override default settings when provided.
+#
+# IMPORTANT — actual canonical training used the following CLI overrides:
+#   --bf16 --grad_accum 1
+# Which means effective batch = 4 ranks × per_device_train_batch_size (4) × grad_accum (1) = 16.
+# The defaults below have been set to match — any consumer running `python scripts/train.py`
+# will reproduce the published runs without needing to remember to pass --bf16 / --grad_accum.
+default:
+  training:
+    per_device_train_batch_size: 4
+    gradient_accumulation_steps: 1
+    warmup_steps: 100
+    num_train_epochs: 6
+    learning_rate: 2.0e-4
+    eval_strategy: "no"
+    eval_steps: 1000
+    fp16: false
+    bf16: true
+    logging_steps: 100
+    optim: "paged_adamw_8bit"
+    weight_decay: 0.01
+    lr_scheduler_type: "cosine_with_restarts"
+    seed: 3407
+    remove_unused_columns: false
+    dataset_text_field: ""
+    report_to: tensorboard
+    logging_dir: "logs"
+    dataset_kwargs:
+      skip_prepare_dataset: true
+    dataset_num_proc: 8
+    dataloader_num_workers: 4
+    max_seq_length: 1536
+    load_best_model_at_end: false
+    save_strategy: "steps"
+    save_steps: 500
+    save_total_limit: 50  # was 10 — increased to preserve every save for post-hoc val selection
+    metric_for_best_model: "manchu_cer"
+    greater_is_better: false
+
+  loading:
+    load_in_4bit: true
+    load_in_8bit: false
+    use_gradient_checkpointing: unsloth
+    attn_implementation: eager
+
+  peft:
+    finetune_vision_layers: true
+    finetune_language_layers: true
+    finetune_attention_modules: true
+    finetune_mlp_modules: true
+    r: 32
+    lora_alpha: 64
+    lora_dropout: 0.05
+    bias: "none"
+    random_state: 3407
+    use_rslora: false
+    use_gradient_checkpointing: false
+    loftq_config: null
+    target_modules:
+      [
+        "q_proj",
+        "k_proj",
+        "v_proj",
+        "o_proj",
+        "gate_proj",
+        "up_proj",
+        "down_proj",
+      ]
+
+# LLaMA family
+llama-final:
+  training:
+    warmup_steps: 1000
+    learning_rate: 1.0e-4
+    num_train_epochs: 5
+  loading:
+    use_gradient_checkpointing: unsloth
+  peft:
+    use_gradient_checkpointing: unsloth
+
+llama-step1-syn:
+  training:
+    warmup_steps: 1000
+    learning_rate: 1.0e-4
+    num_train_epochs: 5
+  loading:
+    use_gradient_checkpointing: unsloth
+  peft:
+    use_gradient_checkpointing: unsloth
+
+llama-step1-real:
+  training:
+    warmup_steps: 1000
+    learning_rate: 1.0e-4
+    num_train_epochs: 5
+  loading:
+    use_gradient_checkpointing: unsloth
+  peft:
+    use_gradient_checkpointing: unsloth
+
+llama-mix:
+  training:
+    warmup_steps: 1000
+    learning_rate: 1.0e-4
+    num_train_epochs: 5
+  loading:
+    use_gradient_checkpointing: unsloth
+  peft:
+    use_gradient_checkpointing: unsloth
+
+# Pixtral family (aligned with LLaMA for fair cross-family comparison:
+# peft-level gradient checkpointing enabled)
+pixtral-final:
+  training:
+    warmup_steps: 1000
+    learning_rate: 1.0e-4
+    num_train_epochs: 5
+  loading:
+    use_gradient_checkpointing: unsloth
+  peft:
+    use_gradient_checkpointing: unsloth
+
+pixtral-step1-syn:
+  training:
+    warmup_steps: 1000
+    learning_rate: 1.0e-4
+    num_train_epochs: 5
+  loading:
+    use_gradient_checkpointing: unsloth
+  peft:
+    use_gradient_checkpointing: unsloth
+
+pixtral-step1-real:
+  training:
+    warmup_steps: 1000
+    learning_rate: 1.0e-4
+    num_train_epochs: 5
+  loading:
+    use_gradient_checkpointing: unsloth
+  peft:
+    use_gradient_checkpointing: unsloth
+
+pixtral-mix:
+  training:
+    warmup_steps: 1000
+    learning_rate: 1.0e-4
+    num_train_epochs: 5
+  loading:
+    use_gradient_checkpointing: unsloth
+  peft:
+    use_gradient_checkpointing: unsloth
+
+# Qwen family (aligned with LLaMA/Pixtral for fair cross-family comparison)
+qwen-final:
+  training:
+    warmup_steps: 1000
+    learning_rate: 1.0e-4
+    num_train_epochs: 5
+  loading:
+    use_gradient_checkpointing: unsloth
+  peft:
+    use_gradient_checkpointing: unsloth
+
+qwen-step1-syn:
+  training:
+    warmup_steps: 1000
+    learning_rate: 1.0e-4
+    num_train_epochs: 5
+  loading:
+    use_gradient_checkpointing: unsloth
+  peft:
+    use_gradient_checkpointing: unsloth
+
+qwen-step1-real:
+  training:
+    warmup_steps: 1000
+    learning_rate: 1.0e-4
+    num_train_epochs: 5
+  loading:
+    use_gradient_checkpointing: unsloth
+  peft:
+    use_gradient_checkpointing: unsloth
+
+qwen-mix:
+  training:
+    warmup_steps: 1000
+    learning_rate: 1.0e-4
+    num_train_epochs: 5
+  loading:
+    use_gradient_checkpointing: unsloth
+  peft:
+    use_gradient_checkpointing: unsloth
+
+
+
+# CRNN family (hyperparameters copied verbatim from
+# github.com/mic7ch1/ManchuAI-OCR — the prior crnn-base run that
+# is published as mic7ch/manchu-ocr-crnn-base on HF).
+# All four data variants (step1-syn / step1-real / mix / final) share
+# the same architecture + optimizer settings to isolate the effect of
+# training-data composition (parallel to the VLM family setup).
+crnn-step1-syn: &crnn-base
+  training:
+    # CTC input. false = recipe used for all reported CRNN runs (raw output-layer
+    # activations passed to CTCLoss); true = log_softmax applied before CTCLoss.
+    ctc_log_softmax: false
+    num_train_epochs: 100
+    input_height: 64
+    input_width: 480
+    batch_size: 16
+    num_workers: 4
+    learning_rate: 1.0e-3
+    hidden_size: 256
+    dropout: 0.3
+    max_text_length: 64
+    save_every_n_epochs: 1
+    display_every_n_steps: 100
+    warmup_epochs: 5
+    mixed_precision: true
+    optimizer:
+      type: "AdamW"
+      lr: 1.0e-3
+      betas: [0.9, 0.999]
+      weight_decay: 0.05
+      eps: 1.0e-8
+    scheduler:
+      type: "CosineAnnealingWarmRestarts"
+      T_0: 10
+      T_mult: 2
+      eta_min: 1.0e-6
+      last_epoch: -1
+    gradient_clipping:
+      max_norm: 1.0
+
+crnn-step1-real: *crnn-base
+crnn-mix: *crnn-base
+crnn-final: *crnn-base

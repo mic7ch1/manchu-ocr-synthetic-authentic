@@ -1,0 +1,17 @@
+model,disk_name,family,rv_peak_step,rv_peak_real_val_WA,rv_peak_real_val_CER,rv_peak_test_WA,rv_peak_val_WA,protocol
+llama-final,llama-final-v2-rv3359,vlm,6000,98.809,0.00805,96.282,91.680,full3359_seedless_D3tiebreak
+crnn-step1-real,crnn-step1-real-rv3359,crnn,92710,99.315,0.00164,95.883,67.660,full3359_seedless_D3tiebreak
+crnn-final,crnn-final-rv3359,crnn,19050,99.137,0.00381,95.75,76.913,full3359_seedless_D3tiebreak
+pixtral-final,pixtral-final-rv3359,vlm,5500,99.077,0.00753,95.75,89.327,full3359_seedless_D3tiebreak
+crnn-mix,crnn-mix-rv3359,crnn,346380,99.345,0.00148,95.485,99.393,full3359_seedless_D3tiebreak
+llama-mix,llama-mix-v2-rv3359,vlm,19000,98.184,0.01025,95.086,97.913,full3359_seedless_D3tiebreak
+pixtral-mix,pixtral-mix-v5-rv3359,vlm,23000,98.898,0.00801,95.086,99.107,full3359_seedless_D3tiebreak
+llama-step1-real,llama-step1-real-v2-rv3359,vlm,5500,98.124,0.01062,91.235,52.413,full3359_seedless_D3tiebreak
+pixtral-step1-real,pixtral-step1-real-rv3359,vlm,6350,98.452,0.00936,89.11,42.787,full3359_seedless_D3tiebreak
+llama-step1-syn,llama-step1-syn-v2-rv3359,vlm,17000,87.854,0.03968,87.915,98.080,full3359_seedless_D3tiebreak
+qwen-final,qwen-final-rv3359,vlm,6000,95.624,0.01702,86.985,72.527,full3359_seedless_D3tiebreak
+qwen-mix,qwen-mix-v2-rv3359,vlm,21500,95.326,0.01877,85.392,94.653,full3359_seedless_D3tiebreak
+pixtral-step1-syn,pixtral-step1-syn-v2-rv3359,vlm,12000,84.817,0.04706,81.939,98.220,full3359_seedless_D3tiebreak
+qwen-step1-real,qwen-step1-real-rv3359,vlm,6000,92.2,0.03213,70.916,15.100,full3359_seedless_D3tiebreak
+crnn-step1-syn,crnn-step1-syn-rv3359,crnn,367500,73.742,0.07888,64.276,98.747,full3359_seedless_D3tiebreak
+qwen-step1-syn,qwen-step1-syn-v2-rv3359,vlm,18500,69.783,0.10762,62.417,93.647,full3359_seedless_D3tiebreak
