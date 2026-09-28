@@ -244,7 +244,7 @@ data_routing:
 
 models:
   - name: llama-final
-    base_model: local:models/VLM/llama-step1-syn/checkpoints/checkpoint-14000
+    base_model: local:models/VLM/llama-step1-syn-v2/checkpoints/checkpoint-17000
     model_class: VLM
   - name: llama-step1-syn
     base_model: unsloth/Llama-3.2-11B-Vision-Instruct
