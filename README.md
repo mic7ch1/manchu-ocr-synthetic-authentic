@@ -416,7 +416,7 @@ If you use this code or these files, please cite:
 
 ```bibtex
 @misc{manchu-ocr-synthetic-authentic-2026,
-  author       = {mic7ch},
+  author       = {Chung, Yan Hon Michael and Wang, Hanlin},
   title        = {Building OCR for Low-Resource Historical Collections:
                   Synthetic and Authentic Training Data in Manchu
                   (code, splits, and prediction files)},
